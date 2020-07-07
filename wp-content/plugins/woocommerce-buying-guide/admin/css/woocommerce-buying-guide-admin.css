@@ -1,0 +1,682 @@
+.general h2 {
+	background: #03A9F4;
+	color: #FFFFFF;
+}
+
+.choice, .add-choice {
+	width: 22%;
+	float:left;
+	margin-right: 2%;
+}
+
+@media(max-width: 1600px) {
+	.choice, .add-choice {
+		width: 28%;
+		margin-right: 1%;
+	}
+}
+
+@media(max-width: 1200px) {
+	.choice, .add-choice {
+		width: 42%;
+	}
+}
+
+.choice h2{
+	background: #03A9F4;
+	color: #FFF;
+}
+
+.question .toggle-indicator:before, .choice .toggle-indicator:before {
+	color: #FFF;
+	content: "\f335" !important;
+}
+
+.question h2 {
+    background-color: #3F51B5;
+    color: #FFF;
+}
+
+.add-choice {
+	float: left;
+    left: -150px;
+    top: 150px;
+    width: 200px;
+    position: initial;
+    cursor: pointer;
+    background: #FF5722;
+}
+
+.add-question {
+	background: #4CAF50;
+	cursor: pointer;
+}
+
+.add-choice .hndle.ui-sortable-handle, .add-question .hndle.ui-sortable-handle {
+	cursor: pointer;
+}
+
+.add-choice .inside, .add-choice .handlediv, .add-question .inside, .add-question .handlediv {
+	display: none;
+}
+
+.js .add-choice.postbox .handlediv, .js .add-question.postbox .handlediv, .js .general.postbox .handlediv {
+	display: none;
+}
+
+.add-choice h2, .add-question h2 {
+	width: 100%;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.break {
+	display: block;
+	float: none;
+	clear: both;
+	visibility: hidden;
+	margin: 0 !important;
+	padding: 0 !important;
+	height: 0;
+}
+
+.js .break.postbox .handlediv {
+	display: none;
+}
+
+.break .inside {
+margin: 0 !important;
+padding: 0 !important;
+}
+
+.select2-selection.select2-selection--multiple {
+	height: 100px;
+	max-height: 100px;
+    overflow: auto;
+}
+
+.rwmb-text {
+	width: 100%;
+}
+
+.rwmb-field .select2-container {
+	width: 100%;
+	min-width: 100px;
+}
+
+/***
+NEW
+**/
+
+/* Questions */
+.questions-container {
+	display: block;
+	width: 100%;
+}
+
+.questions-left {
+	float: left;
+	width: 50%;
+}
+
+.questions-right {
+float: left;
+    width: 30%;
+    margin-left: 15%;
+}
+
+.questions-clear {
+	clear: both;
+	float: none;
+}
+
+/** Input fields **/
+.woocommerce-buying-guide-row {
+  margin-bottom: 10px;
+}
+#woocommerce-buying-guide-get-position {
+  background: #E53935;
+    color: #FFF;
+    width: 50%;
+    text-align: center;
+    margin: 15px auto;
+    display: block;
+}
+
+#woocommerce-buying-guide-map-container {
+  height: 300px;
+  margin-top: 20px;
+}
+.woocommerce-buying-guide-input-field {
+  width: 80%;
+}
+.woocommerce-buying-guide-container {
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 100%;
+}
+.woocommerce-buying-guide-row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.woocommerce-buying-guide-col-xs-1, .woocommerce-buying-guide-col-sm-1, .woocommerce-buying-guide-col-md-1, .woocommerce-buying-guide-col-lg-1, .woocommerce-buying-guide-col-xs-2, .woocommerce-buying-guide-col-sm-2, .woocommerce-buying-guide-col-md-2, .woocommerce-buying-guide-col-lg-2, .woocommerce-buying-guide-col-xs-3, .woocommerce-buying-guide-col-sm-3, .woocommerce-buying-guide-col-md-3, .woocommerce-buying-guide-col-lg-3, .woocommerce-buying-guide-col-xs-4, .woocommerce-buying-guide-col-sm-4, .woocommerce-buying-guide-col-md-4, .woocommerce-buying-guide-col-lg-4, .woocommerce-buying-guide-col-xs-5, .woocommerce-buying-guide-col-sm-5, .woocommerce-buying-guide-col-md-5, .woocommerce-buying-guide-col-lg-5, .woocommerce-buying-guide-col-xs-6, .woocommerce-buying-guide-col-sm-6, .woocommerce-buying-guide-col-md-6, .woocommerce-buying-guide-col-lg-6, .woocommerce-buying-guide-col-xs-7, .woocommerce-buying-guide-col-sm-7, .woocommerce-buying-guide-col-md-7, .woocommerce-buying-guide-col-lg-7, .woocommerce-buying-guide-col-xs-8, .woocommerce-buying-guide-col-sm-8, .woocommerce-buying-guide-col-md-8, .woocommerce-buying-guide-col-lg-8, .woocommerce-buying-guide-col-xs-9, .woocommerce-buying-guide-col-sm-9, .woocommerce-buying-guide-col-md-9, .woocommerce-buying-guide-col-lg-9, .woocommerce-buying-guide-col-xs-10, .woocommerce-buying-guide-col-sm-10, .woocommerce-buying-guide-col-md-10, .woocommerce-buying-guide-col-lg-10, .woocommerce-buying-guide-col-xs-11, .woocommerce-buying-guide-col-sm-11, .woocommerce-buying-guide-col-md-11, .woocommerce-buying-guide-col-lg-11, .woocommerce-buying-guide-col-xs-12, .woocommerce-buying-guide-col-sm-12, .woocommerce-buying-guide-col-md-12, .woocommerce-buying-guide-col-lg-12 {
+  position: relative;
+  min-height: 1px;
+}
+.woocommerce-buying-guide-col-xs-1, .woocommerce-buying-guide-col-xs-2, .woocommerce-buying-guide-col-xs-3, .woocommerce-buying-guide-col-xs-4, .woocommerce-buying-guide-col-xs-5, .woocommerce-buying-guide-col-xs-6, .woocommerce-buying-guide-col-xs-7, .woocommerce-buying-guide-col-xs-8, .woocommerce-buying-guide-col-xs-9, .woocommerce-buying-guide-col-xs-10, .woocommerce-buying-guide-col-xs-11, .woocommerce-buying-guide-col-xs-12 {
+  float: left;
+}
+.woocommerce-buying-guide-col-xs-12 {
+  width: 100%;
+}
+.woocommerce-buying-guide-col-xs-11 {
+  width: 91.66666667%;
+}
+.woocommerce-buying-guide-col-xs-10 {
+  width: 83.33333333%;
+}
+.woocommerce-buying-guide-col-xs-9 {
+  width: 75%;
+}
+.woocommerce-buying-guide-col-xs-8 {
+  width: 66.66666667%;
+}
+.woocommerce-buying-guide-col-xs-7 {
+  width: 58.33333333%;
+}
+.woocommerce-buying-guide-col-xs-6 {
+  width: 50%;
+}
+.woocommerce-buying-guide-col-xs-5 {
+  width: 41.66666667%;
+}
+.woocommerce-buying-guide-col-xs-4 {
+  width: 33.33333333%;
+}
+.woocommerce-buying-guide-col-xs-3 {
+  width: 25%;
+}
+.woocommerce-buying-guide-col-xs-2 {
+  width: 16.66666667%;
+}
+.woocommerce-buying-guide-col-xs-1 {
+  width: 8.33333333%;
+}
+.woocommerce-buying-guide-col-xs-pull-12 {
+  right: 100%;
+}
+.woocommerce-buying-guide-col-xs-pull-11 {
+  right: 91.66666667%;
+}
+.woocommerce-buying-guide-col-xs-pull-10 {
+  right: 83.33333333%;
+}
+.woocommerce-buying-guide-col-xs-pull-9 {
+  right: 75%;
+}
+.woocommerce-buying-guide-col-xs-pull-8 {
+  right: 66.66666667%;
+}
+.woocommerce-buying-guide-col-xs-pull-7 {
+  right: 58.33333333%;
+}
+.woocommerce-buying-guide-col-xs-pull-6 {
+  right: 50%;
+}
+.woocommerce-buying-guide-col-xs-pull-5 {
+  right: 41.66666667%;
+}
+.woocommerce-buying-guide-col-xs-pull-4 {
+  right: 33.33333333%;
+}
+.woocommerce-buying-guide-col-xs-pull-3 {
+  right: 25%;
+}
+.woocommerce-buying-guide-col-xs-pull-2 {
+  right: 16.66666667%;
+}
+.woocommerce-buying-guide-col-xs-pull-1 {
+  right: 8.33333333%;
+}
+.woocommerce-buying-guide-col-xs-pull-0 {
+  right: auto;
+}
+.woocommerce-buying-guide-col-xs-push-12 {
+  left: 100%;
+}
+.woocommerce-buying-guide-col-xs-push-11 {
+  left: 91.66666667%;
+}
+.woocommerce-buying-guide-col-xs-push-10 {
+  left: 83.33333333%;
+}
+.woocommerce-buying-guide-col-xs-push-9 {
+  left: 75%;
+}
+.woocommerce-buying-guide-col-xs-push-8 {
+  left: 66.66666667%;
+}
+.woocommerce-buying-guide-col-xs-push-7 {
+  left: 58.33333333%;
+}
+.woocommerce-buying-guide-col-xs-push-6 {
+  left: 50%;
+}
+.woocommerce-buying-guide-col-xs-push-5 {
+  left: 41.66666667%;
+}
+.woocommerce-buying-guide-col-xs-push-4 {
+  left: 33.33333333%;
+}
+.woocommerce-buying-guide-col-xs-push-3 {
+  left: 25%;
+}
+.woocommerce-buying-guide-col-xs-push-2 {
+  left: 16.66666667%;
+}
+.woocommerce-buying-guide-col-xs-push-1 {
+  left: 8.33333333%;
+}
+.woocommerce-buying-guide-col-xs-push-0 {
+  left: auto;
+}
+.woocommerce-buying-guide-col-xs-offset-12 {
+  margin-left: 100%;
+}
+.woocommerce-buying-guide-col-xs-offset-11 {
+  margin-left: 91.66666667%;
+}
+.woocommerce-buying-guide-col-xs-offset-10 {
+  margin-left: 83.33333333%;
+}
+.woocommerce-buying-guide-col-xs-offset-9 {
+  margin-left: 75%;
+}
+.woocommerce-buying-guide-col-xs-offset-8 {
+  margin-left: 66.66666667%;
+}
+.woocommerce-buying-guide-col-xs-offset-7 {
+  margin-left: 58.33333333%;
+}
+.woocommerce-buying-guide-col-xs-offset-6 {
+  margin-left: 50%;
+}
+.woocommerce-buying-guide-col-xs-offset-5 {
+  margin-left: 41.66666667%;
+}
+.woocommerce-buying-guide-col-xs-offset-4 {
+  margin-left: 33.33333333%;
+}
+.woocommerce-buying-guide-col-xs-offset-3 {
+  margin-left: 25%;
+}
+.woocommerce-buying-guide-col-xs-offset-2 {
+  margin-left: 16.66666667%;
+}
+.woocommerce-buying-guide-col-xs-offset-1 {
+  margin-left: 8.33333333%;
+}
+.woocommerce-buying-guide-col-xs-offset-0 {
+  margin-left: 0%;
+}
+@media (min-width: 768px) {
+  .woocommerce-buying-guide-col-sm-1, .woocommerce-buying-guide-col-sm-2, .woocommerce-buying-guide-col-sm-3, .woocommerce-buying-guide-col-sm-4, .woocommerce-buying-guide-col-sm-5, .woocommerce-buying-guide-col-sm-6, .woocommerce-buying-guide-col-sm-7, .woocommerce-buying-guide-col-sm-8, .woocommerce-buying-guide-col-sm-9, .woocommerce-buying-guide-col-sm-10, .woocommerce-buying-guide-col-sm-11, .woocommerce-buying-guide-col-sm-12 {
+    float: left;
+  }
+  .woocommerce-buying-guide-col-sm-12 {
+    width: 100%;
+  }
+  .woocommerce-buying-guide-col-sm-11 {
+    width: 91.66666667%;
+  }
+  .woocommerce-buying-guide-col-sm-10 {
+    width: 83.33333333%;
+  }
+  .woocommerce-buying-guide-col-sm-9 {
+    width: 75%;
+  }
+  .woocommerce-buying-guide-col-sm-8 {
+    width: 66.66666667%;
+  }
+  .woocommerce-buying-guide-col-sm-7 {
+    width: 58.33333333%;
+  }
+  .woocommerce-buying-guide-col-sm-6 {
+    width: 50%;
+  }
+  .woocommerce-buying-guide-col-sm-5 {
+    width: 41.66666667%;
+  }
+  .woocommerce-buying-guide-col-sm-4 {
+    width: 33.33333333%;
+  }
+  .woocommerce-buying-guide-col-sm-3 {
+    width: 25%;
+  }
+  .woocommerce-buying-guide-col-sm-2 {
+    width: 16.66666667%;
+  }
+  .woocommerce-buying-guide-col-sm-1 {
+    width: 8.33333333%;
+  }
+  .woocommerce-buying-guide-col-sm-pull-12 {
+    right: 100%;
+  }
+  .woocommerce-buying-guide-col-sm-pull-11 {
+    right: 91.66666667%;
+  }
+  .woocommerce-buying-guide-col-sm-pull-10 {
+    right: 83.33333333%;
+  }
+  .woocommerce-buying-guide-col-sm-pull-9 {
+    right: 75%;
+  }
+  .woocommerce-buying-guide-col-sm-pull-8 {
+    right: 66.66666667%;
+  }
+  .woocommerce-buying-guide-col-sm-pull-7 {
+    right: 58.33333333%;
+  }
+  .woocommerce-buying-guide-col-sm-pull-6 {
+    right: 50%;
+  }
+  .woocommerce-buying-guide-col-sm-pull-5 {
+    right: 41.66666667%;
+  }
+  .woocommerce-buying-guide-col-sm-pull-4 {
+    right: 33.33333333%;
+  }
+  .woocommerce-buying-guide-col-sm-pull-3 {
+    right: 25%;
+  }
+  .woocommerce-buying-guide-col-sm-pull-2 {
+    right: 16.66666667%;
+  }
+  .woocommerce-buying-guide-col-sm-pull-1 {
+    right: 8.33333333%;
+  }
+  .woocommerce-buying-guide-col-sm-pull-0 {
+    right: auto;
+  }
+  .woocommerce-buying-guide-col-sm-push-12 {
+    left: 100%;
+  }
+  .woocommerce-buying-guide-col-sm-push-11 {
+    left: 91.66666667%;
+  }
+  .woocommerce-buying-guide-col-sm-push-10 {
+    left: 83.33333333%;
+  }
+  .woocommerce-buying-guide-col-sm-push-9 {
+    left: 75%;
+  }
+  .woocommerce-buying-guide-col-sm-push-8 {
+    left: 66.66666667%;
+  }
+  .woocommerce-buying-guide-col-sm-push-7 {
+    left: 58.33333333%;
+  }
+  .woocommerce-buying-guide-col-sm-push-6 {
+    left: 50%;
+  }
+  .woocommerce-buying-guide-col-sm-push-5 {
+    left: 41.66666667%;
+  }
+  .woocommerce-buying-guide-col-sm-push-4 {
+    left: 33.33333333%;
+  }
+  .woocommerce-buying-guide-col-sm-push-3 {
+    left: 25%;
+  }
+  .woocommerce-buying-guide-col-sm-push-2 {
+    left: 16.66666667%;
+  }
+  .woocommerce-buying-guide-col-sm-push-1 {
+    left: 8.33333333%;
+  }
+  .woocommerce-buying-guide-col-sm-push-0 {
+    left: auto;
+  }
+  .woocommerce-buying-guide-col-sm-offset-12 {
+    margin-left: 100%;
+  }
+  .woocommerce-buying-guide-col-sm-offset-11 {
+    margin-left: 91.66666667%;
+  }
+  .woocommerce-buying-guide-col-sm-offset-10 {
+    margin-left: 83.33333333%;
+  }
+  .woocommerce-buying-guide-col-sm-offset-9 {
+    margin-left: 75%;
+  }
+  .woocommerce-buying-guide-col-sm-offset-8 {
+    margin-left: 66.66666667%;
+  }
+  .woocommerce-buying-guide-col-sm-offset-7 {
+    margin-left: 58.33333333%;
+  }
+  .woocommerce-buying-guide-col-sm-offset-6 {
+    margin-left: 50%;
+  }
+  .woocommerce-buying-guide-col-sm-offset-5 {
+    margin-left: 41.66666667%;
+  }
+  .woocommerce-buying-guide-col-sm-offset-4 {
+    margin-left: 33.33333333%;
+  }
+  .woocommerce-buying-guide-col-sm-offset-3 {
+    margin-left: 25%;
+  }
+  .woocommerce-buying-guide-col-sm-offset-2 {
+    margin-left: 16.66666667%;
+  }
+  .woocommerce-buying-guide-col-sm-offset-1 {
+    margin-left: 8.33333333%;
+  }
+  .woocommerce-buying-guide-col-sm-offset-0 {
+    margin-left: 0%;
+  }
+}
+
+.woocommerce-buying-guide-clearfix:before,
+.woocommerce-buying-guide-clearfix:after,
+.woocommerce-buying-guide-container:before,
+.woocommerce-buying-guide-container:after,
+.woocommerce-buying-guide-container-fluid:before,
+.woocommerce-buying-guide-container-fluid:after,
+.woocommerce-buying-guide-row:before,
+.woocommerce-buying-guide-row:after {
+  content: " ";
+  display: table;
+}
+.woocommerce-buying-guide-clearfix:after,
+.woocommerce-buying-guide-container:after,
+.woocommerce-buying-guide-container-fluid:after,
+.woocommerce-buying-guide-row:after {
+  clear: both;
+}
+.woocommerce-buying-guide-center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.woocommerce-buying-guide-pull-right {
+  float: right !important;
+}
+.woocommerce-buying-guide-pull-left {
+  float: left !important;
+}
+.woocommerce-buying-guide-hide {
+  display: none !important;
+}
+.woocommerce-buying-guide-show {
+  display: block !important;
+}
+
+.woocommerce-buying-guide-left {
+  text-align: left;
+}
+
+.woocommerce-buying-guide-right {
+  text-align: right;
+}
+
+.woocommerce-buying-guide-center {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.post-type-buying-guide  input[type="text"], 
+.post-type-buying-guide  input[type="password"], 
+.post-type-buying-guide  input[type="checkbox"], 
+.post-type-buying-guide  input[type="color"], 
+.post-type-buying-guide  input[type="date"], 
+.post-type-buying-guide  input[type="datetime"], 
+.post-type-buying-guide  input[type="datetime-local"], 
+.post-type-buying-guide  input[type="email"], 
+.post-type-buying-guide  input[type="month"], 
+.post-type-buying-guide  input[type="number"], 
+.post-type-buying-guide  input[type="search"], 
+.post-type-buying-guide  input[type="radio"], 
+.post-type-buying-guide  input[type="tel"], 
+.post-type-buying-guide  input[type="text"], 
+.post-type-buying-guide  input[type="time"], 
+.post-type-buying-guide  input[type="url"], 
+.post-type-buying-guide  input[type="week"]
+{
+    display: inline-block;
+    color: #777;
+    padding: 6px 12px;
+    font-family: inherit;
+    font-weight: inherit;
+    font-size: 1em;
+    line-height: 1.65;
+    max-width: 100%;
+    border: 1px solid #eee;
+    background: #f7f7f7;
+}
+
+#info-importer .button-success {
+	background-color: #2ecc71;
+	color: #FFFFFF;
+}
+
+#info-importer .button-danger {
+	background-color: #d35400;
+	color: #FFFFFF;
+}
+
+#break-1, #break-2 {
+    clear: both;
+    float: none;
+    margin: 0;
+    padding: 0;
+    visibility: hidden;
+}
+
+.redux-dimensions-input {
+  line-height: 19px !important;
+  font-size: 14px !important;
+}
+
+#nestable-menu {
+    padding: 20px 0;
+}
+
+.questions-container {
+      padding: 20px;
+}
+
+.questions-container * {
+    box-sizing: border-box;
+}
+
+.questions-right {
+    background-color: #2980b9;
+    background-image: linear-gradient(45deg, #20638f, #3498db);
+    min-height: 500px;
+    color: #FFF;
+    border-radius: 5px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.questions-right-notice {
+    padding-top: 250px;
+    text-align: center;
+}
+
+.questions-loader-container {
+  position: relative;
+  padding-top: 250px;
+  display: none;
+}
+
+.questions-loader {
+    animation: animate 1.5s linear infinite;
+    clip: rect(0, 80px, 80px, 40px); 
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    left: calc(50% - 40px);
+    top: calc(50% - 40px);
+}
+
+@keyframes animate {
+  0% { 
+    transform: rotate(0deg)
+  }
+  100% { 
+    transform: rotate(220deg)
+  }
+}
+.questions-loader:after {
+  animation: animate2 1.5s ease-in-out infinite;
+  clip: rect(0, 80px, 80px, 40px);
+  content:'';
+  border-radius: 50%; 
+  height: 80px;
+  width: 80px;
+  position: absolute; 
+} 
+@keyframes animate2 {
+  0% {
+    box-shadow: inset #fff 0 0 0 17px;
+    transform: rotate(-140deg);
+  }
+  50% {
+    box-shadow: inset #fff 0 0 0 2px;
+  }
+  100% {
+    box-shadow: inset #fff 0 0 0 17px;
+    transform: rotate(140deg);
+  }
+}
+
+.question-right-item input,
+.question-right-item select,
+.question-right-item textarea {
+    width: 100%;
+    background: #fff;
+    color: #000;
+}
+
+.question-right-item {
+  display: none;
+  padding: 40px 40px;
+}
+
+.question-input-wrapper { position: relative; margin-bottom: 20px; }
+.question-right-item.question-right-item-question input {border: 1px solid #ccc; padding: 7px 14px 9px; transition: 0.4s;}
+.question-right-item.question-right-item-question input ~ .focus-border:before,
+.question-right-item.question-right-item-question input ~ .focus-border:after{content: ""; position: absolute; top: 0; left: 0; width: 0; height: 2px; background-color: #F44336; transition: 0.3s;}
+.question-right-item.question-right-item-question input ~ .focus-border:after{top: auto; bottom: 0; left: auto; right: 0;}
+.question-right-item.question-right-item-question input ~ .focus-border i:before,
+.question-right-item.question-right-item-question input ~ .focus-border i:after{content: ""; position: absolute; top: 0; left: 0; width: 2px; height: 0; background-color: #F44336; transition: 0.4s;}
+.question-right-item.question-right-item-question input ~ .focus-border i:after{left: auto; right: 0; top: auto; bottom: 0;}
+.question-right-item.question-right-item-question input:focus ~ .focus-border:before,
+.question-right-item.question-right-item-question input:focus ~ .focus-border:after{width: 100%; transition: 0.3s;}
+.question-right-item.question-right-item-question input:focus ~ .focus-border i:before,
+.question-right-item.question-right-item-question input:focus ~ .focus-border i:after{height: 100%; transition: 0.4s;}

@@ -1,0 +1,21 @@
+<?php
+$template_arr=array(
+	array(
+		'id'=>'template3',
+		'title'=>'Classic',
+		'preview_img'=>'template3.png',
+	),
+	array(
+		'id'=>'template2',
+		'title'=>'Regal',
+		'preview_img'=>'template2.png',
+	),
+	array(
+		'id'=>'template1',
+		'title'=>'Imperial',
+		'preview_img'=>'template1.png',
+	),
+	
+);
+//$template_header='data.template_header.php';
+//$template_footer='data.template_footer.php';

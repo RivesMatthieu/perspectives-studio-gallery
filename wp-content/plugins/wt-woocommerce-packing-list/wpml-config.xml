@@ -1,0 +1,14 @@
+<wpml-config>
+    <admin-texts>
+        <key name="Wf_Woocommerce_Packing_List">
+            <key name="woocommerce_wf_packinglist_return_policy" />
+            <key name="woocommerce_wf_packinglist_footer" />
+        </key>
+        <key name="wf_woocommerce_packing_list_invoice">
+            <key name="woocommerce_wf_packinglist_footer" />
+        </key>
+        <key name="wf_woocommerce_packing_list_packinglist">
+            <key name="woocommerce_wf_packinglist_footer" />
+        </key>
+    </admin-texts>
+</wpml-config>

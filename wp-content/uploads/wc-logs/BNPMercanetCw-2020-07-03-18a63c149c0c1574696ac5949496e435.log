@@ -1,0 +1,850 @@
+07-03-2020 @ 09:07:28 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(430) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.test.sips-atos.com
+content-type:application/json
+accept:application/json
+content-length: 194
+
+{"merchantId":"211000021310001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"tBVUqy8dmt947","seal":"03bae36a6d5fb5ed42a2037d9811a02dbca72c111fd00c4d63cd87e1436eaf43"}"
+
+07-03-2020 @ 09:07:29 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(671) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:07:28 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS0170356f=013ca44a14948e7cd7c1c03436e25178b754b93577dbaba032492b03374c2c6c6b9d38f939aaf0ea1c0e8353ea18fac5a81fce73b0; Path=/; Secure; HTTPOnly
+content-length: 257
+
+{"currentAmount":0,"originAmount":0,"merchantId":"211000021310001","remainingAmount":0,"transactionReference":"tBVUqy8dmt947","seal":"fbee7b31062314fbafe28966283797dbad5a2780b71aba6a08bcfa6ce4f3ee80","getTransDataResponseCode":"25","paymentAttemptNumber":0}"
+
+07-03-2020 @ 09:07:29 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(430) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.test.sips-atos.com
+content-type:application/json
+accept:application/json
+content-length: 194
+
+{"merchantId":"211000021310001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"5F99G5Np8L948","seal":"ec8283d4273b7aafbca8be831fe388e1504844c1c1a1da7e29f45cb55330f12a"}"
+
+07-03-2020 @ 09:07:30 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(671) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:07:30 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS0170356f=013ca44a14158cceef01e53d586e7a2d9cc68b53a8f4f7a6361a573ce16747cc0da491464300a941f6042eb7211478a1e6cb925c16; Path=/; Secure; HTTPOnly
+content-length: 257
+
+{"currentAmount":0,"originAmount":0,"merchantId":"211000021310001","remainingAmount":0,"transactionReference":"5F99G5Np8L948","seal":"bba57d08e9d3b4a576235dda8e2cf9356929df8c59f79a2a8227fabf7de9f53d","getTransDataResponseCode":"25","paymentAttemptNumber":0}"
+
+07-03-2020 @ 09:07:30 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(430) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.test.sips-atos.com
+content-type:application/json
+accept:application/json
+content-length: 194
+
+{"merchantId":"211000021310001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"EkqC4pu3An952","seal":"3280653fb99d9dcd1c90c7df7e325cd3b076da572af804279a962359084433bd"}"
+
+07-03-2020 @ 09:07:31 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(671) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:07:31 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS0170356f=013ca44a143eb5d097edfbe049913200d6e4add0626c555313e3a8808ae248cb7e49cc5a569b344b556b60a08b7d6da05a2329c06a; Path=/; Secure; HTTPOnly
+content-length: 257
+
+{"currentAmount":0,"originAmount":0,"merchantId":"211000021310001","remainingAmount":0,"transactionReference":"EkqC4pu3An952","seal":"843a98e81526d067c20ffa54ec7feaeddf6e5a45994648cac788ca3728526a4e","getTransDataResponseCode":"25","paymentAttemptNumber":0}"
+
+07-03-2020 @ 09:07:31 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(430) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.test.sips-atos.com
+content-type:application/json
+accept:application/json
+content-length: 194
+
+{"merchantId":"211000021310001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"48p2UoHXf8953","seal":"873d28b6463dd5595efdc804399c2074290047b560acc764909085cc8b36a463"}"
+
+07-03-2020 @ 09:07:32 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(671) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:07:31 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS0170356f=013ca44a14224ae6107549cf5ff90104620aa6b59c58ad1f74dae1ad7925528cd378b6ba78fe260f643cb496ed51367bd3d30af003; Path=/; Secure; HTTPOnly
+content-length: 257
+
+{"currentAmount":0,"originAmount":0,"merchantId":"211000021310001","remainingAmount":0,"transactionReference":"48p2UoHXf8953","seal":"05707cbcf327ab376f30fb2c72923394ef92c1a405df6cdeffec21059454c6e1","getTransDataResponseCode":"25","paymentAttemptNumber":0}"
+
+07-03-2020 @ 09:07:32 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(430) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.test.sips-atos.com
+content-type:application/json
+accept:application/json
+content-length: 194
+
+{"merchantId":"211000021310001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"eTWctVoczM954","seal":"d4e76bd0c1121819fd40cd5130281bd72a00dbbea60c2db758a688a66857484c"}"
+
+07-03-2020 @ 09:07:32 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(671) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:07:32 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS0170356f=013ca44a14ac55011dd6dc1974c8ba872322bd107a1c91446e68f4bd7cafa3110a1e26987f70e1ef2793634e58f6c7c7d0c86efc60; Path=/; Secure; HTTPOnly
+content-length: 257
+
+{"currentAmount":0,"originAmount":0,"merchantId":"211000021310001","remainingAmount":0,"transactionReference":"eTWctVoczM954","seal":"559277f5b71c77fcadbababc366851a99e793ddbce75f181876545861f5cf3d1","getTransDataResponseCode":"25","paymentAttemptNumber":0}"
+
+07-03-2020 @ 09:07:32 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(430) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.test.sips-atos.com
+content-type:application/json
+accept:application/json
+content-length: 194
+
+{"merchantId":"211000021310001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"HWCpmvQdDV955","seal":"3307b23990f6acfb1565437e17cf831ee6bc439f7a2d7482c8ab316494e7d747"}"
+
+07-03-2020 @ 09:07:33 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(671) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:07:33 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS0170356f=013ca44a14ba81945a2b5a69a72a42e5588399a71d3bda77ed41c824a643680ca3fa6b15bc47dcf78ca05ec4f4da1e003886f4170b; Path=/; Secure; HTTPOnly
+content-length: 257
+
+{"currentAmount":0,"originAmount":0,"merchantId":"211000021310001","remainingAmount":0,"transactionReference":"HWCpmvQdDV955","seal":"08445faaf815ccb5359dbc0e310d63794a76c710da3e4359dd1c82ada4432fd9","getTransDataResponseCode":"25","paymentAttemptNumber":0}"
+
+07-03-2020 @ 09:07:33 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(430) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.test.sips-atos.com
+content-type:application/json
+accept:application/json
+content-length: 194
+
+{"merchantId":"211000021310001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"7wKPmoPAn4964","seal":"1bb9d1a2494eaac8bcef8a7036cd127fd06ddd2fb5bfd8dc717cc60eb53496ad"}"
+
+07-03-2020 @ 09:07:37 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(671) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:07:34 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS0170356f=013ca44a144ceb237dbb3cf85b0e6e5daf4a723bbf4889904c1b26673350631412f7eb43282f262b469a5e9b4dad1d5f30e33df0f8; Path=/; Secure; HTTPOnly
+content-length: 257
+
+{"currentAmount":0,"originAmount":0,"merchantId":"211000021310001","remainingAmount":0,"transactionReference":"7wKPmoPAn4964","seal":"1431074a9a35bb168ecd18f7adc9c4acece576b1c20ab140638c0a50c7351ef2","getTransDataResponseCode":"25","paymentAttemptNumber":0}"
+
+07-03-2020 @ 09:07:37 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(430) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.test.sips-atos.com
+content-type:application/json
+accept:application/json
+content-length: 194
+
+{"merchantId":"211000021310001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"TDdt3p46TK965","seal":"cda5c389c7ad33c2fed598696496827c98508faaed991498f94aad4c1ab58f09"}"
+
+07-03-2020 @ 09:07:40 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(671) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:07:38 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS0170356f=013ca44a14cfee621d9cdc358e095eed196fdd25ccb9a1e127f3467456357d52457df213d4e36e044a44bbfaf9b77593389ea37fcb; Path=/; Secure; HTTPOnly
+content-length: 257
+
+{"currentAmount":0,"originAmount":0,"merchantId":"211000021310001","remainingAmount":0,"transactionReference":"TDdt3p46TK965","seal":"53659929155fbed7db751369f59a5b702d879c0f9edaf64ce6e781bc505f0196","getTransDataResponseCode":"25","paymentAttemptNumber":0}"
+
+07-03-2020 @ 09:07:40 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(430) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.test.sips-atos.com
+content-type:application/json
+accept:application/json
+content-length: 194
+
+{"merchantId":"211000021310001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"ubqaXDLgGU968","seal":"6ce5784dc2d5b2916d970cb904a853cdea58ca35d468260c5298bde349541448"}"
+
+07-03-2020 @ 09:07:41 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(671) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:07:40 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS0170356f=013ca44a14507d788bf5c8a724fb405d56655cff6f9eb1be958d2858a482c2c6083604f382c480d5e00dd9a8194728514ccbdd01ed; Path=/; Secure; HTTPOnly
+content-length: 257
+
+{"currentAmount":0,"originAmount":0,"merchantId":"211000021310001","remainingAmount":0,"transactionReference":"ubqaXDLgGU968","seal":"d88262acb034112e87c397431c572907706ef3acab31ba722227cb1fd20bec25","getTransDataResponseCode":"25","paymentAttemptNumber":0}"
+
+07-03-2020 @ 09:07:41 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(430) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.test.sips-atos.com
+content-type:application/json
+accept:application/json
+content-length: 194
+
+{"merchantId":"211000021310001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"DLXQ5NVTCa969","seal":"de0fb14e80f34f6a598c56752c1aa91e3718f186fdf8cab076190ba7007469cd"}"
+
+07-03-2020 @ 09:07:43 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(671) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:07:42 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS0170356f=013ca44a14c2c6b326b0bb0ad4ab1b03ca103882cb1bb18fff4987a4adff812fead08296ae8ae7813e795fb6d43ac224852a8c8ab0; Path=/; Secure; HTTPOnly
+content-length: 257
+
+{"currentAmount":0,"originAmount":0,"merchantId":"211000021310001","remainingAmount":0,"transactionReference":"DLXQ5NVTCa969","seal":"044b50517de9de5db3cf40612c181090305ed6b65dfb8fd3c245a32e3ec1ef70","getTransDataResponseCode":"25","paymentAttemptNumber":0}"
+
+07-03-2020 @ 09:07:43 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(430) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.test.sips-atos.com
+content-type:application/json
+accept:application/json
+content-length: 194
+
+{"merchantId":"211000021310001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"mV3mHgcohj971","seal":"b00c8335e8c3a11dc422f4448e44b0879e4d782cf1cec2c02b0ce49ac051249e"}"
+
+07-03-2020 @ 09:07:44 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(671) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:07:43 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS0170356f=013ca44a14cad182a276b775681cb7bf14bcd92d649eddae714942abfd813ad1cb77edddff82a8371b7e7db004c01ecbec7d6ddb88; Path=/; Secure; HTTPOnly
+content-length: 257
+
+{"currentAmount":0,"originAmount":0,"merchantId":"211000021310001","remainingAmount":0,"transactionReference":"mV3mHgcohj971","seal":"4953abc5104d8057a760789d06c2f82e2b82420203730117df595af6087da1a4","getTransDataResponseCode":"25","paymentAttemptNumber":0}"
+
+07-03-2020 @ 09:07:45 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(430) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.test.sips-atos.com
+content-type:application/json
+accept:application/json
+content-length: 194
+
+{"merchantId":"211000021310001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"vVCFKkGvMF972","seal":"3ab249065dfcf8e7f587e5cad5220394727100e12ed09267ce8046ed0df2b998"}"
+
+07-03-2020 @ 09:07:45 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(671) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:07:45 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS0170356f=013ca44a1489cbe5a195590a6ff44aef58a73c90187621cfc95c7cb1ef9aa1a44686ac6e374fac952111d4895a53d9f85c20fa526d; Path=/; Secure; HTTPOnly
+content-length: 257
+
+{"currentAmount":0,"originAmount":0,"merchantId":"211000021310001","remainingAmount":0,"transactionReference":"vVCFKkGvMF972","seal":"561994ca69aafea16a770894eab6b5df61c950365590e3fa43bb6087ba809fa3","getTransDataResponseCode":"25","paymentAttemptNumber":0}"
+
+07-03-2020 @ 09:07:45 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(430) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.test.sips-atos.com
+content-type:application/json
+accept:application/json
+content-length: 194
+
+{"merchantId":"211000021310001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"TPJCMM3E8u974","seal":"215a5d67d3bf9ef5de83242ac46ef6121603e54996978cdf64b70875e7b1bb6c"}"
+
+07-03-2020 @ 09:07:46 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(671) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:07:46 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS0170356f=013ca44a143bc7544fdefd131b856ce74b3ab7df1c95e748792c306a818c64485ab73ed04bdbf6fcdf25c4e15f539b825624041469; Path=/; Secure; HTTPOnly
+content-length: 257
+
+{"currentAmount":0,"originAmount":0,"merchantId":"211000021310001","remainingAmount":0,"transactionReference":"TPJCMM3E8u974","seal":"0bebfe221d87f81242d9e92f46e5d5d1ed0b9aa0ca688e476ad7eb554bd8a15f","getTransDataResponseCode":"25","paymentAttemptNumber":0}"
+
+07-03-2020 @ 09:07:46 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(430) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.test.sips-atos.com
+content-type:application/json
+accept:application/json
+content-length: 194
+
+{"merchantId":"211000021310001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"2HyVej7yBp975","seal":"33d7d2c137b58ffc1d8de0d88fb459719e53a696a00914a8bfb62564b0c46a86"}"
+
+07-03-2020 @ 09:07:46 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(671) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:07:46 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS0170356f=013ca44a14eb91d8c438573e8d0d12284aa56f991a6f6ea4be5a387865a2cf86a9981c380cd6ef31b52be9dc3d307153d8ba67ed8e; Path=/; Secure; HTTPOnly
+content-length: 257
+
+{"currentAmount":0,"originAmount":0,"merchantId":"211000021310001","remainingAmount":0,"transactionReference":"2HyVej7yBp975","seal":"ce3fe793110ee7e567288d10341ef56b6ff9ce64bf5b07999ac900621d92106b","getTransDataResponseCode":"25","paymentAttemptNumber":0}"
+
+07-03-2020 @ 09:07:47 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(430) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.test.sips-atos.com
+content-type:application/json
+accept:application/json
+content-length: 194
+
+{"merchantId":"211000021310001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"hAHQT78ccw976","seal":"b9fd025dfba8d5d5b5ec3f7cce8420def44c03cbb54bfb70081161920c41b405"}"
+
+07-03-2020 @ 09:07:47 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(671) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:07:47 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS0170356f=013ca44a14c627d3c227d498ad4c5d7ffa23a5dd433678d844d0811b6f90051057417bc11f4074a95e9ee032beefa7440a8c5ca75c; Path=/; Secure; HTTPOnly
+content-length: 257
+
+{"currentAmount":0,"originAmount":0,"merchantId":"211000021310001","remainingAmount":0,"transactionReference":"hAHQT78ccw976","seal":"1468bb5a4c4c225b54ad5cbff4c59695b2734f430cf8ac55e0e9cea91dd9ddd5","getTransDataResponseCode":"25","paymentAttemptNumber":0}"
+
+07-03-2020 @ 09:07:47 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(430) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.test.sips-atos.com
+content-type:application/json
+accept:application/json
+content-length: 194
+
+{"merchantId":"211000021310001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"YGVLSJc3jj978","seal":"304771fa74ee226dc31c5cd4eee8a3467fbd1a45285b49a3caa7abe3f090a6d6"}"
+
+07-03-2020 @ 09:07:48 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(671) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:07:47 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS0170356f=013ca44a148117c5cd4965d32b35be93c20839d75b9753e4074e778c5b7cb6b1a83c23ff25bc0ddfe307f2831ebacd3d8bbda54ded; Path=/; Secure; HTTPOnly
+content-length: 257
+
+{"currentAmount":0,"originAmount":0,"merchantId":"211000021310001","remainingAmount":0,"transactionReference":"YGVLSJc3jj978","seal":"fce07471e97dee5e20573c437a6b27714aea1585a0c40d37ba7fa7183d4c995e","getTransDataResponseCode":"25","paymentAttemptNumber":0}"
+
+07-03-2020 @ 09:07:48 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(430) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.test.sips-atos.com
+content-type:application/json
+accept:application/json
+content-length: 194
+
+{"merchantId":"211000021310001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"7JgBEt2Hsv979","seal":"499f0dea50fc44036adcbd09bb2936164c35c9fe48df21e622d7d03f8b268b81"}"
+
+07-03-2020 @ 09:07:48 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(671) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:07:48 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS0170356f=013ca44a14da8ac4a87354df0d53f2126df65776799c8478e2c70f0b531a8ec35a0dcc4afe6000170c603db0dbc479edc0639bf5c8; Path=/; Secure; HTTPOnly
+content-length: 257
+
+{"currentAmount":0,"originAmount":0,"merchantId":"211000021310001","remainingAmount":0,"transactionReference":"7JgBEt2Hsv979","seal":"9e2d998ddf7d8257e9a55c1a78102cc92ca95b6dd115edd5a4854ce944928f41","getTransDataResponseCode":"25","paymentAttemptNumber":0}"
+
+07-03-2020 @ 09:18:47 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(425) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.mercanet.bnpparibas.net
+content-type:application/json
+accept:application/json
+content-length: 184
+
+{"merchantId":"211000162260001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"947","seal":"a75afb109ac975038f9deda392bd4d0564d189366b3d6f25e9d6d9470463d11f"}"
+
+07-03-2020 @ 09:18:47 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(466) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:18:47 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS01af447f=018154f51bdbee87ee3dbb3f0fad8e9d562b4346913a78d511d9ecd03aa3863b92ccbcdedc0f45d3017d3fefce08a7b57e3840f08e; Path=/; Secure; HTTPOnly
+content-length: 53
+
+{"responseCode":"34","getTransDataResponseCode":"34"}"
+
+07-03-2020 @ 09:18:47 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(425) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.mercanet.bnpparibas.net
+content-type:application/json
+accept:application/json
+content-length: 184
+
+{"merchantId":"211000162260001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"948","seal":"29d23197b22c34d446389f1cf60b64868d57af9b88f50c59d3620f870b8cfbb5"}"
+
+07-03-2020 @ 09:18:47 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(466) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:18:47 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS01af447f=018154f51b85e31709f48e81805a93d0d6471ccf2da32d6aa28790809aa384bcac622d117b088ea52c010dc9b4b56592e3575d5cb9; Path=/; Secure; HTTPOnly
+content-length: 53
+
+{"responseCode":"34","getTransDataResponseCode":"34"}"
+
+07-03-2020 @ 09:18:47 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(425) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.mercanet.bnpparibas.net
+content-type:application/json
+accept:application/json
+content-length: 184
+
+{"merchantId":"211000162260001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"952","seal":"2775f0802461365509e80fe8b80e938a0e58d3059a649471275adad9e9130581"}"
+
+07-03-2020 @ 09:18:48 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(466) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:18:47 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS01af447f=018154f51b17dfb1c6ad6308a8b36fc0167fe594a8d1523e4a819d24deed672936cd9161cbbcb9b094b71ff312acb4db6e841a9510; Path=/; Secure; HTTPOnly
+content-length: 53
+
+{"responseCode":"34","getTransDataResponseCode":"34"}"
+
+07-03-2020 @ 09:18:48 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(425) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.mercanet.bnpparibas.net
+content-type:application/json
+accept:application/json
+content-length: 184
+
+{"merchantId":"211000162260001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"953","seal":"0d7b19a2d86eef56b6e614bf112c42cc8efb8aa8ed9521d57d59c94541790035"}"
+
+07-03-2020 @ 09:18:48 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(466) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:18:48 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS01af447f=018154f51b500d71adde17e69f4df36199f0bb1b9233bbcd8ed5a02df5ae56da0c678f86ce16305b7c3f2dd0ce3d52c5ea0e4bba26; Path=/; Secure; HTTPOnly
+content-length: 53
+
+{"responseCode":"34","getTransDataResponseCode":"34"}"
+
+07-03-2020 @ 09:18:48 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(425) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.mercanet.bnpparibas.net
+content-type:application/json
+accept:application/json
+content-length: 184
+
+{"merchantId":"211000162260001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"954","seal":"600ffae4b9e3b8819a0ce16e187432520e5dc6ed1e1731c8d9a342140187ca51"}"
+
+07-03-2020 @ 09:18:48 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(466) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:18:48 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS01af447f=018154f51b1d029e3962931eff22139545dee5bd9fbc297074765126a81596330a8b6483f7b4dfbaff8eb6cf192660cafdc99c4611; Path=/; Secure; HTTPOnly
+content-length: 53
+
+{"responseCode":"34","getTransDataResponseCode":"34"}"
+
+07-03-2020 @ 09:18:48 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(425) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.mercanet.bnpparibas.net
+content-type:application/json
+accept:application/json
+content-length: 184
+
+{"merchantId":"211000162260001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"955","seal":"36077c96a38ca9bd44d8be99978d5efc5a8079c7077c0b3d1b05e5c0cfee4d74"}"
+
+07-03-2020 @ 09:18:48 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(466) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:18:48 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS01af447f=018154f51b51a5af23b45e5ef269dedd40e588217329a4cf648eb91263b4196e610529c6a981d20cb58c9e0747f1157e76c02333d9; Path=/; Secure; HTTPOnly
+content-length: 53
+
+{"responseCode":"34","getTransDataResponseCode":"34"}"
+
+07-03-2020 @ 09:18:48 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(425) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.mercanet.bnpparibas.net
+content-type:application/json
+accept:application/json
+content-length: 184
+
+{"merchantId":"211000162260001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"964","seal":"9b591e1dda8c1acac9360dbfdf89587423672a73054e29b7b17f81dd601b08ba"}"
+
+07-03-2020 @ 09:18:48 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(466) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:18:48 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS01af447f=018154f51b7d499b9bb6f3c334e080a768d2e4a24393ecd340615e766b334a4067f451a8455e61642dd2c06e4526a45b3fea5d9b98; Path=/; Secure; HTTPOnly
+content-length: 53
+
+{"responseCode":"34","getTransDataResponseCode":"34"}"
+
+07-03-2020 @ 09:18:48 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(425) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.mercanet.bnpparibas.net
+content-type:application/json
+accept:application/json
+content-length: 184
+
+{"merchantId":"211000162260001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"965","seal":"c6c370f454a9777811cf1a83c21da12ab8ccd609d393fdb68657f460c4328e86"}"
+
+07-03-2020 @ 09:18:49 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(466) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:18:49 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS01af447f=018154f51bc94fdfafc007c2b5b024f5ea7e1abf432a67b783cbedf769b08d165409b645fbb31559561085601080206307a1cb0474; Path=/; Secure; HTTPOnly
+content-length: 53
+
+{"responseCode":"34","getTransDataResponseCode":"34"}"
+
+07-03-2020 @ 09:18:49 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(425) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.mercanet.bnpparibas.net
+content-type:application/json
+accept:application/json
+content-length: 184
+
+{"merchantId":"211000162260001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"968","seal":"c540642ee4321447244c51f7f76819627ea3fd8f716dcb4a4d93e69e9710b1ad"}"
+
+07-03-2020 @ 09:18:49 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(466) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:18:49 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS01af447f=018154f51ba413261643a518fceb8c8b7d70f1179cd14a33c528d61de078297be0f67f7b140eca6ef3e0771adf7d25e5149798ca53; Path=/; Secure; HTTPOnly
+content-length: 53
+
+{"responseCode":"34","getTransDataResponseCode":"34"}"
+
+07-03-2020 @ 09:18:49 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(425) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.mercanet.bnpparibas.net
+content-type:application/json
+accept:application/json
+content-length: 184
+
+{"merchantId":"211000162260001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"969","seal":"731831e8ee286511a0d7d081ae76abfdce8239cea17cf63e46920210a2fdaa57"}"
+
+07-03-2020 @ 09:18:49 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(466) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:18:49 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS01af447f=018154f51bb1542bf205b12bce716e5ef1187f841536c258fcefdf9724574c5f153350cae867e926c215b2505cebaca4de90c6b46d; Path=/; Secure; HTTPOnly
+content-length: 53
+
+{"responseCode":"34","getTransDataResponseCode":"34"}"
+
+07-03-2020 @ 09:18:49 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(425) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.mercanet.bnpparibas.net
+content-type:application/json
+accept:application/json
+content-length: 184
+
+{"merchantId":"211000162260001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"971","seal":"6f7f49bfd6e70fb43169110ce851d3ddbb7b01d60416e22406479295f819d07b"}"
+
+07-03-2020 @ 09:18:49 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(466) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:18:49 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS01af447f=018154f51b8b75fac757ff7328aa6510fbabb744dc067b6c15ecd5bcba0d50f28e119ba8cbff854f772db921283c35888c12f1f0c4; Path=/; Secure; HTTPOnly
+content-length: 53
+
+{"responseCode":"34","getTransDataResponseCode":"34"}"
+
+07-03-2020 @ 09:18:49 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(425) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.mercanet.bnpparibas.net
+content-type:application/json
+accept:application/json
+content-length: 184
+
+{"merchantId":"211000162260001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"972","seal":"e366fe4b92302e8407e1f18a6dfa375a7147a9574e4914d78b9ab7a7f2d90cda"}"
+
+07-03-2020 @ 09:18:50 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(466) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:18:49 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS01af447f=018154f51be78d5886f5f749c92f99196da4eea976e591f4bbfc5d9f327b4f9782a214038e186c608809eb1814630557b8c8c365b2; Path=/; Secure; HTTPOnly
+content-length: 53
+
+{"responseCode":"34","getTransDataResponseCode":"34"}"
+
+07-03-2020 @ 09:18:50 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(425) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.mercanet.bnpparibas.net
+content-type:application/json
+accept:application/json
+content-length: 184
+
+{"merchantId":"211000162260001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"974","seal":"09070bceab559aa294dc618d882c490958118cb01ac81b9fb468c32394aabe35"}"
+
+07-03-2020 @ 09:18:50 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(466) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:18:50 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS01af447f=018154f51bda97742518f07f73f68653873457505e615f0421bb832e85af9d559e0e4ee9c0ee51c6e0874017c0baab658f5b6bc905; Path=/; Secure; HTTPOnly
+content-length: 53
+
+{"responseCode":"34","getTransDataResponseCode":"34"}"
+
+07-03-2020 @ 09:18:50 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(425) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.mercanet.bnpparibas.net
+content-type:application/json
+accept:application/json
+content-length: 184
+
+{"merchantId":"211000162260001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"975","seal":"2be1d411ae380da81b67956edd9a7af498febeab1d73332288ffdd6317e7c4a6"}"
+
+07-03-2020 @ 09:18:50 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(466) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:18:50 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS01af447f=018154f51bae3ac9aa3b32248a5fcb0dea883a9d68ec4757a99b1d4aa86ed93a8d97895df76a70239b898d32221a2d2aca05a7a8da; Path=/; Secure; HTTPOnly
+content-length: 53
+
+{"responseCode":"34","getTransDataResponseCode":"34"}"
+
+07-03-2020 @ 09:18:50 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(425) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.mercanet.bnpparibas.net
+content-type:application/json
+accept:application/json
+content-length: 184
+
+{"merchantId":"211000162260001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"976","seal":"d7a1f0cedd86a2fefb21bd2d6027aa16e03d025a1e27e373b226f3e1b52decea"}"
+
+07-03-2020 @ 09:18:50 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(466) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:18:50 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS01af447f=018154f51beff0689f16d3ad6cfe70b3793f8c334a279be36fbf5aad8955cec4361f35191cff2ad8fdf16272fe5d87b451ff4e1692; Path=/; Secure; HTTPOnly
+content-length: 53
+
+{"responseCode":"34","getTransDataResponseCode":"34"}"
+
+07-03-2020 @ 09:18:50 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(425) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.mercanet.bnpparibas.net
+content-type:application/json
+accept:application/json
+content-length: 184
+
+{"merchantId":"211000162260001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"978","seal":"0f488650f25aa5eba62faf3db06069a4c02dab49b4d533004a913e77ca303631"}"
+
+07-03-2020 @ 09:18:50 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(466) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:18:50 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS01af447f=018154f51b1908c63c9ddcf7efd866d035a658d7d7d006863481b499b143364536438ca62a6a5eef396b358f915412eb0766c7f8ff; Path=/; Secure; HTTPOnly
+content-length: 53
+
+{"responseCode":"34","getTransDataResponseCode":"34"}"
+
+07-03-2020 @ 09:18:51 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(425) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.mercanet.bnpparibas.net
+content-type:application/json
+accept:application/json
+content-length: 184
+
+{"merchantId":"211000162260001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"979","seal":"0a6d93642979d7fe70bceb55bb1c25b4d8ed079ed3c6a3e501727e28d0564b8c"}"
+
+07-03-2020 @ 09:18:51 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(466) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:18:51 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS01af447f=018154f51b956d057d48c07ac2a1561d7b8a3bf333a04ae02770a3f0039cde70d95f2da9735a037229aded9cc9fab622f77d5c118e; Path=/; Secure; HTTPOnly
+content-length: 53
+
+{"responseCode":"34","getTransDataResponseCode":"34"}"
+
+07-03-2020 @ 09:21:00 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client request
+string(425) "POST /rs-services/v2/diagnostic/getTransactionData HTTP/1.1
+connection: close
+user-agent: Customweb HTTP Client/2
+host: office-server.mercanet.bnpparibas.net
+content-type:application/json
+accept:application/json
+content-length: 184
+
+{"merchantId":"211000162260001","keyVersion":"1","interfaceVersion":"DR_WS_2.26","transactionReference":"980","seal":"4412aaa20a92eb846197728bc405b4970b21a097f7b147d5e69c4250726cdc42"}"
+
+07-03-2020 @ 09:21:00 - [debug] Customweb_Core_Http_Client_Socket: HTTP Client respons
+string(466) "HTTP/1 200  OK
+Date: Fri, 03 Jul 2020 07:21:00 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Connection: close
+Content-Type: application/json
+Set-Cookie: TS01af447f=018154f51b1493edb549729c6a80f443c10eb569e7d54175dd89cc30fe9597386b93ed6337ffbfb668b854b619da6940f75a2b440c; Path=/; Secure; HTTPOnly
+content-length: 53
+
+{"responseCode":"34","getTransDataResponseCode":"34"}"
+
+07-03-2020 @ 16:13:40 - [info] Customweb_BNPMercanet_Endpoint_Process: The notification process has been started for the transaction 43.
+07-03-2020 @ 16:13:40 - [info] Customweb_BNPMercanet_Endpoint_Process: The notification process has been started for the transaction 41.
+07-03-2020 @ 16:13:40 - [info] Customweb_BNPMercanet_Endpoint_Process: The notification process has been finished for the transaction 43.
+07-03-2020 @ 16:13:40 - [info] Customweb_BNPMercanet_Endpoint_Process: The notification process has been finished for the transaction 41.
+07-03-2020 @ 16:13:40 - [info] Customweb_BNPMercanet_Endpoint_Process: The notification process has been started for the transaction 42.
+07-03-2020 @ 16:13:40 - [info] Customweb_BNPMercanet_Endpoint_Process: The notification process has been finished for the transaction 42.
+07-03-2020 @ 16:21:04 - [info] Customweb_BNPMercanet_Endpoint_Process: The notification process has been started for the transaction 44.
+07-03-2020 @ 16:21:04 - [info] Customweb_BNPMercanet_Endpoint_Process: The notification process has been finished for the transaction 44.
+07-03-2020 @ 16:57:45 - [info] Customweb_BNPMercanet_Endpoint_Process: The notification process has been started for the transaction 45.
+07-03-2020 @ 16:57:45 - [info] Customweb_BNPMercanet_Endpoint_Process: The notification process has been finished for the transaction 45.

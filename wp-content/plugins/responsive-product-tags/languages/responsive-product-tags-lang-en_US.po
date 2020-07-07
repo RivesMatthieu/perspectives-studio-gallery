@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Product Image Tags - WooCommerce Plugin v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-04-03 18:16:09+0000\n"
+"Last-Translator: WPShowCase <info@wpshowcase.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: includes/admin.php:29
+#@ responsive-product-tags-lang
+msgid "Image"
+msgstr ""
+
+#: includes/admin.php:49
+#: includes/admin.php:76
+#: includes/settings.php:112
+#@ woocommerce
+#@ responsive-product-tags-lang
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/admin.php:77
+#@ responsive-product-tags-lang
+msgid "Choose image"
+msgstr ""
+
+#: includes/admin.php:87
+#@ responsive-product-tags-lang
+msgid "Choose a different image"
+msgstr ""
+
+#: includes/admin.php:95
+#@ responsive-product-tags-lang
+msgid "Remove image"
+msgstr ""
+
+#: includes/frontend.php:51
+#@ responsive-product-tags-lang
+msgid ":"
+msgstr ""
+
+#: includes/settings.php:36
+#: responsive-product-tags.php:38
+#: responsive-product-tags.php:48
+#@ responsive-product-tags-lang
+#@ woocommerce-import-lang
+msgid "Responsive Product Image Tag Settings"
+msgstr ""
+
+#: includes/settings.php:46
+#@ responsive-product-tags-lang
+msgid "Display a border around the tags?"
+msgstr ""
+
+#: includes/settings.php:53
+#@ responsive-product-tags-lang
+msgid "Link tag to all products with the same tag?"
+msgstr ""
+
+#: includes/settings.php:72
+#@ responsive-product-tags-lang
+msgid "How would you like to display the tag name?"
+msgstr ""
+
+#: includes/settings.php:73
+#: includes/settings.php:92
+#@ responsive-product-tags-lang
+msgid "As a tooltip"
+msgstr ""
+
+#: includes/settings.php:74
+#@ responsive-product-tags-lang
+msgid "To the right of the image"
+msgstr ""
+
+#: includes/settings.php:75
+#@ responsive-product-tags-lang
+msgid "Over the image"
+msgstr ""
+
+#: includes/settings.php:76
+#: includes/settings.php:93
+#@ responsive-product-tags-lang
+msgid "Below the image"
+msgstr ""
+
+#: includes/settings.php:77
+#: includes/settings.php:94
+#@ responsive-product-tags-lang
+msgid "Do not display"
+msgstr ""
+
+#: includes/settings.php:91
+#@ responsive-product-tags-lang
+msgid "How would you like to display the tag description?"
+msgstr ""
+
+#: includes/settings.php:111
+#@ responsive-product-tags-lang
+msgid "What size would you like the thumbnails to be?"
+msgstr ""
+
+#: includes/settings.php:113
+#@ responsive-product-tags-lang
+msgid "Medium"
+msgstr ""
+
+#: includes/settings.php:114
+#@ responsive-product-tags-lang
+msgid "Large"
+msgstr ""
+
+#: includes/settings.php:115
+#@ responsive-product-tags-lang
+msgid "Full"
+msgstr ""
+
+#: includes/settings.php:118
+#@ responsive-product-tags-lang
+msgid "Below the product title"
+msgstr ""
+
+#: includes/settings.php:119
+#@ responsive-product-tags-lang
+msgid "Floating to the right of the price"
+msgstr ""
+
+#: includes/settings.php:120
+#@ responsive-product-tags-lang
+msgid "Where would you like the tags to appear?"
+msgstr ""
+
+#: includes/settings.php:122
+#@ responsive-product-tags-lang
+msgid "Save Settings"
+msgstr ""
+

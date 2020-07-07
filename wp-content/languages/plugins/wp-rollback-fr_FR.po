@@ -1,0 +1,124 @@
+# Translation of Plugins - WP Rollback - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - WP Rollback - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-10-16 08:31:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - WP Rollback - Stable (latest release)\n"
+
+#. Author of the plugin
+msgid "Impress.org"
+msgstr "Impress.org"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://impress.org/"
+msgstr "https://impress.org/"
+
+#: wp-rollback.php:524
+msgid "View Changelog"
+msgstr "Voir le journal"
+
+#: wp-rollback.php:299
+msgid "Sorry, we couldn't find a changelog entry found for this version. Try checking the <a href=\"%s\" target=\"_blank\">developer log</a> on WP.org."
+msgstr "Désolé, nous ne trouvons pas d’entrée de journal pour cette version. Essayez de vérifier le <a href=\"%s\" target=\"_blank\">journal du développeur</a> sur WP.org."
+
+#: includes/rollback-menu.php:47
+msgid "Oh no! We're missing required rollback query strings. Please contact support so we can check this bug out and squash it!"
+msgstr "Oh non ! Des requêtes nécessaires pour la restauration sont manquantes. Veuillez contacter le support afin que nous puissions vérifier ce bug !"
+
+#: wp-rollback.php:517
+msgid "Installed Version"
+msgstr "Version installée"
+
+#: wp-rollback.php:300
+msgid "Please select a version number to perform a rollback."
+msgstr "Veuillez sélectionner un numéro de version pour effectuer un retour en arrière."
+
+#: includes/rollback-menu.php:73 includes/rollback-menu.php:135
+msgid "Cancel"
+msgstr "Annuler"
+
+#: wp-rollback.php:266 wp-rollback.php:582 wp-rollback.php:657
+#: wp-rollback.php:712 includes/rollback-menu.php:72
+#: includes/rollback-menu.php:134
+msgid "Rollback"
+msgstr "Retour en arrière"
+
+#: includes/rollback-menu.php:26
+msgid "plugin"
+msgstr "extension"
+
+#: includes/rollback-menu.php:26
+msgid "theme"
+msgstr "thème"
+
+#. Plugin Name of the plugin
+#: includes/rollback-menu.php:23
+msgid "WP Rollback"
+msgstr "WP Rollback "
+
+#: includes/rollback-menu.php:10
+msgid "WP Rollback is missing necessary parameters to continue. Please contact support."
+msgstr "Il manque des paramètres nécessaires à WP Rollback pour continuer. Veuillez contacter le support."
+
+#: includes/rollback-action.php:47
+msgid "This rollback request is missing a proper query string. Please contact support."
+msgstr "Cette demande de retour en arrière a une chaîne manquante de requête appropriée. Veuillez contacter le support."
+
+#. Description of the plugin
+msgid "Rollback (or forward) any WordPress.org plugin or theme like a boss."
+msgstr "Retour en arrière vers les versions précédentes de toute extension ou de tout thème Wordpress.org comme un chef.  "
+
+#: wp-rollback.php:828
+msgid "(WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.)"
+msgstr "(WordPress n’a pas pu établir de connexion sécurisée vers WordPress.org. Veuillez contacter l’administrateur de votre serveur.)"
+
+#: wp-rollback.php:267
+msgid "No Rollback Available: This is a non-WordPress.org theme."
+msgstr "Aucun retour en arrière n’est disponible : Il s’agit d’un thème non-WordPress.org."
+
+#: includes/rollback-menu.php:26
+msgid "Please select which %1$s version you would like to rollback to from the releases listed below. You currently have version %2$s installed of %3$s."
+msgstr "Veuillez sélectionner quelle version pour %1$s vous souhaitez faire un retour en arrière à partir de la liste ci-dessous. Vous avez actuellement la version %2$s installée de %3$s."
+
+#: wp-rollback.php:148 wp-rollback.php:160
+msgid "Cheatin&#8217; huh?"
+msgstr "Alors, on triche ?"
+
+#: wp-rollback.php:268
+msgid "Loading..."
+msgstr "Chargement…"
+
+#: wp-rollback.php:828
+msgid "An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href=\"https://wordpress.org/support/\">support forums</a>."
+msgstr "Une erreur inattendue est apparue. Peut-être que quelque chose ne va pas avec WordPress.org ou la configuration de ce serveur. Si vous continuez à avoir des problèmes, veuillez essayez le <a href=\"https://wordpress.org/support/\">forum de support</a>."
+
+#: includes/rollback-menu.php:120
+msgid "New Version:"
+msgstr "Nouvelle version :"
+
+#: includes/rollback-menu.php:114
+msgid "Installed Version:"
+msgstr "Version installée :"
+
+#: includes/rollback-menu.php:105
+msgid "Theme Name:"
+msgstr "Nom du thème :"
+
+#: includes/rollback-menu.php:103
+msgid "Plugin Name:"
+msgstr "Nom de l’extension :"
+
+#: includes/rollback-menu.php:92
+msgid "Are you sure you want to perform the following rollback?"
+msgstr "Confirmez-vous vraiment le retour en arrière suivant ?"
+
+#: wp-rollback.php:346
+msgid "You do not have sufficient permissions to perform rollbacks for this site."
+msgstr "Vous n’avez pas les droits suffisants pour effectuer des retours en arrière pour ce site."

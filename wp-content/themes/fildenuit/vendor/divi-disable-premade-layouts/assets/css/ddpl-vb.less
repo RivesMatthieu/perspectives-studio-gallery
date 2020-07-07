@@ -1,0 +1,31 @@
+/**********************************************************************************
+	Hide Tab and show iframe after loading
+**********************************************************************************/
+
+.et-fb-page-creation-container div:nth-child(2) {
+	display: none!important;
+}
+
+#et-fb-settings-column {
+	.et-fb-settings-tabs-nav {
+		.et-fb-settings-options_tab_modules_all {
+			display: none!important;
+		}
+		.no-et-layouts & .et-fb-settings-options_tab_modules_library {
+			display: none!important;
+		}
+	}
+	iframe {
+		opacity: 0;
+		visibility: hidden;
+		transition: opacity .4s ease-in-out;
+		&.show {
+			visibility: visible;
+			opacity: 1;
+		}
+	}
+}
+
+select[name="page_creation"] option[value="2"] {
+	display: none;
+}

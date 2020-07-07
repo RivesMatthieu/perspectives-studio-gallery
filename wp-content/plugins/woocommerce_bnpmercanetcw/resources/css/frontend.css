@@ -1,0 +1,230 @@
+.bnpmercanetcw-preview-fields{
+	margin-top: 5px;
+}
+
+.bnpmercanetcw-control-group {
+	margin-bottom: 5px;
+}
+
+.bnpmercanetcw-control-label {
+	display: inline-block;
+	padding-top: 6px;
+	padding-bottom: 3px;
+	width: 100%;
+	font-weight: bold;
+}
+
+.bnpmercanetcw-help-block{
+	font-size: 14px;
+	padding-top: 3px;
+	padding-bottom: 6px;
+	font-size: 0.9em;
+	
+}
+
+.bnpmercanetcw-control-label .bnpmercanetcw-required {
+	color: #990000;
+	font-size: 0.8em;
+    padding-left: 2px;
+    vertical-align: top;
+}
+
+
+.bnpmercanetcw-error {
+	margin-left: 140px;
+	color: #D8000C;
+}
+
+.bnpmercanetcw-element-error input[type='text'],
+	.bnpmercanetcw-element-error input[type='password'],
+	.bnpmercanetcw-element-error select {
+	border-color: #D8000C;
+}
+
+.bnpmercanetcw-card-cvc input[type='text'] {
+	max-width: 100px;
+}
+
+.bnpmercanetcw-multi-control .bnpmercanetcw-controls {
+	float:left;	
+}
+
+.bnpmercanetcw-multi-control > div {
+	display: inline-block;
+	width: 100%;
+}
+
+.bnpmercanetcw-text-field {
+	width: 80%;
+}
+
+.bnpmercanetcw-iframe {
+	width: 100%;
+	border: none;
+}
+
+.bnpmercanetcw-widget {
+	width: 100%;
+	border: none;
+}
+
+
+.bnpmercanetcw-alias-hidden-new {
+	display: none;
+}
+
+.card-brand-image-box {
+	display: inline-block;
+}
+
+.card-brand-image-color.brand-is-deselected {
+	display: none;
+}
+
+.card-brand-image-grey.brand-is-selected {
+	display: none;
+}
+
+.entry-content .card-brand-image-selection img,
+	.card-brand-image-selection img {
+	width: auto;
+	height: 25px;
+	padding-right: 4px;
+	padding-bottom: 4px;
+	margin: 0 .5em 0 0;
+}
+
+.invalid-card-number, .invalid-card-number:focus, .invalid-cvc-number,
+	.invalid-cvc-number:focus, .invalid-issuer-number,
+	.invalid-issuer-number:focus {
+	border-color: #fb7f88;
+	background-image: url(../image/invalid.png);
+	background-position: 95% center;
+	background-repeat: no-repeat;
+}
+
+.valid-card-number, .valid-card-number:focus, .valid-cvc-number,
+	.valid-cvc-number:focus, .valid-issuer-number, .valid-issuer-number:focus
+	{
+	background-image: url(../image/valid.png);
+	background-position: 95% center;
+	background-repeat: no-repeat;
+}
+
+.bnpmercanetcw-multi-control .bnpmercanetcw-select-field select {
+	margin-right: 1em;
+}
+
+.bnpmercanetcw-card-number .bnpmercanetcw-multi-control select {
+	float: none;
+	margin-top: 0.2em;
+	margin-bottom: 0.2em;
+}
+
+.card-brand-image-selection {
+	margin-top: 0.5em;
+	cursor: pointer;
+}
+
+.bnpmercanetcw-card-number .bnpmercanetcw-html-field {
+	display: block;
+}
+
+.bnpmercanetcw-back-to-checkout {
+	margin-top: 10px;
+	font-size: small;
+}
+
+.bnpmercanetcw-requires-second-run {
+	display: none;
+}
+
+.bnpmercanetcw .col2-set {
+	width: 100%;
+	margin-bottom: 24 px
+}
+
+.bnpmercanetcw .col2-set:after, .woocommerce .col2-set:before
+	{
+	content: " ";
+	display: table;
+}
+
+.bnpmercanetcw .col2-set :after {
+	clear: both;
+}
+
+.bnpmercanetcw .col2-set .col-1 {
+	float: left;
+	width: 48%;
+}
+
+.bnpmercanetcw .col2-set .col-2 {
+	float: right;
+	width: 48%;
+}
+
+.bnpmercanetcw-external-checkout-line-items-table .head-name {
+	width: 60%;
+}
+
+.bnpmercanetcw-external-checkout-line-items-table .head-quantity {
+	width: 10%;
+}
+
+.bnpmercanetcw-external-checkout-line-items-table .head-total {
+	width: 30%;
+}
+
+.bnpmercanetcw-external-checkout-line-items-table .product-quantity {
+	text-align: center;
+}
+
+.bnpmercanetcw-external-checkout-additional {
+	width: 100%;
+	margin-bottom: 24px
+}
+
+.bnpmercanetcw-external-checkout-terms {
+	width: 100%;
+	margin-bottom: 12px
+}
+
+.bnpmercanetcw-external-checkout-confirm-buttons {
+	margin-bottom: 24px
+}
+
+.bnpmercanetcw-external-checkout-account input.button {
+	margin-top: 12px
+}
+
+.cw-external-checkouts {
+	overflow: hidden;
+	margin-bottom: 12px;
+}
+
+.cw-external-checkouts .cw-external-checkout {
+	float: right;
+	margin-left: 10px;
+	margin-bottom: 1em;
+}
+
+.bnpmercanetcw-external-checkout-customer-details {
+	margin-bottom: 24px;
+}
+
+.bnpmercanetcw-external-checkout-billing {
+	margin-bottom: 24px;
+}
+
+.bnpmercanetcw-external-checkout-shipping {
+	margin-bottom: 24px;
+}
+
+.bnpmercanetcw-external-checkout-login-info-message {
+	margin-bottom: 24px;
+}
+
+.woocommerce-checkout #payment div.payment_box p:nth-last-of-type(1) {
+	margin-bottom: 0px;
+}

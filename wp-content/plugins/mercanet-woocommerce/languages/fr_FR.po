@@ -1,0 +1,1445 @@
+#
+#  <>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mercanet_woocommerce\n"
+"POT-Creation-Date: 2016-12-06 15:17+0100\n"
+"PO-Revision-Date: 2017-05-29 09:53+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: gateways/class-mercanet-gateway-nx.php:28
+msgid "Mercanet payment in several times"
+msgstr "Mercanet paiement en plusieurs fois"
+
+#: gateways/class-mercanet-gateway-recurrent.php:28
+msgid "Mercanet recurring payment"
+msgstr "Paiement par abonnement"
+
+#: gateways/class-mercanet-gateway-recurrent.php:105
+msgid "Active Recurring Payment"
+msgstr "Activer le paiement par abonnement"
+
+#: gateways/class-mercanet-gateway-nx.php:30
+msgid "Payment in several times"
+msgstr "Paiement en plusieurs fois"
+
+#: gateways/class-mercanet-gateway-nx.php:31
+#: gateways/class-mercanet-gateway-onetime.php:25
+msgid "Pay with Mercanet"
+msgstr "Paiement avec Mercanet"
+
+#: gateways/class-mercanet-gateway-nx.php:169
+msgid "Invalid translation type."
+msgstr ""
+
+#: gateways/class-mercanet-gateway-nx.php:205
+#: gateways/class-mercanet-gateway-nx.php:211
+#: gateways/class-mercanet-gateway-nx.php:215
+msgid ""
+"An unexpected error occurred. Something may be wrong with WordPress.org or "
+"this server&#8217;s configuration. If you continue to have problems, please "
+"try the <a href=\"https://wordpress.org/support/\">support forums</a>."
+msgstr ""
+
+#: gateways/class-mercanet-gateway-nx.php:205
+msgid ""
+"(WordPress could not establish a secure connection to WordPress.org. Please "
+"contact your server administrator.)"
+msgstr ""
+
+#: gateways/class-mercanet-gateway-nx.php:237
+#, fuzzy
+msgid "Paiement en 2 fois"
+msgstr "payment: %s"
+
+#: gateways/class-mercanet-gateway-nx.php:246
+#, fuzzy
+msgid "Paiement en 3 fois"
+msgstr "payment: %s"
+
+#: gateways/class-mercanet-gateway-nx.php:290
+msgid ""
+"Wording payment in several times imperative information for all languages of "
+"your shop"
+msgstr ""
+"Libellé du paiement en plusieurs fois à renseigner impérativement pour "
+"toutes les langues de votre boutique"
+
+#: gateways/class-mercanet-gateway-nx.php:332
+msgid ""
+"You have to choose a name for the payment in several times in the current "
+"language."
+msgstr ""
+"Vous devez choisir un nom pour le paiement en plusieurs fois dans la langue "
+"actuelle."
+
+#: gateways/class-mercanet-gateway-nx.php:364
+msgid "LABEL PAYMENT IN SEVERAL TIMES"
+msgstr "LIBELLÉ PAIEMENT EN PLUSIEURS FOIS"
+
+#: gateways/class-mercanet-gateway-nx.php:369
+#: gateways/class-mercanet-gateway-onetime.php:195
+msgid "Title"
+msgstr "Libellé"
+
+#: gateways/class-mercanet-gateway-nx.php:372
+#: gateways/class-mercanet-gateway-nx.php:794
+#: gateways/class-mercanet-gateway-onetime.php:197
+msgid "Label"
+msgstr "Nom"
+
+#: gateways/class-mercanet-gateway-nx.php:373
+msgid "Payment in several times by Mercanet"
+msgstr "Paiement en plusieurs fois via Mercanet"
+
+#: gateways/class-mercanet-gateway-nx.php:377
+msgid "*Name of the payment"
+msgstr "*Nom du paiement"
+
+#: gateways/class-mercanet-gateway-nx.php:381
+#: gateways/class-mercanet-gateway-onetime.php:205
+msgid "Activation"
+msgstr "Activation"
+
+#: gateways/class-mercanet-gateway-nx.php:383
+msgid "Active Several Times Payment"
+msgstr "Activer le paiement en plusieurs fois"
+
+#: gateways/class-mercanet-gateway-nx.php:535
+#: gateways/class-mercanet-gateway-onetime.php:340
+msgid "Please choose a card to proceed at the payment."
+msgstr "Veuillez choisir une carte pour procéder au paiement"
+
+#: gateways/class-mercanet-gateway-nx.php:542
+msgid "Please choose a payment option to proceed at the payment."
+msgstr "Veuillez choisir une option pour procéder au paiement"
+
+#: gateways/class-mercanet-gateway-nx.php:663
+#: gateways/class-mercanet-gateway-nx.php:697
+#: gateways/class-mercanet-gateway-onetime.php:401
+#: gateways/class-mercanet-gateway-onetime.php:446
+msgid "Mercanet response error"
+msgstr "Erreur de la réponse Mercanet"
+
+#: gateways/class-mercanet-gateway-nx.php:694
+#: gateways/class-mercanet-gateway-onetime.php:431
+msgid "Payment accepted"
+msgstr "Paiement accepté"
+
+#: gateways/class-mercanet-gateway-nx.php:712
+#: gateways/class-mercanet-gateway-onetime.php:108
+msgid "Authorisation ID"
+msgstr "N° Autorisation"
+
+#: gateways/class-mercanet-gateway-nx.php:717
+msgid "Schedules"
+msgstr "Échéanciers"
+
+#: gateways/class-mercanet-gateway-nx.php:721
+#: includes/class-mercanet-schedule.php:76
+#: includes/class-mercanet-transaction.php:133
+#: includes/class-mercanet-recurring-paymentt.php:14
+#: views/html-mercanet-transactions.php:13
+msgid "Amount"
+msgstr "Montant"
+
+#: gateways/class-mercanet-gateway-nx.php:738
+#: gateways/class-mercanet-gateway-onetime.php:458
+msgid "You can not use the refund with your merchant options"
+msgstr ""
+"Vos options marchandes ne vous permettent pas d'effectuer un remboursement."
+
+#: gateways/class-mercanet-gateway-nx.php:786
+msgid "PAYMENT OPTIONS"
+msgstr "OPTIONS DU PAIEMENT"
+
+#: gateways/class-mercanet-gateway-nx.php:795
+#: gateways/class-mercanet-gateway-onetime.php:216
+msgid "Minimum amount"
+msgstr "Montant minimum"
+
+#: gateways/class-mercanet-gateway-nx.php:796
+#: gateways/class-mercanet-gateway-onetime.php:222
+msgid "Maximum amount"
+msgstr "Montant maximum"
+
+#: gateways/class-mercanet-gateway-nx.php:797
+msgid "Number"
+msgstr "Nombre"
+
+#: gateways/class-mercanet-gateway-nx.php:798
+msgid "Periodicy"
+msgstr "Période (en jours)"
+
+#: gateways/class-mercanet-gateway-nx.php:799
+msgid "First payment"
+msgstr "Premier paiement (en %)"
+
+#: gateways/class-mercanet-gateway-nx.php:800
+msgid "Active"
+msgstr "Activer"
+
+#: gateways/class-mercanet-gateway-nx.php:838
+msgid "+ Add option"
+msgstr "+ Ajouter une option"
+
+#: gateways/class-mercanet-gateway-nx.php:838
+msgid "Remove selected option(s)"
+msgstr "Supprimer les options sélectionnées"
+
+#: gateways/class-mercanet-gateway-nx.php:906
+msgid "You have to choose a name for the payment option."
+msgstr "Vous devez choisir un nom pour l'option de paiement"
+
+#: gateways/class-mercanet-gateway-nx.php:910
+#: gateways/class-mercanet-gateway-onetime.php:121
+msgid "The minimum amount must contain only numeric."
+msgstr "Le montant minimum doit être uniquement numérique."
+
+#: gateways/class-mercanet-gateway-nx.php:914
+#: gateways/class-mercanet-gateway-onetime.php:124
+msgid "The maximum amount must contain only numeric."
+msgstr "Le montant maximum doit être uniquement numérique."
+
+#: gateways/class-mercanet-gateway-nx.php:919
+msgid ""
+"The minimum amount should be greater than 0 and less than the maximum amount."
+msgstr "Le montant minimum doit être supérieur à 0."
+
+#: gateways/class-mercanet-gateway-nx.php:921
+msgid "The minimum amount can not be greater than the maximum amount."
+msgstr "Le montant minimum ne peut être supérieur au montant maximum."
+
+#: gateways/class-mercanet-gateway-nx.php:923
+msgid "The maximum amount can not be smaller than the minimum amount."
+msgstr "Le montant maximum ne peut être inférieur au montant minimum."
+
+#: gateways/class-mercanet-gateway-nx.php:928
+msgid "You have to register a term number."
+msgstr "Vous devez saisir le nombre de termes."
+
+#: gateways/class-mercanet-gateway-nx.php:930
+msgid "The number of occurrence must contain only numeric."
+msgstr "Le nombre d’occurrence doit être uniquement numérique."
+
+#: gateways/class-mercanet-gateway-nx.php:932
+msgid "The number of occurrence must be between 2 and 12."
+msgstr "Le nombre d’occurrence doit être compris en 2 et 12."
+
+#: gateways/class-mercanet-gateway-nx.php:936
+msgid "You have to register the periodicy."
+msgstr "Vous devez saisir la périodicité."
+
+#: gateways/class-mercanet-gateway-nx.php:938
+msgid "The periodicy must contain only numeric."
+msgstr "La périodicité doit être uniquement numérique."
+
+#: gateways/class-mercanet-gateway-nx.php:940
+msgid "Payment n times should be less than 90 days duration."
+msgstr "Le paiement en n fois doit être inférieur à une durée de 90 jours."
+
+#: gateways/class-mercanet-gateway-nx.php:945
+msgid "You have to register the first amount."
+msgstr "Vous devez saisir le premier paiement."
+
+#: gateways/class-mercanet-gateway-nx.php:947
+msgid "The first amount must contain only numeric."
+msgstr "Le premier montant doit être uniquement numérique."
+
+#: gateways/class-mercanet-gateway-nx.php:949
+msgid "The first payment should be greater than 0 and less than 100."
+msgstr "Le premier paiement doit être supérieur à 0 et inférieur à 100."
+
+#: gateways/class-mercanet-gateway-onetime.php:22
+msgid "Mercanet one-time payment"
+msgstr "Mercanet paiement simple"
+
+#: gateways/class-mercanet-gateway-onetime.php:24
+msgid "One-time Payment"
+msgstr "Paiement simple"
+
+#: gateways/class-mercanet-gateway-onetime.php:78
+msgid ""
+"You have to choose a name for the onetime payment in the current language."
+msgstr ""
+"Vous devez choisir un nom pour le paiement simple dans la langue actuelle."
+
+#: gateways/class-mercanet-gateway-onetime.php:128
+msgid "The minimum amount can not be greater or equal than the maximum amount."
+msgstr "Le montant minimum ne peut être supérieur ou égal au montant maximum."
+
+#: gateways/class-mercanet-gateway-onetime.php:131
+msgid "The maximum amount can not be smaller or equal than the minimum amount."
+msgstr "Le montant maximum ne peut être inférieur ou égal au montant maximum."
+
+#: gateways/class-mercanet-gateway-onetime.php:156
+msgid "Wording payment in one time"
+msgstr "Libellé du paiement simple"
+
+#: gateways/class-mercanet-gateway-onetime.php:190
+msgid "LABEL ONE-TIME PAYMENT"
+msgstr "LIBELLÉ PAIEMENT SIMPLE"
+
+#: gateways/class-mercanet-gateway-onetime.php:198
+msgid "One-Time Payment by Mercanet"
+msgstr "Paiement sécurisé via Mercanet"
+
+#: gateways/class-mercanet-gateway-onetime.php:207
+msgid "Active One Time Payment"
+msgstr "Activer le paiement simple"
+
+#: gateways/class-mercanet-gateway-onetime.php:211
+msgid "RESTRICTION ON THE AMOUNTS"
+msgstr "ACCEPTATION DES PAIEMENTS"
+
+#: gateways/class-mercanet-gateway-onetime.php:218
+msgid "Minimum amount for which this payment method is available"
+msgstr ""
+"Montant minimum pour lequel ce mode de paiement est disponible. Saisir le "
+"montant renseigné sur votre bordereau d’inscription"
+
+#: gateways/class-mercanet-gateway-onetime.php:224
+msgid "Maximum amount for which this payment method is available"
+msgstr ""
+"Montant maximum pour lequel ce mode de paiement est disponible. Saisir le "
+"montant renseigné sur votre bordereau d’inscription"
+
+#: includes/class-mercanet-admin-credentials.php:24
+#: includes/class-mercanet-admin-credentials.php:172
+#: includes/class-mercanet-admin-credentials.php:220
+msgid "Mercanet credentials"
+msgstr "Mercanet configuration"
+
+#: includes/class-mercanet-admin-credentials.php:44
+#: includes/class-mercanet-admin-general.php:90
+msgid "Save Settings"
+msgstr "Enregistrer les paramètres"
+
+#: includes/class-mercanet-admin-credentials.php:57
+#: includes/class-mercanet-admin-credentials.php:123
+msgid "You have to register your Mercanet activation key"
+msgstr "Vous devez renseigner votre clé d'activation Mercanet."
+
+#: includes/class-mercanet-admin-credentials.php:62
+#: includes/class-mercanet-admin-credentials.php:115
+#: includes/class-mercanet-admin-credentials.php:125
+msgid "The digital signature of your activation key could not be validated."
+msgstr ""
+"Votre clé d'activation est invalide. Veuillez renseigner une clé valide."
+
+#: includes/class-mercanet-admin-credentials.php:131
+msgid "You have to register a Merchant ID."
+msgstr "Vous devez renseigner votre Merchant ID (identifiant commerçant)."
+
+#: includes/class-mercanet-admin-credentials.php:133
+msgid "The Merchant ID must contain only numeric."
+msgstr ""
+"Votre Merchanet ID (identifiant commerçant) doit être uniquement numérique."
+
+#: includes/class-mercanet-admin-credentials.php:135
+msgid "The Merchant ID must contain 15 characters."
+msgstr ""
+"Votre Merchanet ID (identifiant commerçant) doit contenir 15 caractères."
+
+#: includes/class-mercanet-admin-credentials.php:141
+msgid "You have to register your secret key."
+msgstr "Vous devez renseigner votre clé secrète."
+
+#: includes/class-mercanet-admin-credentials.php:147
+msgid "You have to register a key version."
+msgstr "Vous devez renseigner votre version de clé secrète."
+
+#: includes/class-mercanet-admin-credentials.php:149
+msgid "The key version must contain only numeric."
+msgstr "La version de votre clé secrète doit être uniquement numérique."
+
+#: includes/class-mercanet-admin-credentials.php:151
+msgid "The key version can not contain more than 10 characters."
+msgstr ""
+"La version de votre clé secrète ne peut contenir plus de 10 caractères."
+
+#: includes/class-mercanet-admin-credentials.php:176
+#: includes/class-mercanet-admin-credentials.php:225
+msgid "*Enter your activation key"
+msgstr "*Renseignez votre clé d'activation"
+
+#: includes/class-mercanet-admin-credentials.php:178
+msgid "*Enabled test mode"
+msgstr "*Activer le mode de test"
+
+#: includes/class-mercanet-admin-credentials.php:180
+msgid "Enabled or disabled test mode"
+msgstr "Activer ou désactiver le mode de test"
+
+
+#: includes/class-mercanet-admin-credentials.php:179
+#: includes/class-mercanet-admin-credentials.php:229
+msgid "This key is provided by BNP Paribas"
+msgstr ""
+"Votre clé d'activation vous est fournie par mail via l'assistance Mercanet"
+
+#: includes/class-mercanet-admin-credentials.php:185
+msgid "*Enter your Merchant ID"
+msgstr "*Renseignez votre Merchant ID (identifiant commerçant)"
+
+#: includes/class-mercanet-admin-credentials.php:187
+msgid "This ID is provided by BNP Paribas"
+msgstr ""
+"Identifiant fourni par mail via l'assistance BNP Paribas lors de votre "
+"inscription"
+
+#: includes/class-mercanet-admin-credentials.php:191
+msgid "*Enter your Secret Key"
+msgstr "*Renseignez votre clé secrète"
+
+#: includes/class-mercanet-admin-credentials.php:194
+msgid "This secret key is provided by BNP Paribas"
+msgstr ""
+"Votre clé secrète est disponible dans l'interface Mercanet Téléchargement"
+
+#: includes/class-mercanet-admin-credentials.php:198
+msgid "*Enter your key version"
+msgstr "*Renseignez votre version de clé"
+
+#: includes/class-mercanet-admin-credentials.php:200
+msgid "This version number is provided by BNP Paribas"
+msgstr ""
+"La version de votre clé secrète  est disponible dans l'interface Mercanet "
+"Téléchargement"
+
+#: includes/class-mercanet-admin-general.php:26
+#, fuzzy
+msgid "Mercanet General"
+msgstr "Mercanet général"
+
+#: includes/class-mercanet-admin-general.php:35
+msgid " Yoo have to choose a default language."
+msgstr "Vous devez choisir une langue par défaut."
+
+#: includes/class-mercanet-admin-general.php:40
+msgid " Yoo have to choose a payment card."
+msgstr "Vous devez choisir une carte de paiement."
+
+#: includes/class-mercanet-admin-general.php:45
+msgid " Yoo have to choose an allowed country."
+msgstr "Vous devez choisir un pays autorisé."
+
+#: includes/class-mercanet-admin-general.php:50
+msgid " Yoo have to choose a currency."
+msgstr "Vous devez choisir une monnaie."
+
+#: includes/class-mercanet-admin-general.php:57
+msgid "The bank deposit time limit must contain only numeric."
+msgstr ""
+"Le délai de remise en banque doit être uniquement sous la forme numérique."
+
+#: includes/class-mercanet-admin-general.php:59
+msgid "The bank deposit time limit must be between 0 and 99."
+msgstr "Le délai de remise en banque doit être compris entre 0 et 99."
+
+#: includes/class-mercanet-admin-general.php:68
+msgid "The 3DS minimum amount must contain only numeric."
+msgstr ""
+"Le montant minimum de déclenchement du 3D-Secure doit être uniquement sous "
+"la forme numérique."
+
+#: includes/class-mercanet-admin-general.php:70
+msgid "The 3DS minimum amount must be superior to 0."
+msgstr "Le montant minimum doit être supérieur à 0."
+
+#: includes/class-mercanet-admin-general.php:169
+msgid "ALL"
+msgstr "TOUS"
+
+#: includes/class-mercanet-admin-general.php:193
+msgid "Mercanet general"
+msgstr "Mercanet général"
+
+#: includes/class-mercanet-admin-general.php:198
+msgid "*Cards allowed"
+msgstr "*Moyens de paiement autorisés"
+
+#: includes/class-mercanet-admin-general.php:199
+msgid "List of card authorized to make a payment"
+msgstr "Liste des moyens de paiement autorisés"
+
+#: includes/class-mercanet-admin-general.php:208
+msgid "*Default payment page language"
+msgstr "* Langue par défaut de la page de paiement"
+
+#: includes/class-mercanet-admin-general.php:211
+msgid "Used if the current WordPress language is not available on Mercanet"
+msgstr "Sélectionnez la langue à utiliser par défaut sur la page de paiement"
+
+#: includes/class-mercanet-admin-general.php:218
+msgid "*Countries allowed"
+msgstr "*Pays d'émission de la carte autorisé(s)"
+
+#: includes/class-mercanet-admin-general.php:221
+msgid "Liste of countries authorized to make a payment"
+msgstr ""
+"Liste des pays d'émission de la carte autorisés pour effectuer un paiement"
+
+#: includes/class-mercanet-admin-general.php:228
+msgid "Bank deposit time limit"
+msgstr "Délai avant remise en banque"
+
+#: includes/class-mercanet-admin-general.php:230
+msgid "0 for D-Day. The number of days before the bank deposit"
+msgstr "0 = jour J. Le nombre de jours avant la remise en banque"
+
+#: includes/class-mercanet-admin-general.php:236
+msgid "*Currencies allowed"
+msgstr "*Devises autorisées (en plus de l'Euro)"
+
+#: includes/class-mercanet-admin-general.php:237
+msgid ""
+"List of currencies authorized to make a payment, others currencies will be "
+"send in EURO"
+msgstr ""
+"Si la devise affichée sur votre boutique n'est pas activée sur Mercanet, la "
+"devise Euro sera automatiquement sélectionnée"
+
+#: includes/class-mercanet-admin-general.php:248
+msgid "*Bank remittance"
+msgstr " Remise en banque"
+
+#: includes/class-mercanet-admin-general.php:252
+msgid ""
+"In manual mode, you must confirm payment within the back office of your shop"
+msgstr ""
+"En mode manuel, vous devrez confirmer les paiements depuis le Back Office "
+"Mercanet"
+
+#: includes/class-mercanet-admin-general.php:255
+msgid "Automatic re-authorization and payment (by default)"
+msgstr "Envoi automatique (par défaut)"
+
+#: includes/class-mercanet-admin-general.php:256
+msgid "Hand over payment after validation by the Merchant"
+msgstr "Après validation manuelle"
+
+#: includes/class-mercanet-admin-general.php:261
+msgid "Card data input method"
+msgstr "Sélection et saisie des données bancaires lors d'un paiement"
+
+#: includes/class-mercanet-admin-general.php:267
+msgid "Choice of payment and data cards on Mercanet"
+msgstr ""
+"Choix des moyens de paiement et saisie des données cartes sur Mercanet (par "
+"défaut)"
+
+#: includes/class-mercanet-admin-general.php:268
+msgid "Choice of payment card on WooCommerce and data cards on Mercanet"
+msgstr ""
+"Choix des moyens de paiement sur votre boutique et saisie des données carte "
+"sur Mercanet"
+
+#: includes/class-mercanet-admin-general.php:269
+msgid "Choice of payment and data cards on WooCommerce (IFRAME)"
+msgstr ""
+"Choix des moyens de paiement et saisie des données cartes sur le CMS (via  "
+"IFRAME)"
+
+#: includes/class-mercanet-admin-general.php:274
+msgid "Redirection to the shop after the payment"
+msgstr "Retour boutique après paiement "
+
+#: includes/class-mercanet-admin-general.php:278
+msgid ""
+"The option will redirect the customer directly at your shop after the payment"
+msgstr ""
+"Cette option va directement rediriger le client sur votre boutique après son "
+"paiement"
+
+#: includes/class-mercanet-admin-general.php:280
+#: includes/class-mercanet-admin-general.php:292
+#: includes/class-mercanet-admin-general.php:305
+#: includes/class-mercanet-admin-general.php:336
+#: includes/class-mercanet-admin-general.php:364
+#: includes/class-mercanet-admin-general.php:378
+#: includes/class-mercanet-admin-general.php:392
+#: includes/class-mercanet-admin-general.php:406
+#: includes/class-mercanet-admin-general.php:420
+#: includes/class-mercanet-admin-general.php:434
+#: includes/class-mercanet-admin-general.php:448
+#: includes/class-mercanet-admin-general.php:462
+#: includes/class-mercanet-admin-general.php:476
+#: includes/class-mercanet-admin-general.php:490
+#: includes/class-mercanet-admin-general.php:511
+#: includes/class-mercanet-admin-general.php:530
+#: includes/class-mercanet-recurring-payment.php:14
+msgid "Yes"
+msgstr "Oui"
+
+#: includes/class-mercanet-admin-general.php:281
+#: includes/class-mercanet-admin-general.php:293
+#: includes/class-mercanet-admin-general.php:306
+#: includes/class-mercanet-admin-general.php:337
+#: includes/class-mercanet-admin-general.php:365
+#: includes/class-mercanet-admin-general.php:379
+#: includes/class-mercanet-admin-general.php:393
+#: includes/class-mercanet-admin-general.php:407
+#: includes/class-mercanet-admin-general.php:421
+#: includes/class-mercanet-admin-general.php:435
+#: includes/class-mercanet-admin-general.php:449
+#: includes/class-mercanet-admin-general.php:463
+#: includes/class-mercanet-admin-general.php:477
+#: includes/class-mercanet-admin-general.php:491
+#: includes/class-mercanet-admin-general.php:512
+#: includes/class-mercanet-admin-general.php:531
+#: includes/class-mercanet-recurring-payment.php:14
+msgid "No"
+msgstr "Non"
+
+#: includes/class-mercanet-admin-general.php:286
+msgid "Customer confirmation ticket"
+msgstr "Ticket de confirmation client"
+
+#: includes/class-mercanet-admin-general.php:290
+msgid ""
+"The result of the transaction (confirmation / rejection) will be "
+"automatically emailed to the customer"
+msgstr ""
+"Le résultat de la transaction (confirmation/refus) sera automatiquement "
+"envoyé par mail au client"
+
+#: includes/class-mercanet-admin-general.php:299
+msgid "Activate the logger"
+msgstr "Activer les logs"
+
+#: includes/class-mercanet-admin-general.php:303
+msgid "Log files are stored in the log folder of the module"
+msgstr "Les fichiers de log sont stockés dans le répertoire du module"
+
+#: includes/class-mercanet-admin-general.php:311
+msgid "CUSTOMIZING THE PAYMENT PAGE"
+msgstr "PERSONNALISATION DE LA PAGE DE PAIEMENT"
+
+#: includes/class-mercanet-admin-general.php:316
+msgid "Theme configuration"
+msgstr "Configuration du thème"
+
+#: includes/class-mercanet-admin-general.php:318
+msgid "The theme configuration to customize the Mercanet payment page (css)"
+msgstr ""
+"Renseignez le nom du thème pour personnaliser la page de paiement (css)"
+
+#: includes/class-mercanet-admin-general.php:325
+msgid "3D-SECURE"
+msgstr "3D SÉLECTIF"
+
+#: includes/class-mercanet-admin-general.php:330
+msgid "*Activate 3D-Secure"
+msgstr "*Activer le 3D Sélectif"
+
+#: includes/class-mercanet-admin-general.php:334
+msgid "Add the 3DS Secure control based on the 3DS authentication"
+msgstr "Activer le 3D Sélectif"
+
+#: includes/class-mercanet-admin-general.php:342
+msgid "Minimum amount for which activate 3D-Secure"
+msgstr "Seuil d'activation du 3D-Secure"
+
+#: includes/class-mercanet-admin-general.php:344
+msgid "Minimum amount to add the 3DS"
+msgstr ""
+"Renseignez le montant minimum à partir duquel vous souhaitez déclencher le "
+"3D-Secure "
+
+#: includes/class-mercanet-admin-general.php:352
+msgid "SECURITY TOOLS"
+msgstr "OUTILS SÉCURITAIRES"
+
+#: includes/class-mercanet-admin-general.php:358
+msgid "*Activate the control on Host Country Card"
+msgstr "*Activer le contrôle sur le pays d'émission de la carte"
+
+#: includes/class-mercanet-admin-general.php:362
+msgid "Add the anti fraud control on Host Country Card"
+msgstr "Activation / Désactivation du contrôle"
+
+#: includes/class-mercanet-admin-general.php:372
+msgid "*Activate the control on Country IP Address"
+msgstr "*Activer le contrôle sur l'adresse IP du pays"
+
+#: includes/class-mercanet-admin-general.php:376
+msgid "Add the anti fraud control on Country IP Address"
+msgstr "Activation / Désactivation du contrôle"
+
+#: includes/class-mercanet-admin-general.php:386
+msgid "*Activate the control on similitude of Country and Card IP Address"
+msgstr ""
+"*Activer le contrôle sur la similitude du pays et adresse IP de la carte"
+
+#: includes/class-mercanet-admin-general.php:390
+msgid "Add the anti fraud control on similitude of Country and Card IP Address"
+msgstr "Activation / Désactivation du contrôle"
+
+#: includes/class-mercanet-admin-general.php:400
+msgid "*Activate the 3D-Secure Authentification"
+msgstr "*Activer le contrôle sur le résultat de l'authentification 3D-Secure"
+
+#: includes/class-mercanet-admin-general.php:404
+msgid "Add the 3D-Secure Authentification"
+msgstr "Activation / Désactivation du contrôle"
+
+#: includes/class-mercanet-admin-general.php:414
+msgid "*Activate the control on the eCard and the Country of the Card"
+msgstr "*Activer le contrôle sur la carte commerciale et pays de la carte"
+
+#: includes/class-mercanet-admin-general.php:418
+msgid "Add the anti fraud control on the eCard and the Country of the Card"
+msgstr "Activation / Désactivation du contrôle"
+
+#: includes/class-mercanet-admin-general.php:428
+msgid "*Activate the control on eCard"
+msgstr "*Activer le contrôle sur les cartes virtuelles"
+
+#: includes/class-mercanet-admin-general.php:432
+msgid "Add the anti fraud control on eCard"
+msgstr "Activation / Désactivation du contrôle"
+
+#: includes/class-mercanet-admin-general.php:442
+msgid "*Activate the control on Black List of Card Number"
+msgstr "*Activer la liste noire de numéros de cartes"
+
+#: includes/class-mercanet-admin-general.php:446
+msgid "Add the anti fraud control on Black List of Card Number"
+msgstr "Activation / Désactivation du contrôle"
+
+#: includes/class-mercanet-admin-general.php:456
+msgid "*Activate the control on the Transaction Amount"
+msgstr "*Activer le contrôle sur le montant de la transaction"
+
+#: includes/class-mercanet-admin-general.php:460
+msgid "Add the anti fraud control on the Transaction Amount"
+msgstr ""
+"Ajout du contrôle anti-fraude sur le montant de la transaction. (Plage de "
+"montant saisies lors de votre inscription)"
+
+#: includes/class-mercanet-admin-general.php:470
+msgid "*Activate the control on the current Card"
+msgstr "*Activer le contrôle sur la carte en cours"
+
+#: includes/class-mercanet-admin-general.php:474
+msgid "Add the anti fraud control on the current Card"
+msgstr "Activation / Désactivation du contrôle"
+
+#: includes/class-mercanet-admin-general.php:484
+msgid "*Activate the control on the current IP Address"
+msgstr "*Activer le contrôle sur l'adresse IP en cours"
+
+#: includes/class-mercanet-admin-general.php:488
+msgid "Add the anti fraud control on the current IP Address"
+msgstr "Activation / Désactivation du contrôle"
+
+#: includes/class-mercanet-admin-general.php:500
+msgid "ONE CLICK PAYMENT"
+msgstr "PAIEMENT ONE CLICK"
+
+#: includes/class-mercanet-admin-general.php:528
+msgid "RECURRING PAYMENT"
+msgstr "PAIEMENT PAR ABONNEMENT"
+
+#: includes/class-mercanet-admin-general.php:505
+msgid "*Activate One Click"
+msgstr "*Activer le paiement One Click"
+
+#: includes/class-mercanet-admin-general.php:533
+msgid "*Activate Recurring Payment"
+msgstr "*Activer le paiement par abonnement"
+
+#: includes/class-mercanet-admin-general.php:509
+msgid "Activate the possibility to pay in one click"
+msgstr ""
+"La carte bancaire de votre client sera conservée de manière sécurisée pour "
+"de futurs achats."
+
+#: includes/class-mercanet-admin-general.php:519
+msgid "Translation Label Management"
+msgstr "GESTION DU LIBELLE"
+
+#: includes/class-mercanet-admin-general.php:524
+msgid "Translate with mercanet"
+msgstr ""
+"Traduisez directement vos libellés via le module Mercanet ou choisissez un "
+"autre module"
+
+#: includes/class-mercanet-admin-general.php:528
+msgid "Manage label payment translation with mercanet module"
+msgstr ""
+" Vous avez la possibilité de gérer la traduction de vos libellés directement "
+"depuis ce module Mercanet. Vous ne pouvez pas utiliser deux modules à la "
+"fois pour éviter toute éventuelle incompatibilité avec certains modules de "
+"traduction"
+
+#: includes/class-mercanet-admin-transactions.php:21
+msgid "Raw data detail - Transaction n° "
+msgstr "Détail des données brutes - Transaction n°"
+
+#: includes/class-mercanet-admin-transactions.php:26
+msgid "Transactions"
+msgstr "Transactions"
+
+#: includes/class-mercanet-refund.php:62 includes/class-mercanet-refund.php:77
+msgid "Refund Seal Error"
+msgstr "Erreur du seal pour le rembousement"
+
+#: includes/class-mercanet-schedule.php:71
+#: includes/class-mercanet-transaction.php:127
+#: views/html-mercanet-transactions.php:8
+msgid "Payment brand"
+msgstr "Moyen de paiement"
+
+#: includes/class-mercanet-schedule.php:73
+#: includes/class-mercanet-transaction.php:129
+#: views/html-mercanet-transactions.php:9
+msgid "N° Order"
+msgstr "N° Commande"
+
+#: includes/class-mercanet-schedule.php:74
+#: includes/class-mercanet-transaction.php:131
+#: views/html-mercanet-transactions.php:11
+msgid "N° Transaction"
+msgstr "N° Transaction"
+
+#: includes/class-mercanet-schedule.php:75
+#: includes/class-mercanet-transaction.php:132
+#: views/html-mercanet-transactions.php:12
+msgid "N° Card"
+msgstr "N° Carte"
+
+#: includes/class-mercanet-schedule.php:77
+msgid "Previsional date"
+msgstr "Date prévisionnelle"
+
+#: includes/class-mercanet-schedule.php:78
+msgid "Capture date"
+msgstr "Date capturée"
+
+#: includes/class-mercanet-schedule.php:79
+msgid "Status"
+msgstr "Statut"
+
+#: includes/class-mercanet-schedule.php:108
+msgid "No schedules for this order."
+msgstr "Pas d'échéanciers pour cette commande."
+
+#: includes/class-mercanet-transaction.php:130
+#: views/html-mercanet-transactions.php:10
+msgid "N° Authorization"
+msgstr "N° Autorisation"
+
+#: includes/class-mercanet-transaction.php:134
+#: views/html-mercanet-transactions.php:14
+msgid "Operation type"
+msgstr "Type d'opération"
+
+#: includes/class-mercanet-transaction.php:135
+#: views/html-mercanet-transactions.php:15
+msgid "Message response"
+msgstr "Message de réponse"
+
+#: includes/class-mercanet-transaction.php:136
+#: views/html-mercanet-transactions.php:16
+msgid "Acquirer response"
+msgstr "Réponse acquéreur"
+
+#: includes/class-mercanet-transaction.php:137
+#: views/html-mercanet-transactions.php:17
+msgid "Error message"
+msgstr "Message d'erreur"
+
+#: includes/class-mercanet-transaction.php:163
+msgid "No transactions for this order."
+msgstr "Pas de transactions pour cette commande."
+
+#: includes/class-mercanet-wallet.php:126
+msgid "My Mercanet wallet"
+msgstr "Mon portefeuille Mercanet"
+
+#: includes/class-mercanet-wallet.php:134
+msgid "Manage my Mercanet wallet"
+msgstr "Gérer mon portefeuille Mercanet"
+
+#: mercanet-woocommerce.php:40
+msgid "Transactions history"
+msgstr "Historique des transactions"
+
+#: mercanet-woocommerce.php:41
+msgid "Transactions schedule"
+msgstr "Échéanciers des transactions"
+
+#: mercanet-woocommerce.php:46
+msgid "You have to register your activation key to use this module."
+msgstr "Vous devez renseigner votre clé d'activation pour utiliser ce module."
+
+#: mercanet-woocommerce.php:49
+msgid ""
+"You have to enable the cURL extension on your server to use this module."
+msgstr ""
+"Vous devez activer l'extension OpenSSL sur votre serveur pour utiliser ce "
+"module."
+
+#: mercanet-woocommerce.php:52
+msgid ""
+"You have to enable the OpenSSL extension on your server to use this module."
+msgstr ""
+"Vous devez activer l'extension cURL sur votre serveur pour utiliser ce "
+"module."
+
+#: settings/mercanet-settings.php:63
+msgid "Bank Card"
+msgstr "CB"
+
+#: settings/mercanet-settings.php:68
+msgid "VISA"
+msgstr "VISA"
+
+#: settings/mercanet-settings.php:73
+msgid "MasterCard"
+msgstr "MasterCard"
+
+#: settings/mercanet-settings.php:78
+msgid "Paypal"
+msgstr ""
+
+#: settings/mercanet-settings.php:83
+msgid "PayLib"
+msgstr "PayLib"
+
+#: settings/mercanet-settings.php:88
+msgid "MasterPass"
+msgstr "MasterPass"
+
+#: settings/mercanet-settings.php:93
+msgid "American Express"
+msgstr "American Express"
+
+#: settings/mercanet-settings.php:98
+msgid "JCB"
+msgstr "JCB"
+
+#: settings/mercanet-settings.php:103
+msgid "Card Aurore"
+msgstr "Carte Aurore"
+
+#: settings/mercanet-settings.php:108
+msgid "Presto"
+msgstr "Presto"
+
+#: settings/mercanet-settings.php:113
+msgid "Nx Bank Card"
+msgstr "NxCB"
+
+#: settings/mercanet-settings.php:118
+msgid "Bancontact"
+msgstr "Bancontact"
+
+#: settings/mercanet-settings.php:123
+msgid "iDeal"
+msgstr "iDeal"
+
+#: settings/mercanet-settings.php:128
+msgid "Electronic Checks"
+msgstr "ELV"
+
+#: views/html-mercanet-transaction.php:12
+msgid "Back to the transactions"
+msgstr "Retour aux transactions"
+
+#: views/html-mercanet-transactions.php:18
+msgid "Raw data"
+msgstr "Données brutes"
+
+#: views/html-mercanet-transactions.php:55
+msgid "No transactions."
+msgstr "Pas de transactions."
+
+#: includes/class-mercanet-admin-general.php:553
+msgid "*Activate CCH product"
+msgstr "*Activer le produit CCH"
+
+#: includes/class-mercanet-admin-general.php:557
+msgid "Activate the possibility to get CCH product for PRESTO"
+msgstr "Activer la possibilité d'avoir le produit CCH pour PRESTO"
+
+#: mercanet-woocommerce.php:43
+#: gateways/class-mercanet-gateway-recurrent.php:189
+msgid "Recurring Payment"
+msgstr "Paiement par abonnement"
+
+#: gateways/class-mercanet-gateway-recurrent.php:188
+msgid "Simple Payment"
+msgstr "Paiement simple"
+
+#: gateways/class-mercanet-gateway-recurrent.php:192
+msgid "Periodicity"
+msgstr "Périodicité"
+
+#: gateways/class-mercanet-gateway-recurrent.php:199
+msgid "Month"
+msgstr "Mois"
+
+#: gateways/class-mercanet-gateway-recurrent.php:200
+msgid "Day"
+msgstr "Jour"
+
+#: gateways/class-mercanet-gateway-recurrent.php:203
+msgid "Number of occurrences"
+msgstr "Nombre d'occurences"
+
+#: gateways/class-mercanet-gateway-recurrent.php:209
+msgid "Recurring amount"
+msgstr "Montant de l'abonnement (HT)"
+
+#: includes/class-mercanet-recurring-payment.php:14
+msgid "My recurring payments"
+msgstr "Mes paiements par abonnement"
+
+#: includes/class-mercanet-recurring-payment.php:14
+msgid "Order"
+msgstr "Commande"
+
+#: includes/class-mercanet-recurring-payment.php:14
+msgid "Product"
+msgstr "Produit"
+
+#: includes/class-mercanet-recurring-payment.php:14
+msgid "Next payment"
+msgstr "Prochain paiement"
+
+#: includes/class-mercanet-recurring-payment.php:14
+msgid "State"
+msgstr "État"
+
+#: includes/class-mercanet-recurring-payment.php:14
+msgid "Change payment card"
+msgstr "Changer de carte de paiement"
+
+#: includes/class-mercanet-recurring-payment.php:14
+msgid "Stop all my recurring payments"
+msgstr "Arrêter tous mes paiements par abonnement"
+
+#: includes/class-mercanet-recurring-payment.php:14
+msgid "Your recurring payments have all been stopped"
+msgstr "Vos paiements par abonnement ont tous été stoppés"
+
+#: includes/class-mercanet-recurring-payment.php:14
+msgid "Are you sure you want to stop all your recurring payments ?"
+msgstr "Êtes vous sur de vouloir arrêter tous vos paiements par abonnement ?"
+
+#: includes/class-mercanet-recurring-payment.php:14
+msgid "Enabled"
+msgstr "Activé"
+
+#: includes/class-mercanet-recurring-payment.php:14
+msgid "Problem"
+msgstr "Problème"
+
+#: includes/class-mercanet-recurring-payment.php:14
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: includes/class-mercanet-admin-general.php:223
+msgid "*Activate control of allowed countries"
+msgstr "*Activer le contrôle sur le pays d'émission de la carte"
+
+#: includes/class-mercanet-admin-general.php:227
+msgid "The option will activate control of allowed countries"
+msgstr "Cette option active le contrôle sur le pays d'émission de la carte"
+
+#: includes/class-mercanet-admin-recurring-payment-list.php
+msgid "Mercanet recurring payment list"
+msgstr "Mercanet liste des paiements par abonnement"
+
+#: includes/class-mercanet-admin-recurring-payment-list.php
+msgid "Beginning"
+msgstr "Début"
+
+#: includes/class-mercanet-admin-recurring-payment-list.php
+msgid "End"
+msgstr "Fin"
+
+#: includes/class-mercanet-admin-recurring-payment-list.php
+msgid "In progress"
+msgstr "En cours"
+
+#: includes/class-mercanet-admin-recurring-payment-list.php
+msgid "Canceled"
+msgstr "Annulé"
+
+#: includes/class-mercanet-admin-recurring-payment-list.php
+msgid "Enable"
+msgstr "Activer"
+
+#: includes/class-mercanet-admin-recurring-payment-list.php
+msgid "Disable"
+msgstr "Désactiver"
+
+#: includes/class-mercanet-admin-recurring-payment-list.php
+msgid "Remove"
+msgstr "Supprimer"
+
+#: includes/class-mercanet-admin-recurring-payment-list.php
+msgid "Customer"
+msgstr "Client"
+
+#: includes/class-mercanet-admin-recurring-payment-list.php
+msgid "Subscription price"
+msgstr "Prix ​​de l'abonnement"
+
+#: includes/class-mercanet-admin-recurring-payment-list.php
+msgid "Order date"
+msgstr "Date de la commande"
+
+#: includes/class-mercanet-admin-recurring-payment-list.php
+msgid "Last payment"
+msgstr "Dernier paiement"
+
+#: includes/class-mercanet-admin-recurring-payment-list.php
+msgid "Nb valid payment"
+msgstr "Nb de paiement validé"
+
+#: includes/class-mercanet-admin-recurring-payment-list.php
+msgid "Actions"
+msgstr "Actions"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "Mercanet SDD payment"
+msgstr "Mercanet paiement SDD"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "SDD Payment"
+msgstr "Paiement SDD"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "Wording SDD payment imperative information for all languages of your shop"
+msgstr "Libellé du paiement SDD à renseigner impérativement pour toutes les langues de votre boutique"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "You have to choose a name for the SDD payment in the current language."
+msgstr "Vous devez saisir un nom pour le paiement SDD"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "LABEL SDD PAYMENT"
+msgstr "LIBELLÉ DU PAIEMENT SDD"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "Active SDD Payment"
+msgstr "Activer le mode paiement SDD"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "SDD options"
+msgstr "Options SDD"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "Mandate type"
+msgstr "Type de mandat"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "Select mandate type to allow"
+msgstr "Sélectionner un type de mandat à autoriser"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "Unitary mandate"
+msgstr "Mandat unitaire"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "Recurring mandate"
+msgstr "Mandat récurrent"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "Validation mandate type"
+msgstr "Type de validation de mandat"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "Select validation mandate type to allow"
+msgstr "Sélectionner les types de validation de mandats à autoriser"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "Electronic validattion by 3D secure"
+msgstr "Validation électronique par 3D secure"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "Electronic validattion by SMS"
+msgstr "Validation électronique par SMS"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "Electronic validattion by mail"
+msgstr "Validation électronique par mail"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "Recurring SDD Payment"
+msgstr "Paiement récurrent SDD"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "Transaction actors"
+msgstr "Type de transaction"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "Core mandate - BTOC"
+msgstr "Mandat Core - BTOC"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "B2B mandate - BTOB"
+msgstr "Mandat B2B - BTOB"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "Core company mandate - BTOF"
+msgstr "Mandat Core Entreprise - BTOF"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "Select mandate transaction type (by default BTOC)"
+msgstr "Sélectionner un type de transaction (par défault BTOC)"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "Recurring mandate subscription"
+msgstr "Abonnement mandat récurrent"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "Company name must be filled"
+msgstr "Le nom de l'entreprise doit être renseigné"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "Mobile number (required for electronic mandate)"
+msgstr "Téléphone portable (obligatoire pour le paiement via mandat électronique)"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "A valid mobile number is required for electronic mandate"
+msgstr "Un numéro de portable valide est obligatoire pour le paiement via mandat électronique"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "Mobile number must not contain spaces, points or hyphens"
+msgstr "Le numéro de portable ne doit pas contenir d'espaces, de points ou de tirets
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "Mobile number must begin with 06 or 07"
+msgstr "Le numéro de portable doit commencer par 06 ou 07"
+
+#: gateways/class-mercanet-gateway-sdd.php
+msgid "Mobile number is not the right size (10 characters)"
+msgstr "Le numéro de portable n'est pas de la bonne taille (10 caractères)"
+
+#: settings/mercanet-settings.php
+msgid "Holiday vouchers"
+msgstr "Chèque vacances"
+
+#~ msgid "Payment 2x"
+#~ msgstr "Paiement en 2 fois"
+
+#~ msgid "Payment 3x"
+#~ msgstr "Paiement en 3 fois"
+
+#~ msgid "%s"
+#~ msgstr "%"
+
+#~ msgid "Credentials"
+#~ msgstr "Configurations"
+
+#~ msgid "Mercanet Payment in several times"
+#~ msgstr "Mercanet Paiement en plusieurs fois"
+
+#~ msgid "You have to choose a name for the several times payment."
+#~ msgstr "Vous devez saisir un nom pour le paiement en plusieurs fois."
+
+#~ msgid "Mercanet One-time Payment"
+#~ msgstr "Mercanet Paiement simple"
+
+#~ msgid "You have to choose a name for the onetime payment."
+#~ msgstr "Vous devez choisir un nom pour le paiement simple."
+
+#~ msgid "General"
+#~ msgstr "Général"
+
+#~ msgid "Add 0 for D-Day. The number of days before the bank deposit"
+#~ msgstr "0 = jour J.  Le nombre de jours avant la remise à la banque"
+
+#~ msgid ""
+#~ "You have to enable the cURL extension on your server to install this "
+#~ "module."
+#~ msgstr ""
+#~ "Vous devez activer l'extension cURL sur votre serveur pour installer ce "
+#~ "module."
+
+#~ msgid ""
+#~ "You have to enable the OpenSSL extension on your server to install this "
+#~ "module."
+#~ msgstr ""
+#~ "Vous devez activer l'extension OpenSSL sur votre serveur pour installer "
+#~ "ce module."
+
+#~ msgid "Enable / Disabled this Payment"
+#~ msgstr "Activer / Désactiver ce paiement"
+
+#~ msgid "*Card type"
+#~ msgstr "*Moyens de paiement autorisés"
+
+#~ msgid "Payment in several times "
+#~ msgstr "Paiement en plusieurs fois via Mercanet"
+
+#~ msgid "One-Time Payment"
+#~ msgstr "Paiement sécurisé via Mercanet"
+
+#~ msgid "Card type"
+#~ msgstr "Moyens de paiement autorisés"
+
+#~ msgid "Default payment page language"
+#~ msgstr "Langue par défaut de la page de paiement"
+
+#~ msgid "Countries allowed"
+#~ msgstr "Pays d'émission de la carte autorisé(s)"
+
+#~ msgid "Currencies allowed"
+#~ msgstr "Devises autorisées"
+
+#~ msgid "Bank remittance"
+#~ msgstr "Remise en banque"
+
+#~ msgid "Activate 3D-Secure"
+#~ msgstr "Activer le 3D-Secure"
+
+#~ msgid "Activate the control on Host Country Card"
+#~ msgstr "Activer le contrôle sur le pays d'émission de la carte"
+
+#~ msgid "Activate the control on Country IP Address"
+#~ msgstr "Activer le contrôle sur l'adresse IP du pays"
+
+#~ msgid "Activate the control on similitude of Country and Card IP Address"
+#~ msgstr ""
+#~ "Activer le contrôle sur la similitude du pays et adresse IP de la carte"
+
+#~ msgid "Activate the 3D-Secure Authentification"
+#~ msgstr "Activer le 3D-Secure Sélectif"
+
+#~ msgid "Activate the control on the eCard and the Country of the Card"
+#~ msgstr "Activer le contrôle sur la carte commerciale et pays de la carte"
+
+#~ msgid "Activate the control on eCard"
+#~ msgstr "Activer le contrôle sur les cartes virtuelles"
+
+#~ msgid "Activate the control on Black List of Card Number"
+#~ msgstr "Activer la liste noire de numéros de cartes"
+
+#~ msgid "Activate the control on the Transaction Amount"
+#~ msgstr "Activer le contrôle sur le montant de la transaction"
+
+#~ msgid "Activate the control on the current Card"
+#~ msgstr "Activer le contrôle sur la carte en cours"
+
+#~ msgid "Activate the control on the current IP Address"
+#~ msgstr "Activer le contrôle sur l'adresse IP en cours"
+
+#~ msgid "Activate One Click"
+#~ msgstr "Activer le paiement One Clik"
+
+#~ msgid "*Enter yout Merchant ID"
+#~ msgstr "*Renseignez votre Merchant ID (identifiant commerçant)"
+
+#~ msgid "One Click Payment"
+#~ msgstr "Paiement One Click"
+
+#~ msgid "Restriction one the amounts"
+#~ msgstr "Acceptation des paiements"
+
+#~ msgid "3D-Secure"
+#~ msgstr "3D-Secure Sélectif"
+
+#~ msgid "Security tools"
+#~ msgstr "Outils sécuritaires"
+
+#~ msgid "Mercanet Several Time Payment"
+#~ msgstr "Mercanet Paiement en plusieurs fois"
+
+#~ msgid ""
+#~ "The number of days before the bank deposit (adjustable on your Back "
+#~ "Office Mercanet)"
+#~ msgstr ""
+#~ "Le nombre de jours avant la remise en banque (paramètrable depuis votre "
+#~ "Back Office Mercanet)"
+
+#~ msgid "Payment validation"
+#~ msgstr "Validation du paiement"
+
+#~ msgid "Direct Redirection"
+#~ msgstr "Redirection directe"
+
+#~ msgid "Notification"
+#~ msgstr "Notification"
+
+#~ msgid ""
+#~ "Mercanet will send an e-mail to the customer with the payment informations"
+#~ msgstr ""
+#~ "Les informations de paiements seront automatiquement envoyées par mail à "
+#~ "votre client"
+
+#~ msgid "Activate One click payment"
+#~ msgstr "Activer le paiement One Click"
+
+#~ msgid "*Enter votre merchant ID"
+#~ msgstr "*Entrer votre ID de marchand"
+
+#~ msgid "*Enter your secret key"
+#~ msgstr "*Entrer votre clé secrète"
+
+#~ msgid "Error refund"
+#~ msgstr "Erreur de remboursement"
+
+#~ msgid "Refund accepted"
+#~ msgstr "Remboursement accepté"
+
+#~ msgid "Payment 4x"
+#~ msgstr "Paiement 4x"
+
+#~ msgid " Yoo have to choose a default language"
+#~ msgstr "Vous devez choisir une langue par défaut"
+
+#~ msgid "Minimal amount"
+#~ msgstr "Montant mi"
+
+#~ msgid " Yoo have to enter your secret key."
+#~ msgstr "Vous devez renseigner votre clé secrète."
+
+#~ msgid "You have to enter a key version."
+#~ msgstr "Vous devez saisir votre clé de version"
+
+#~ msgid "The minimum amount can not be greater than the minimum amount."
+#~ msgstr "Le montant minimum ne peut être supérieur au montant maximum"
+
+#~ msgid "Automatic re-authorization and payment"
+#~ msgstr "Validation automatique (en standard)"
+
+#~ msgid "Activate the control on the Current IP Address"
+#~ msgstr "Activer le contrôle sur l'adresse IP en cours"
+
+#~ msgid "Activate 3D Secure"
+#~ msgstr "Activer le 3D Secure"
+
+#~ msgid "Minimum amount for which activate 3DS"
+#~ msgstr "Montant d'activation du 3D-Secure"
+
+#~ msgid "Anti-fraud control: country of the IP address"
+#~ msgstr "Contrôle anti-fraud : pays de l'adresse IP"
+
+#~ msgid "Mercanet"
+#~ msgstr "Mercanet"
+
+#~ msgid "My wallet"
+#~ msgstr "Mon portefeuille Mercanet"
+
+#~ msgid "Manage my wallet"
+#~ msgstr "Gérer votre portefeuille"

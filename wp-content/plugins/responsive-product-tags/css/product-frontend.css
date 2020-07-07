@@ -1,0 +1,125 @@
+.responsive-product-tags-shop {
+    position:absolute;
+    top:5px;
+    left:5px;
+}
+
+.responsive-product-tags-shop.responsive-product-tags a.responsive-product-tag {
+    margin:0 0 0 0;
+}
+
+.woocommerce ul.products li.product .responsive-product-tags-shop a img {
+    width:30px;
+    height:30px;
+    margin:0 0 0;
+}
+
+.woocommerce .product_meta .tagged_as, .woocommerce .product_meta .tagged-as, .woocommerce .product_meta .taggedas,
+.woocommerce .product-meta .tagged_as, .woocommerce .product-meta .tagged-as, .woocommerce .product-meta .taggedas,
+.woocommerce .productmeta .tagged_as, .woocommerce .productmeta .tagged-as, .woocommerce .productmeta .taggedas {
+    display:none;
+}
+
+.responsive-product-tags-border {
+    border:1px solid #dedede;
+    padding: 15px;
+}
+
+.responsive-product-tags-img-thumbnail {
+    height:30px;
+    width:30px;
+}
+
+.responsive-product-tags-img-medium {
+    height:50px;
+    width:50px;
+}
+
+.responsive-product-tags-img-large {
+    height:300px;
+    width:300px;
+}
+
+
+.responsive-product-tags {
+    font-size:110%;
+    margin-bottom:20px
+}
+
+.responsive-product-tag-description {
+}
+
+.responsive-product-tag-name {
+    font-weight:bold;
+}
+
+.responsive-product-tags-right {
+    float:right;
+    position:absolute;
+    right:0;
+}
+
+.responsive-product-tags a, a.responsive-product-tag {
+    text-decoration:none;
+    border:none;
+    margin-bottom:10px;
+    display:inline-block;
+}
+
+a.responsive-product-tags-no-link:hover {
+    cursor:default;
+}
+
+.responsive-product-tag-img-wrapper {
+    position:relative;
+    display:inline-block;
+    z-index: 100;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.responsive-product-tag-right {
+    display:inline-block;
+    margin-left:20px;
+    vertical-align:middle;
+}
+
+.responsive-product-tag-below {
+    display:block;
+}
+
+.responsive-product-tag-over {
+    position:absolute;
+    display:inline-block;
+    bottom:0;
+    left:0;
+    width:100%;
+    z-index:100;
+    text-align:center;
+}
+
+.responsive-product-tag-over .responsive-product-tag-over-inner {
+    position:absolute;
+    display:inline-block;
+    bottom:0;
+    left:0;
+    width:100%;
+    z-index:50;
+    opacity:50%;
+    background:#fff;
+}
+
+.single-product div.product form.cart .button {
+    float:none !important;
+}
+
+.post_thumb .wp-post-image {
+    position:absolute;
+    top:0;
+    left:0;
+    height:100%;
+}
+
+.responsive-product-tags .hover_icon_link {
+    height:0;
+}

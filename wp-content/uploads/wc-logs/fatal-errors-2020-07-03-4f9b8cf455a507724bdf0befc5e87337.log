@@ -1,0 +1,11 @@
+2020-07-03T07:31:02+00:00 CRITICAL Uncaught Error: Class 'TablePress_WP_Option' not found in /home/fildenuiue/www/wp-content/plugins/tablepress/classes/class-tablepress.php:208
+Stack trace:
+#0 /home/fildenuiue/www/wp-content/plugins/tablepress/models/model-options.php(84): TablePress::load_class('TablePress_WP_O...', 'class-wp_option...', 'classes', Array)
+#1 /home/fildenuiue/www/wp-content/plugins/tablepress/classes/class-tablepress.php(208): TablePress_Options_Model->__construct(NULL)
+#2 /home/fildenuiue/www/wp-content/plugins/tablepress/classes/class-tablepress.php(225): TablePress::load_class('TablePress_Opti...', 'model-options.p...', 'models')
+#3 /home/fildenuiue/www/wp-content/plugins/tablepress/classes/class-tablepress.php(145): TablePress::load_model('options')
+#4 /home/fildenuiue/www/wp-includes/class-wp-hook.php(287): TablePress::run('')
+#5 /home/fildenuiue/www/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#6 /home/fildenuiue/www/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#7 /home/fildenuiue/www dans /home/fildenuiue/www/wp-content/plugins/tablepress/classes/class-tablepress.php à la ligne 208
+

@@ -1,0 +1,1657 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgid "This transaction is already closed for further refunds."
+msgstr "Esta operación se ha cerrado por más créditos."
+
+msgid "Amount to refund"
+msgstr "Cantidad a reenbolsar"
+
+msgid "You can specify the order status for new orders that have an uncertain authorisation status."
+msgstr "Se puede especificar el estado del pedido de los nuevos pedidos que tienen un estado de autorización incierto."
+
+msgid "Must be bigger than 0 and smaller than 100"
+msgstr "Must be bigger than 0 and smaller than 100"
+
+msgid "Account Holder Name"
+msgstr "Titular de la cuenta Nombre"
+
+msgid "Authorisation request to be performed via telephone with the issuer, as the card authorisation threshold has been exceeded, if the forcing is authorised for the merchant."
+msgstr "Solicitud de autorización para llevar a cabo a través del teléfono con el emisor, como se ha superado el umbral de autorización de la tarjeta, si el forzamiento está autorizado para el comerciante."
+
+msgid "The given hmac key is empty."
+msgstr "The given hmac key is empty."
+
+msgid "Refunded Amount"
+msgstr "Importe reembolsado"
+
+msgid "The provided signature does not match with the one calculated."
+msgstr "The provided signature does not match with the one calculated."
+
+msgid "24"
+msgstr "24"
+
+msgid "American Express"
+msgstr "American Express"
+
+msgid "Please select the Bank Identifier Code (BIC) of your bank."
+msgstr "Por favor, seleccione el código de identificación bancaria (BIC) de su banco."
+
+msgid "Refund Amount"
+msgstr "Refund Amount"
+
+msgid "The configuration values for BNP Paribas Mercanet can be set under:"
+msgstr "Los valores de configuración de BNP Paribas Mercanet se pueden establecer en:"
+
+msgid "Don't change order status"
+msgstr "No cambie el estado del pedido"
+
+msgid "Black Card"
+msgstr "Black Card"
+
+msgid "You have to enter sales tax number of your company."
+msgstr "You have to enter sales tax number of your company."
+
+msgid "Payment plan with errors selected. Please contact the merchant."
+msgstr "Payment plan with errors selected. Please contact the merchant."
+
+msgid "Refund"
+msgstr "Reembolsar"
+
+msgid "The amount is too high."
+msgstr "La cantidad es demasiado alta."
+
+msgid "The capture item with SKU '@sku' is not present in the original order."
+msgstr "The capture item with SKU '@sku' is not present in the original order."
+
+msgid "Missing Permissions."
+msgstr "Missing Permissions."
+
+msgid "The HMAC key as defined in the live backoffice of BNP Paribas Mercanet. You may need generate the HMAC key. Please take a look at the manual how to do this."
+msgstr "The HMAC key as defined in the live backoffice of BNP Paribas Mercanet. You may need generate the HMAC key. Please take a look at the manual how to do this."
+
+msgid "You can specify the order status for orders that are successful after being in a uncertain state."
+msgstr "You can specify the order status for orders that are successful after being in a uncertain state."
+
+msgid "The card brand selection is automatically done depending on the entered card number. If no Javascript is active in the browser, a drop down is shown. In case JavaScript a the brand logos can be shown. Should the brand selection using images?"
+msgstr "The card brand selection is automatically done depending on the entered card number. If no Javascript is active in the browser, a drop down is shown. In case JavaScript a the brand logos can be shown. Should the brand selection using images?"
+
+msgid "Quantity"
+msgstr "Quantity"
+
+msgid "A captured transaction cannot be cancelled."
+msgstr "Una transacción contabilizada no puede ser cancelada"
+
+msgid "Order #"
+msgstr "Order #"
+
+msgid "You have to enter sales tax number of you company."
+msgstr "Usted tiene que ingresar el número de impuesto sobre las ventas de su empresa."
+
+msgid "You have to activate JavaScript in your browser to complete the payment."
+msgstr "Debes activar JavaScript en su navegador para completar el pago."
+
+msgid "Create account"
+msgstr "Create account"
+
+msgid "Set the sort order to show the external checkouts."
+msgstr "Set the sort order to show the external checkouts."
+
+msgid "If an order total is below the specified amount, it will be processed without the ECard check."
+msgstr "If an order total is below the specified amount, it will be processed without the ECard check."
+
+msgid "You can specify the order status for orders that are refused after being in a uncertain state."
+msgstr "You can specify the order status for orders that are refused after being in a uncertain state."
+
+msgid "Check to activate the external checkout."
+msgstr "Check to activate the external checkout."
+
+msgid "The validation of the payment can be carried out at various points during the order process. The validation can be controlled with this option."
+msgstr "La validación del pago se puede realizar en diferentes momentos durante el proceso de pedido. La validación puede ser controlado con esa opción."
+
+msgid "Captured Amount"
+msgstr "Importe reembolsado"
+
+msgid "13"
+msgstr "13"
+
+msgid "2"
+msgstr "2"
+
+msgid "Alias"
+msgstr "Alias"
+
+msgid "The amount of !amount is captured."
+msgstr "La cantidad de cada  !amount es capturado."
+
+msgid "Captured Status"
+msgstr "Estado Capturado"
+
+msgid "30"
+msgstr "30"
+
+msgid "This operation is not activated on your merchant account."
+msgstr "Esta operación no se activa en su cuenta de comerciante."
+
+msgid "Please enter here the commercial number of your company."
+msgstr "Por favor introduzca el número comercial de su empresa."
+
+msgid "Transaction Updates"
+msgstr "Transaction Updates"
+
+msgid "Response Code"
+msgstr "Response Code"
+
+msgid "Please enter here the name of the account owner."
+msgstr "Por favor, introduzca el nombre del titular de la cuenta bancaria"
+
+msgid "The whole transaction is cancelled."
+msgstr "Toda la operación fue cancelada."
+
+msgid "Login / Register"
+msgstr "Login / Register"
+
+msgid "yes"
+msgstr "yes"
+
+msgid "Amount to capture"
+msgstr "Importe a contabilizar"
+
+msgid "The site id (PBX_RANG) as defined in the backoffice of BNP Paribas Mercanet."
+msgstr "The site id (PBX_RANG) as defined in the backoffice of BNP Paribas Mercanet."
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Payment Method"
+msgstr "Forma de pago"
+
+msgid "Please enter your IBAN number."
+msgstr "Por favor, introduzca su número de IBAN."
+
+msgid "The transaction reference was not found in the remote system."
+msgstr "La referencia de la transacción no se ha encontrado en el sistema remoto."
+
+msgid "This option defines how many days the transaction remains open after authorization. A value of 0 means that the authorization is captured as soon as possible. We recommend you to define a cron job in your shop especially if the capture delay is greater than 0 in order to automatically update the transaction status. How this can be done is described in the latest version of the integration manual. Please check with BNP Paribas Mercanet which delay is possible and what implication a delay may have."
+msgstr "This option defines how many days the transaction remains open after authorization. A value of 0 means that the authorization is captured as soon as possible. We recommend you to define a cron job in your shop especially if the capture delay is greater than 0 in order to automatically update the transaction status. How this can be done is described in the latest version of the integration manual. Please check with BNP Paribas Mercanet which delay is possible and what implication a delay may have."
+
+msgid "Subscriptions: Add Manual Renewal"
+msgstr "Subscriptions: Añadir renovación manual"
+
+msgid "Shipping Option"
+msgstr "Shipping Option"
+
+msgid "Enter here the live secret key version. You can get the secret key version from the extranet. This secret key is used only when the live operation mode is used."
+msgstr "Introduzca aquí la versión de clave secreta Live. Puede obtener la versión de clave secreta de la extranet. Este se utiliza clave secreta sólo cuando se utiliza el modo de operación Live."
+
+msgid "Max CustomerId Per Card"
+msgstr "Max CustomerId Per Card"
+
+msgid "A cancelled transaction cannot be cancelled again."
+msgstr "Una transacción cancelada no puede ser cancelada otra vez"
+
+msgid "Figure !number:"
+msgstr "Figure !number:"
+
+msgid "The authorization was not successful"
+msgstr "The authorization was not successful"
+
+msgid "The next update execution date indicates when the next cron is run to update the transaction state."
+msgstr "The next update execution date indicates when the next cron is run to update the transaction state."
+
+msgid "A authorized transaction cannot be authorized again."
+msgstr "Una transacción autorisada no puede ser autorisada otra vez"
+
+msgid "27"
+msgstr "27"
+
+msgid "A captured transaction cannot be marked as failed."
+msgstr "Una transacción contabilizada no puede ser marcado como fallada"
+
+msgid "Failed to send request to remote server. Expect to receive response code 200, receive code !code. Status Message: !message"
+msgstr "No se pudo enviar la solicitud al servidor remoto. Esperar a recibir el código de respuesta 200, código de recepción !code. Mensaje de estado: !message"
+
+msgid "The brand with key '!key' was not found in the card information map."
+msgstr "La marca con la tecla !key' no se encontró en el mapa información de la tarjeta."
+
+msgid "White Card"
+msgstr "White Card"
+
+msgid "No transaction ID provided."
+msgstr "No transaction ID provided."
+
+msgid "Please enter here the bank code of your bank."
+msgstr "Por favor, introduzca su código bancario."
+
+msgid "Systematic Authorization Card"
+msgstr "Systematic Authorization Card"
+
+msgid "If an order total is below the specified amount, it will be processed without the Velocity Card check."
+msgstr "If an order total is below the specified amount, it will be processed without the Velocity Card check."
+
+msgid "IP Country"
+msgstr "IP Country"
+
+msgid "MasterCard"
+msgstr "MasterCard"
+
+msgid "Other Discount"
+msgstr "Otro discount"
+
+msgid "The expiry date is invalid or the card is expired."
+msgstr "La fecha de caducidad no es válido o la tarjeta ha caducado."
+
+msgid "Add manual renewal"
+msgstr "Añadir renovación manual"
+
+msgid "The transaction is pending."
+msgstr "La transacción está pendiente."
+
+msgid "Velocity Card"
+msgstr "Velocity Card"
+
+msgid "Month"
+msgstr "Mes"
+
+msgid "Bank Location"
+msgstr "Banco Ubicación"
+
+msgid "The given identifier is empty."
+msgstr "The given identifier is empty."
+
+msgid "Please enter here the card holder name on the card."
+msgstr "Por favor indique el titular de la tarjeta a su tarjeta de crédito."
+
+msgid "Velocity Customer Id"
+msgstr "Velocity Customer Id"
+
+msgid "If the status is 'Pending' it is unclear whether the transaction will be cancelled successfully."
+msgstr "If the status is 'Pending' it is unclear whether the transaction will be cancelled successfully."
+
+msgid "Image Brand Selection"
+msgstr "Image Brand Selection"
+
+msgid "The given password is empty."
+msgstr "The given password is empty."
+
+msgid "A cancelled transaction cannot be marked as failed."
+msgstr "Una transacción cancelada no puede ser marcado como fallada"
+
+msgid "Live Rang (PBX_RANG)"
+msgstr "Live Rang (PBX_RANG)"
+
+msgid "Shipping Method"
+msgstr "Shipping Method"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Enter here the live merchant ID. This merchant ID is used only when the live operation mode is used."
+msgstr "Escriba aquí el ID de comerciante en vivo. Este ID de comerciante se usa sólo cuando se utiliza el modo de operación en vivo."
+
+msgid "Not a valid shipping method"
+msgstr "Not a valid shipping method"
+
+msgid "The capture will automatically close the transaction for further captures."
+msgstr "La contabilisación cerrará automáticamente la transacción de nuevas contabilisaciones."
+
+msgid "The transaction was canceld by the customer."
+msgstr "La operación fue cancelada por el cliente."
+
+msgid "You have to enter a card number."
+msgstr "Debe inserir un número de tarjeta"
+
+msgid "If an order total is below the specified amount, it will be processed without the Corporate Card check."
+msgstr "If an order total is below the specified amount, it will be processed without the Corporate Card check."
+
+msgid "By setting the capturing the reservation can be captured directly after the order or later manually over the backend of the store."
+msgstr "By setting the capturing the reservation can be captured directly after the order or later manually over the backend of the store."
+
+msgid "Break Out"
+msgstr "Break Out"
+
+msgid "Maximal Refundable Amount"
+msgstr "Cantidad máxima reembolsable"
+
+msgid "Cancel ID"
+msgstr "Cancel ID"
+
+msgid "Validation"
+msgstr "Validación"
+
+msgid "16"
+msgstr "16"
+
+msgid "The operation was rejected by an unkown error."
+msgstr "La operación fue rechazada por un error desconocido."
+
+msgid "5"
+msgstr "5"
+
+msgid "Failed"
+msgstr "Fallado"
+
+msgid "This transaction is already closed for further captures."
+msgstr "Esta transacción ya está cerrada para otras contabilizaciones"
+
+msgid "Here you can insert an order prefix. The prefix allows you to change the order number that is transmitted to Authorize.net. The prefix must contain the tag {id}. It will then be replaced by the order number (e.g. name_{id})."
+msgstr "Here you can insert an order prefix. The prefix allows you to change the order number that is transmitted to Authorize.net. The prefix must contain the tag {id}. It will then be replaced by the order number (e.g. name_{id})."
+
+msgid "Live Merchant ID"
+msgstr "Live Merchant ID"
+
+msgid "customweb ltd"
+msgstr "customweb ltd"
+
+msgid "Current File:"
+msgstr "Current File:"
+
+msgid "JCB"
+msgstr "JCB"
+
+msgid "Capture"
+msgstr "Contabilizar"
+
+msgid "SEPA Mandate ID"
+msgstr "SEPA Mandate ID"
+
+msgid "Awaiting confirmation"
+msgstr "Awaiting confirmation"
+
+msgid "Your browser does not allow the execution of JavaScript. Please activate JavaScript in your browser and reload this page."
+msgstr "Su navegador no permite la ejecución de JavaScript. Por favor, active JavaScript en su navegador y vuelva a cargar esta página."
+
+msgid "The total refund amount (!totalRefundedAmount) cannot be greater than the captured amount (!capturedAmount)."
+msgstr "La cantidad del reembolso total de (!totalRefundedAmount) no puede ser mayor que la cantidad capturada (!capturedAmount)."
+
+msgid "Order Review"
+msgstr "Order Review"
+
+msgid "Please enter here the sales tax number of your company."
+msgstr "Por favor, introduzca aquí el número de impuesto sobre las ventas de su empresa."
+
+msgid "The validation time indicates how many days the authorization is valid. It has to be captured in this time period"
+msgstr "The validation time indicates how many days the authorization is valid. It has to be captured in this time period"
+
+msgid "Enable the configured payment plans for this method."
+msgstr "Enable the configured payment plans for this method."
+
+msgid "3D Secure Minimum amount"
+msgstr "3D Secure Minimum amount"
+
+msgid "Bank account number"
+msgstr "Número de cuenta bancaria"
+
+msgid "You have to enter commercial number of you company."
+msgstr "Usted tiene que ingresar el número comercial de su empresa."
+
+msgid "A captured transaction cannot be authorized."
+msgstr "Una transacción contabilizada no puede ser autorizada"
+
+msgid "Shipping #%d"
+msgstr "Shipping #%d"
+
+msgid "Capture Amount"
+msgstr "Capture Amount"
+
+msgid "ECard"
+msgstr "ECard"
+
+msgid "Directly after order"
+msgstr "Directamente después de la orden"
+
+msgid "Success"
+msgstr "Exito"
+
+msgid "Pending"
+msgstr "Pendiente"
+
+msgid "Refund ID"
+msgstr "ID Reembolso"
+
+msgid "You have to enter the account holder name."
+msgstr "Entrar en el nombre del titular de la cuenta."
+
+msgid "Is this plan active for this store."
+msgstr "Is this plan active for this store."
+
+msgid "Message"
+msgstr "Notificación"
+
+msgid "The capture item with SKU '@sku' has a higher amount (@amountItem) as the original item (@amountOriginal)."
+msgstr "The capture item with SKU '@sku' has a higher amount (@amountItem) as the original item (@amountOriginal)."
+
+msgid "Maximal Order Total"
+msgstr "Cantidad máxima del pedido"
+
+msgid "Could not find template file at default location '!location'."
+msgstr "No se pudo encontrar el archivo de plantilla en la ubicación predeterminada '!location'."
+
+msgid "Select the date of your birth."
+msgstr "Seleccione la fecha de su nacimiento."
+
+msgid "Grey IP"
+msgstr "Grey IP"
+
+msgid "The cancellation could not be conducted. Error code: !error."
+msgstr "The cancellation could not be conducted. Error code: !error."
+
+msgid "The authorization method '!method' is not supported."
+msgstr "El método de autorización '!method' no es compatible."
+
+msgid "By pass 3D secure"
+msgstr "By pass 3D secure"
+
+msgid "Capture ID"
+msgstr "Capture ID"
+
+msgid "Transaction Uncertain"
+msgstr "Transacción es incierto"
+
+msgid "Deactivate"
+msgstr "Deactivate"
+
+msgid "Payment ID"
+msgstr "ID de pago"
+
+msgid "Capture amount"
+msgstr "Cantidad de captura"
+
+msgid "Do not by pass 3D secure"
+msgstr "Do not by pass 3D secure"
+
+msgid "Place Order"
+msgstr "Place Order"
+
+msgid "22"
+msgstr "22"
+
+msgid "Social Security Number"
+msgstr "Número de Seguro Social"
+
+msgid "The layout does not contain the tag '!layout_tag'."
+msgstr "La disposición no contiene la etiqueta '!layout_tag'."
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Please select the expiry month on your card."
+msgstr "Por favor seleccione el mes de la fecha de vencimiento de su tarjeta de crédito."
+
+msgid "The brand with external name '!key' was not present in the map."
+msgstr "La marca con la tecla '!key' no se encontró en el mapa información de la tarjeta."
+
+msgid "The transaction failed with error code !code."
+msgstr "The transaction failed with error code !code."
+
+msgid "A failed authorization cannot be authorized."
+msgstr "Una autorización fallada no puede ser autorizada"
+
+msgid "Set here the minimal order total for which this payment method is available. If it is set to zero, it is always available."
+msgstr "Esta forma de pago es disponible sólo si la suma del pedido es mayor que el importe definido aquí. Si se establece en cero, siempre está disponible."
+
+msgid "The number of attempts to enter the card number exceeded."
+msgstr "Se ha superado el número de intentos para introducir el número de tarjeta."
+
+msgid "You have an invalid distance selling contract."
+msgstr "Usted tiene un contrato de venta a distancia no es válida."
+
+msgid "You can specify the order status when an order is cancelled."
+msgstr "Se puede especificar el estado de la orden cuando una orden se cancela."
+
+msgid "This option defines how many days the transaction remains open after authorization. A value of 0 means that the authorization is captured as soon as possible. If you disable this function, you have to manually capture the transaction before it expires We recommend you to define a cron job in your shop especially if the capture delay is greater than 0 in order to automatically update the transaction status. How this can be done is described in the latest version of the integration manual. Please check with BNP Paribas Mercanet which delay is possible and what implication a delay may have."
+msgstr "This option defines how many days the transaction remains open after authorization. A value of 0 means that the authorization is captured as soon as possible. If you disable this function, you have to manually capture the transaction before it expires We recommend you to define a cron job in your shop especially if the capture delay is greater than 0 in order to automatically update the transaction status. How this can be done is described in the latest version of the integration manual. Please check with BNP Paribas Mercanet which delay is possible and what implication a delay may have."
+
+msgid "Name visible to the customer."
+msgstr "Name visible to the customer."
+
+msgid "V PAY"
+msgstr "V PAY"
+
+msgid "Select the date on which your card expires."
+msgstr "Selecciona la fecha de vencimiento de la tarjeta"
+
+msgid "Authorization Failed"
+msgstr "Autorisación fallada"
+
+msgid "Shipping &amp; Handling"
+msgstr "Shipping &amp; Handling"
+
+msgid "The payment method name '!name' could not be mapped to a payment method class."
+msgstr "El nombre del método de pago '!name no se pudo asignar a una clase de método de pago."
+
+msgid "Dear customer we have received your billing and shipping information. In order to finish your order please create an account below or checkout as guest."
+msgstr "Dear customer we have received your billing and shipping information. In order to finish your order please create an account below or checkout as guest."
+
+msgid "You can not submit both forms at once"
+msgstr "You can not submit both forms at once"
+
+msgid "Day"
+msgstr "Día"
+
+msgid "Diners Club"
+msgstr "Diners Club"
+
+msgid "Test Transaction"
+msgstr "Test Transaction"
+
+msgid "19"
+msgstr "19"
+
+msgid "8"
+msgstr "8"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "Max Card Per CustomerId"
+msgstr "Max Card Per CustomerId"
+
+msgid "If the status is 'Pending' it is unclear whether the transaction will be refunded successfully."
+msgstr "Si el estado es pendiente' no está claro si la transacción será devuelto con éxito."
+
+msgid "Should the amount be captured automatically after the order (direct) or should the amount only be reserved (deferred)?"
+msgstr "Si la cantidad se capturará automáticamente después de la orden (directa) o debería sólo la cantidad reservada (diferido)?"
+
+msgid "You have to enter the CVC code from your card."
+msgstr "Debe introducir el CVC su tarjeta."
+
+msgid "Live HMAC Key"
+msgstr "Live HMAC Key"
+
+msgid "The operation can not be performed. The transaction status does not allow this transaction or the operation is currenlty not possible."
+msgstr "La operación no se puede realizar. La situación de la operación no permite esta operación o la operación no es currenlty posible."
+
+msgid "Payment Plan"
+msgstr "Payment Plan"
+
+msgid "Please enter the location of your bank."
+msgstr "Por favor, introduzca la ubicación de su banco."
+
+msgid "Only authorized transaction can be refunded."
+msgstr "Sólo las transacciones autorizadas pueden ser reembolsadas."
+
+msgid "11"
+msgstr "11"
+
+msgid "0"
+msgstr "0"
+
+msgid "If an order total is below the specified amount, it will be processed without 3d Secure."
+msgstr "If an order total is below the specified amount, it will be processed without 3d Secure."
+
+msgid "The reqeust is refused because it was treated as fraud."
+msgstr "La solicitud fue rechazada debido a que fue tratado como un fraude."
+
+msgid "Capturing"
+msgstr "Captura"
+
+msgid "Here you can insert an transaction reference prefix. The prefix allows you to change the order number that is transmitted to BNP Paribas Mercanet. The prefix must contain the tag {id}. It will then be replaced by the order number (e.g. name_{id})."
+msgstr "Aquí usted puede insertar un prefijo de referencia de la transacción. El prefijo le permite cambiar el número de orden que se transmite a BNP Paribas Mercanet. El prefijo debe contener la etiqueta {id}. A continuación, se sustituye por el número de orden (por ejemplo name_{id})."
+
+msgid "The returned response code is '!code'."
+msgstr "El código de respuesta devuelto es '!code'."
+
+msgid "3D Secure Authentication"
+msgstr "3D Secure Authentication"
+
+msgid "Pay with %s over the interface of BNP Paribas Mercanet."
+msgstr "Pay with %s over the interface of BNP Paribas Mercanet."
+
+msgid "Define a maximal order total for this checkout to be available."
+msgstr "Define a maximal order total for this checkout to be available."
+
+msgid "You have to enter the location of your bank."
+msgstr "Tienes que entrar en la ubicación de su banco."
+
+msgid "The rang (PBX_RANG) as defined in the live backoffice of BNP Paribas Mercanet. It must be nummeric value with length two. In the backoffice it may be displayed as a three char value. You must truncate the first digit."
+msgstr "The rang (PBX_RANG) as defined in the live backoffice of BNP Paribas Mercanet. It must be nummeric value with length two. In the backoffice it may be displayed as a three char value. You must truncate the first digit."
+
+msgid "Live Merchant ID not configured."
+msgstr "Live Merchant ID not configured."
+
+msgid "This transaction is not in a valid state to be captured"
+msgstr "This transaction is not in a valid state to be captured"
+
+msgid "Submitting order information..."
+msgstr "Submitting order information..."
+
+msgid "Company Commercial Number"
+msgstr "Compañía Número Comercial"
+
+msgid "Uncertain Status"
+msgstr "Estado incierto"
+
+msgid "If an order total is below the specified amount, it will be processed without the Expiry Date check."
+msgstr "If an order total is below the specified amount, it will be processed without the Expiry Date check."
+
+msgid "Live Password"
+msgstr "Live Password"
+
+msgid "The given site number is empty."
+msgstr "The given site number is empty."
+
+msgid "3D Secure sucess"
+msgstr "3D Secure con éxito"
+
+msgid "Live Secret Key Version"
+msgstr "Live Secret Key Version"
+
+msgid "Please select a shipping method."
+msgstr "Please select a shipping method."
+
+msgid "Short Installation Instructions:"
+msgstr "Short Installation Instructions:"
+
+msgid "Number of payments"
+msgstr "Number of payments"
+
+msgid "The refund item with SKU '@sku' is not present in the original order."
+msgstr "The refund item with SKU '@sku' is not present in the original order."
+
+msgid "Bank code number"
+msgstr "Código bancario"
+
+msgid "25"
+msgstr "25"
+
+msgid "Refund status"
+msgstr "Estado de su reembolso"
+
+msgid "During the checkou a 3D secure authentication may be done. With this setting you can by control, if this authorization should be done or not. You may have a higher fraud ration without 3D secure."
+msgstr "During the checkou a 3D secure authentication may be done. With this setting you can by control, if this authorization should be done or not. You may have a higher fraud ration without 3D secure."
+
+msgid "Redirection"
+msgstr "Redirección"
+
+msgid "Only authorized transaction can be cancelled."
+msgstr "Sólo las transacciones autorizadas se pueden cancelar."
+
+msgid "Minimal Order Total"
+msgstr "Cantidad mínima del pedido"
+
+msgid "Inactive"
+msgstr "Inactive"
+
+msgid "Continue"
+msgstr "Continuar"
+
+msgid "Transaction Cancelled"
+msgstr "Transacción cancelada"
+
+msgid "Cancel status"
+msgstr "Cancelar Estado"
+
+msgid "Direct E-Banking"
+msgstr "Direct E-Banking"
+
+msgid "Only captured transaction can be refunded."
+msgstr "Sólo las transacciones contabilizadas pueden ser reembolsadas"
+
+msgid "This controls the title which the user sees during checkout."
+msgstr "Controla el título que el usuario ve durante la comprobación."
+
+msgid "Please enter here the number on your card."
+msgstr "Por favor, introduzca su número de tarjeta"
+
+msgid "The signature could not be verified."
+msgstr "The signature could not be verified."
+
+msgid "Save Shipping Method"
+msgstr "Save Shipping Method"
+
+msgid "Please select a shipping method"
+msgstr "Please select a shipping method"
+
+msgid "Card Expiration"
+msgstr "Fecha de vencimiento de la tarjeta"
+
+msgid "If an order total is below the specified amount, it will be processed without the Velocity IP check."
+msgstr "If an order total is below the specified amount, it will be processed without the Velocity IP check."
+
+msgid "Cart has been modified after displaying order review"
+msgstr "Cart has been modified after displaying order review"
+
+msgid "If you have any issues with the module please feel free to contact us. See our <a href='https://www.sellxed.com/en/support' target='_blank'>support page</a> for more information."
+msgstr "If you have any issues with the module please feel free to contact us. See our <a href='https://www.sellxed.com/en/support' target='_blank'>support page</a> for more information."
+
+msgid "The calculated and returned seal do not match."
+msgstr "El sello calculado y devuelto no coinciden."
+
+msgid "Less Details"
+msgstr "Menos detalles"
+
+msgid "Corporate Card"
+msgstr "Corporate Card"
+
+msgid "Live Identifier (PBX_IDENTIFIANT)"
+msgstr "Live Identifier (PBX_IDENTIFIANT)"
+
+msgid "Could not load layout from URL !url. Reason: !reason"
+msgstr "No se pudo cargar el diseño de URL !url. Motivo: !reason"
+
+msgid "Maximal Capturable Amount"
+msgstr "Importe máximo a contabilizar"
+
+msgid "Error Message:"
+msgstr "Notificación de error:"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "First"
+msgstr "First"
+
+msgid "This password is used for recurring payments and for the alias manager as well as for the server authorization. This is the password of the BNP Paribas Mercanet account."
+msgstr "This password is used for recurring payments and for the alias manager as well as for the server authorization. This is the password of the BNP Paribas Mercanet account."
+
+msgid "14"
+msgstr "14"
+
+msgid "3"
+msgstr "3"
+
+msgid "Card Number"
+msgstr "Número de tarjeta"
+
+msgid "Live Secret Key"
+msgstr "Live Secret Key"
+
+msgid "IBAN number"
+msgstr "número IBAN"
+
+msgid "Error with the length of the validation date."
+msgstr "Error with the length of the validation date."
+
+msgid "No shipping method available for your region"
+msgstr "No shipping method available for your region"
+
+msgid "Shipping"
+msgstr "Shipping"
+
+msgid "The customer does not finish the payment with in the timeout."
+msgstr "The customer does not finish the payment with in the timeout."
+
+msgid "The payment method !paymentMethodName does not support the currency '!currency'."
+msgstr "La forma de pago! PaymentMethodName no soporta la moneda '!currency'."
+
+msgid "Live Mode"
+msgstr "Modo Live"
+
+msgid "The capture delay indicates how many days the transaction capture is delayed after the authorization."
+msgstr "The capture delay indicates how many days the transaction capture is delayed after the authorization."
+
+msgid "If an order total is below the specified amount, it will be processed without the Black Card check."
+msgstr "If an order total is below the specified amount, it will be processed without the Black Card check."
+
+msgid "The payment could not be processed. However, it seems that the payment was successful nevertheless. Your order was created and can be seen on the order confirmation page. Please contact us to find out more about the status of the order."
+msgstr "El pago no podría ser procesado. Sin embargo, parece que el pago fue exitoso, sin embargo. Su pedido fue creado y puede verse en la página de confirmación de pedido. Póngase en contacto con nosotros para obtener más información sobre el estado del pedido."
+
+msgid "Card Holder Name"
+msgstr "Titular de tarjeta"
+
+msgid "Setup"
+msgstr "Setup"
+
+msgid "The amount could not be verified."
+msgstr "The amount could not be verified."
+
+msgid "Payment n-Fois"
+msgstr "Payment n-Fois"
+
+msgid "Simulation Mode"
+msgstr "Modo de Simulación"
+
+msgid "Issue Number"
+msgstr "Número de emisión"
+
+msgid "If an order total is below the specified amount, it will be processed without the Grey IP check."
+msgstr "If an order total is below the specified amount, it will be processed without the Grey IP check."
+
+msgid "Disabled"
+msgstr "Disabled"
+
+msgid "Bank Name"
+msgstr "Nombre del banco"
+
+msgid "The timeframe is exceeded, hence the transaction is refused."
+msgstr "El marco de tiempo se supera, por lo tanto, la transacción es rechazada."
+
+msgid "Close transaction for further refunds."
+msgstr "Cerrar la transacción para otras contabilizaciónes."
+
+msgid "You have to enter either the CVC code or the issue number of your card."
+msgstr "Usted tiene que ingresar ya sea el código CVC o el número de expedición de la tarjeta."
+
+msgid "3D Secure"
+msgstr "3D Secure con éxito"
+
+msgid "Sales Tax Number"
+msgstr "Número de Impuesto a las Ventas"
+
+msgid "Credit Card Brands"
+msgstr "Marcas de Tarjeta de Crédito"
+
+msgid "The brand of the credit card is detected by the card number if hidden authorization is used. If the payment page is used, the user has to select the brand. The allowed credit card brands can be restricted by this setting."
+msgstr "The brand of the credit card is detected by the card number if hidden authorization is used. If the payment page is used, the user has to select the brand. The allowed credit card brands can be restricted by this setting."
+
+msgid "The refund item with SKU '@sku' has a higher amount (@amountItem) as the original item (@amountOriginal)."
+msgstr "The refund item with SKU '@sku' has a higher amount (@amountItem) as the original item (@amountOriginal)."
+
+msgid "VISA Electron"
+msgstr "VISA Electron"
+
+msgid "Enter the Merchant ID that you find under <a href='https://mercanet-telechargement.bnpparibas.net'>https://mercanet-telechargement.bnpparibas.net</a> (Secret key on the right upper corner). The login details are provided by BNP Paribas Mercanet."
+msgstr "Enter the Merchant ID that you find under <a href='https://mercanet-telechargement.bnpparibas.net'>https://mercanet-telechargement.bnpparibas.net</a> (Secret key on the right upper corner). The login details are provided by BNP Paribas Mercanet."
+
+msgid "Action"
+msgstr "Acción"
+
+msgid "28"
+msgstr "28"
+
+msgid "Register"
+msgstr "Register"
+
+msgid "A cancelled transaction cannot be captured."
+msgstr "Una transacción cancelada no puede ser contabilizada"
+
+msgid "Grey Card"
+msgstr "Grey Card"
+
+msgid "Authorization Method"
+msgstr "Método de autorización"
+
+msgid "You have to enter the name of the account owner."
+msgstr "Debe introducir el titular de la cuenta bancaria"
+
+msgid "If an order total is below the specified amount, it will be processed without the Velocity Customer Id check."
+msgstr "If an order total is below the specified amount, it will be processed without the Velocity Customer Id check."
+
+msgid "Can not be empty"
+msgstr "Can not be empty"
+
+msgid "The capture delay indicates how many day the transaction capture is delayed after the authorization."
+msgstr "The capture delay indicates how many day the transaction capture is delayed after the authorization."
+
+msgid "20"
+msgstr "20"
+
+msgid "The notification contains no 'responseCode'."
+msgstr "La notificación no contiene un 'responseCode'."
+
+msgid "Percentage of the order amount which is charged with the first payment. The residual amount is distributed equally among the remaining payments."
+msgstr "Percentage of the order amount which is charged with the first payment. The residual amount is distributed equally among the remaining payments."
+
+msgid "Live Key not configured."
+msgstr "Live Key not configured."
+
+msgid "Wrong authorization type."
+msgstr "Wrong authorization type."
+
+msgid "Previous Actions"
+msgstr "Acciones previas"
+
+msgid "Is Authorized"
+msgstr "Está aurorizado"
+
+msgid "Create a recurring payment, with an existing alias is not supported"
+msgstr "Create a recurring payment, with an existing alias is not supported"
+
+msgid "Which status should be set when a transaction is labelled as paid? For payments by invoice a payment the labelling might occur with a delay; in this case this status helps keep apart paid from unpaid invoices."
+msgstr "¿Qué estado quiere establecer cuando una transaccion ha marcado como pagado? en el caso de los pagos por factura, el pago estará marcado con un retraso. Esta opción le permite distinguir entre los pagos pagados y pagos non pagados."
+
+msgid "No authorization method found for payment method !method."
+msgstr "Ningún método de autorización encontrado para el pago al !method."
+
+msgid "The given CVC code has the wrong length."
+msgstr "El código CVC dado tiene una longitud incorrecta."
+
+msgid "The alias transaction could not be conductet with error code: !code, and reason: !reason:"
+msgstr "The alias transaction could not be conductet with error code: !code, and reason: !reason:"
+
+msgid "Please select the month of your birth."
+msgstr "Por favor seleccione el mes de su nacimiento."
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Costs"
+msgstr "Costs"
+
+msgid "The customer is now in the payment process of BNP Paribas Mercanet."
+msgstr "El cliente se encuentra ahora en el proceso de pago de BNP Paribas Mercanet."
+
+msgid "Payment Information"
+msgstr "Información de pago"
+
+msgid "You have to enter your IBAN Number."
+msgstr "Tiene que introducir su número de IBAN."
+
+msgid "Visa Electron"
+msgstr "Visa Electron"
+
+msgid "You have to enter the account holder name on the card."
+msgstr "Usted tiene que introducir el nombre del titular de la tarjeta."
+
+msgid "Title"
+msgstr "Título"
+
+msgid "17"
+msgstr "17"
+
+msgid "6"
+msgstr "6"
+
+msgid "No order ID provided."
+msgstr "No order ID provided."
+
+msgid "You have to enter the name of your bank."
+msgstr "Usted tiene que introducir el nombre de su banco."
+
+msgid "Customer sucessfully returned from the BNPMercanetCw payment page."
+msgstr "Customer sucessfully returned from the BNPMercanetCw payment page."
+
+msgid "Cancelled Status"
+msgstr "Estado Cancelado"
+
+msgid "Close transaction for further captures."
+msgstr "Cerrar la transacción para otras contabilizaciónes."
+
+msgid "Please enter the name of your bank."
+msgstr "Por favor escriba el nombre de su banco."
+
+msgid "Must not be negative"
+msgstr "Must not be negative"
+
+msgid "Live Key Version not configured."
+msgstr "Live Key Version not configured."
+
+msgid "Invalid transaction ID provided."
+msgstr "Invalid transaction ID provided."
+
+msgid "The total number of payments (2-4)."
+msgstr "The total number of payments (2-4)."
+
+msgid "Next Update Execution Date"
+msgstr "Next Update Execution Date"
+
+msgid "If an order total is below the specified amount, it will be processed without the Max Card Per CustomerId check."
+msgstr "If an order total is below the specified amount, it will be processed without the Max Card Per CustomerId check."
+
+msgid "VISA"
+msgstr "VISA"
+
+msgid "Single Payment"
+msgstr "Single Payment"
+
+msgid "Please select the the year of your birth."
+msgstr "Por favor, seleccione el año de tu nacimiento."
+
+msgid "The amount of !amount is authorized."
+msgstr "La cantidad de cada !amount está autorizado."
+
+msgid "Total amount computed over all lineitems (%f) does not match cart total (%f)"
+msgstr "Total amount computed over all lineitems (%f) does not match cart total (%f)"
+
+msgid "Multiple Shipping Methods"
+msgstr "Multiple Shipping Methods"
+
+msgid "Foreign Bin Card"
+msgstr "Foreign Bin Card"
+
+msgid "Which status should be set if the payment has been successfully authorised?"
+msgstr "¿Qué estado quiere establecer cuando el pago ha sido autorizado con éxito?"
+
+msgid "During the authorization"
+msgstr "Durante la autorización"
+
+msgid "The transaction is a duplicated of an other transaction. Therefore it is refused."
+msgstr "La transacción es un duplicado de otra transacción. Por lo tanto, se rechaza."
+
+msgid "Could not find a brand for the given card number."
+msgstr "No se pudo encontrar una marca para el número de la tarjeta dada."
+
+msgid "Refund Transaction"
+msgstr "Reembolsar transacción"
+
+msgid "The service is temporarily unavailable."
+msgstr "El servicio no está disponible temporalmente."
+
+msgid "Time Out"
+msgstr "Time Out"
+
+msgid "Paid Status"
+msgstr "Estado pagado"
+
+msgid "The capturing could not be conducted. Error code: !error."
+msgstr "The capturing could not be conducted. Error code: !error."
+
+msgid "Only authorized transaction can be captured."
+msgstr "Sólo las transacciones autorizadas pueden ser contabilizadas"
+
+msgid "Maestro"
+msgstr "Maestro"
+
+msgid "Maximum order amount for this plan."
+msgstr "Maximum order amount for this plan."
+
+msgid "Refunds"
+msgstr "Reembolsos"
+
+msgid "23"
+msgstr "23"
+
+msgid "If the test mode is selected the test account is used. Otherwise the configured account is used."
+msgstr "If the test mode is selected the test account is used. Otherwise the configured account is used."
+
+msgid "Set here the maximal order total for which this payment method is available. If it is set to zero, it is always available."
+msgstr "Esta forma de pago es disponible sólo si la suma del pedido es menor que el importe definido aquí. Si se establece en cero, siempre está disponible."
+
+msgid "The SEPA mandate schema does not contain the tag '!tag'. This tag is required."
+msgstr "El esquema de mandato SEPA no contiene la etiqueta '!tag'. Se requiere esta etiqueta."
+
+msgid "The capture amount (!captureAmount) cannot be greater than the authorized amount (!authorizedAmount)."
+msgstr "La cantidad de captura (!captureAmount) no puede ser mayor que el monto autorizado (!authorizedAmount)."
+
+msgid "If an order total is below the specified amount, it will be processed without the White Card check."
+msgstr "If an order total is below the specified amount, it will be processed without the White Card check."
+
+msgid "Free"
+msgstr "Free"
+
+msgid "The security rules are not observed, hence the transaction is stopped."
+msgstr "Las normas de seguridad no son observadas, por lo tanto, la operación se detiene."
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Deferred"
+msgstr "Diferido"
+
+msgid "If the status is 'Pending' it is unclear whether the transaction will be captured successfully."
+msgstr "If the status is 'Pending' it is unclear whether the transaction will be captured successfully."
+
+msgid "Capture Transaction"
+msgstr "Contabilizar transacción"
+
+msgid "Must be bigger than the minimum"
+msgstr "Must be bigger than the minimum"
+
+msgid "Brand Name"
+msgstr "Brand Name"
+
+msgid "Please enter here the account holder name."
+msgstr "Escriba aquí el nombre del titular."
+
+msgid "The notification contains no 'Seal' field."
+msgstr "La notificación contiene ningún campo 'Seal'."
+
+msgid "Currency"
+msgstr "Moneda"
+
+msgid "This is a brief installation instruction of the main and most important installation steps. It is important that you strictly follow the check-list. Only by doing so, the secure usage in correspondence with all security regulations can be guaranteed."
+msgstr "This is a brief installation instruction of the main and most important installation steps. It is important that you strictly follow the check-list. Only by doing so, the secure usage in correspondence with all security regulations can be guaranteed."
+
+msgid "If an order total is below the specified amount, it will be processed without the Max CustomerId Per Card check."
+msgstr "If an order total is below the specified amount, it will be processed without the Max CustomerId Per Card check."
+
+msgid "Transaction Captured"
+msgstr "Transacción contabilizada"
+
+msgid "External Checkout"
+msgstr "External Checkout"
+
+msgid "Operation Mode"
+msgstr "Modo de funcionamiento"
+
+msgid "Please enter your issue number, if there is no CVC code on your card."
+msgstr "Por favor, introduzca su número de emisión, si no existe un código CVC de su tarjeta."
+
+msgid "Unable to decode the server response."
+msgstr "No se ha podido descifrar la respuesta del servidor."
+
+msgid "9"
+msgstr "9"
+
+msgid "About"
+msgstr "About"
+
+msgid "Captures"
+msgstr "Contabilizaciónes"
+
+msgid "Direct Debits"
+msgstr "Direct Debits"
+
+msgid "Simility IP Card"
+msgstr "Simility IP Card"
+
+msgid "You have to enter bank code of your bank."
+msgstr "Debe introducir el código bancario"
+
+msgid "Author"
+msgstr "Author"
+
+msgid "Could not load payment module."
+msgstr "Could not load payment module."
+
+msgid "12"
+msgstr "12"
+
+msgid "1"
+msgstr "1"
+
+msgid "Successfully add a manual renewal payment."
+msgstr "Successfully add a manual renewal payment."
+
+msgid "Billing Address"
+msgstr "Billing Address"
+
+msgid "Deferred (authorization)"
+msgstr "Deferred (authorization)"
+
+msgid "The refunding could not be conducted. Error code: !error."
+msgstr "The refunding could not be conducted. Error code: !error."
+
+msgid "The given rang is empty. It must be a nummeric value with length of two."
+msgstr "The given rang is empty. It must be a nummeric value with length of two."
+
+msgid "Please enter here your social security number."
+msgstr "Por favor, introduzca aquí su número de seguro social."
+
+msgid "Live Site ID (PBX_SITE)"
+msgstr "Live Site ID (PBX_SITE)"
+
+msgid "Minimum Amount"
+msgstr "Minimum Amount"
+
+msgid "Select Brand"
+msgstr "Seleccione una marca"
+
+msgid "A cancelled transaction cannot be refunded."
+msgstr "Una transacción cancelada no puede ser reembolsada"
+
+msgid "Token expired"
+msgstr "Token expired"
+
+msgid "The response code returned by ____paymentServiceProvider____ after the authorization."
+msgstr "The response code returned by ____paymentServiceProvider____ after the authorization."
+
+msgid "You have to enter the IBAN."
+msgstr "Entrar en el IBAN."
+
+msgid "Missing payment method."
+msgstr "Missing payment method."
+
+msgid "Please select the day of your birth."
+msgstr "Por favor seleccione el día de su nacimiento."
+
+msgid "You can restrict the usable cards for this payment method by this setting. Only the selected one can be used by the customer."
+msgstr "Puede restringir las tarjetas utilizables para este método de pago por este ajuste. Sólo la seleccionada puede ser utilizado por el cliente."
+
+msgid "I confirm my payment"
+msgstr "Confirmo mi pago"
+
+msgid "Please select"
+msgstr "Por favor seleccione"
+
+msgid "Authorization Amount"
+msgstr "Importe de autorisación"
+
+msgid "Transaction Reference Prefix"
+msgstr "Transaction Reference Prefix"
+
+msgid "You can specify the order status for orders that are captured either directly after the order or manually in the backend."
+msgstr "Se puede especificar el estado de su pedido para los pedidos que se capturan de forma directa después de la orden o de forma manual en el backend."
+
+msgid "Period"
+msgstr "Period"
+
+msgid "Capture Delay"
+msgstr "Capture Delay"
+
+msgid "Which status should be set if a problem with the authorisation has occurred? In these cases you must manually verify if the customer has been charged with the amount."
+msgstr "¿Qué estado quiere establecer cuando se produjo un problema al autorizar? Pedidos en este estado tienen que estar comprobado manualmente si el importe fue contabilizado."
+
+msgid "Directly after order (sale)"
+msgstr "Directly after order (sale)"
+
+msgid "BNPMercanetCw Interval"
+msgstr "Intervalo de ___ModuleCamel___"
+
+msgid "Enter the date on which your card expires."
+msgstr "Introduzca la fecha en la que expira su tarjeta."
+
+msgid "CVC Code"
+msgstr "CVC código"
+
+msgid "Activate the payment method that you want to accept payments with."
+msgstr "Activate the payment method that you want to accept payments with."
+
+msgid "Confirm email"
+msgstr "Confirm email"
+
+msgid "Transaction Paid"
+msgstr "Transacción pagado"
+
+msgid "Please select the expiry year on your card."
+msgstr "Por favor introduzca la fecha de caducidad de la tarjeta."
+
+msgid "Rounding Adjustment"
+msgstr "Rounding Adjustment"
+
+msgid "Could not convert object of type '!type' to string."
+msgstr "No se pudo convertir el objeto de tipo '!type' a string."
+
+msgid "Change payment method"
+msgstr "Cambiar el método de pago"
+
+msgid "BNP Paribas Mercanet Transactions"
+msgstr "Transacciones BNP Paribas Mercanet"
+
+msgid "26"
+msgstr "26"
+
+msgid "Please enter here the account number of your bank account."
+msgstr "Introduce el número de cuenta de tu cuenta bancaria."
+
+msgid "Your Payment"
+msgstr "Su pago"
+
+msgid "The given card number has an invalid length."
+msgstr "El número de tarjeta dada tiene una longitud no válida."
+
+msgid "Cart Subtotal"
+msgstr "Cart Subtotal"
+
+msgid "Processing..."
+msgstr "Processing..."
+
+msgid "Discount"
+msgstr "Discount"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Define a minimal order total for this checkout to be available."
+msgstr "Define a minimal order total for this checkout to be available."
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "You have to enter your social security number."
+msgstr "Tiene que introducir su número de seguro social."
+
+msgid "The time between two payments in days."
+msgstr "The time between two payments in days."
+
+msgid "Use Default"
+msgstr "Use Default"
+
+msgid "You have to enter your bank account number."
+msgstr "Debe introducir el número de cuenta de tu cuenta bancaria."
+
+msgid "You have to enter the BIC."
+msgstr "Entrar en el BIC."
+
+msgid "Transaction Number"
+msgstr "Número de transacción"
+
+msgid "Capture status"
+msgstr "El estado de captura"
+
+msgid "Error connecting to BNP Paribas Mercanet. Reason: !message"
+msgstr "Error connecting to BNP Paribas Mercanet. Reason: !message"
+
+msgid "Payment plan not available for this amount."
+msgstr "Payment plan not available for this amount."
+
+msgid "If an order total is below the specified amount, it will be processed without the Simility IP Card check."
+msgstr "If an order total is below the specified amount, it will be processed without the Simility IP Card check."
+
+msgid "Payment Plans"
+msgstr "Payment Plans"
+
+msgid "The request failed because of invalid parameters in the reqeust."
+msgstr "Error de la solicitud debido a parámetros no válidos en la solicitud."
+
+msgid "A cancelled transaction cannot be authorized."
+msgstr "Una transacción cancelada no puede ser autorizada"
+
+msgid "The transaction is only executed in the test system. The goods should not be delivered."
+msgstr "The transaction is only executed in the test system. The goods should not be delivered."
+
+msgid "Product"
+msgstr "Product"
+
+msgid "This controls the description which the user sees during checkout."
+msgstr "Controla la descripción que el usuario ve durante la comprobación."
+
+msgid "Subscription Payment Failed with error:"
+msgstr "El pago de la subscription ha fallado con el error:"
+
+msgid "Order Prefix"
+msgstr "Order Prefix"
+
+msgid "Release Date"
+msgstr "Release Date"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Select the authorization method to use for processing this payment method."
+msgstr "Selecciona el método de autorización para este método de pago."
+
+msgid "Select card"
+msgstr "Seleccione la información de pago guardada."
+
+msgid "Maximum Amount"
+msgstr "Maximum Amount"
+
+msgid "Capturing Delay"
+msgstr "Capturing Delay"
+
+msgid "No"
+msgstr "No"
+
+msgid "A manual renewal debits the customer directly for this subscription. This by pass any time restriction of the automatic subscription plugin."
+msgstr "Una renovación manual de carga a la cliente directamente para esta suscripción. Con esta opción se omite el mecanismo automático del plugin de suscripción."
+
+msgid "Only an authorized transaction can be marked as finally declined."
+msgstr "Only an authorized transaction can be marked as finally declined."
+
+msgid "Validation Time"
+msgstr "Validation Time"
+
+msgid "15"
+msgstr "15"
+
+msgid "Refused Payments after uncertain"
+msgstr "Refused Payments after uncertain"
+
+msgid "4"
+msgstr "4"
+
+msgid "We experienced a problem with your sellxed payment extension. For more information, please visit the information page of the plugin."
+msgstr "Hemos experimentado un problema con su extensión de pago de sellXed. Para obtener más información, visite la página de información del plugin."
+
+msgid "In simulation mode the general merchant ID on the simulation plattform is used. In simulation mode the test cards must be used. After you received the merchant ID you should switch to live mode."
+msgstr "En el modo de simulación se utiliza el ID de comerciante general sobre el plattform simulación. En el modo de simulación se deben utilizar las tarjetas de prueba. Después de recibir el ID de comerciante debe cambiar a modo en vivo."
+
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgid "Payment"
+msgstr "Payment"
+
+msgid "Only an uncertain transaction can be marked as finally declined."
+msgstr "Only an uncertain transaction can be marked as finally declined."
+
+msgid "A transaction may be uncertain, when the payment is not guaranteed. For example in case the credit card does not participate in the 3D procedure."
+msgstr "Una transacción puede ser incierto, cuando no se garantiza el pago. Por ejemplo en el caso de la tarjeta de crédito no participa en el procedimiento de 3D​​."
+
+msgid "No more details available."
+msgstr "No more details available."
+
+msgid "Transaction Authorized"
+msgstr "Transacción autorizada"
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Dear customer, it appears to us that your payment was successful, but we are still waiting for confirmation. You can wait on this page and we will redirect you after we received the confirmation. Or you can close this window and we will send out an order confirmation email."
+msgstr "Dear customer, it appears to us that your payment was successful, but we are still waiting for confirmation. You can wait on this page and we will redirect you after we received the confirmation. Or you can close this window and we will send out an order confirmation email."
+
+msgid "Enter here the live secret key. You can get the secret key from the extranet. This secret key is used only when the live operation mode is used. The secret key is used to sign the request done to BNP Paribas Mercanet."
+msgstr "Introduzca aquí la clave secreta Live. Usted puede obtener la clave secreta de la extranet. Este se utiliza clave secreta sólo cuando se utiliza el modo de operación en vivo. La clave secreta se utiliza para firmar la petición hecha a BNP Paribas Mercanet."
+
+msgid "Test Mode"
+msgstr "Test Mode"
+
+msgid "IBAN"
+msgstr "IBAN"
+
+msgid "More Details"
+msgstr "Más detalles"
+
+msgid "Amount"
+msgstr "Importe"
+
+msgid "Bad signature format."
+msgstr "Bad signature format."
+
+msgid "If an order total is below the specified amount, it will be processed without the Systematic Authorization Card check."
+msgstr "If an order total is below the specified amount, it will be processed without the Systematic Authorization Card check."
+
+msgid "Please check the entered CVC number."
+msgstr "Por favor, compruebe el número de CVC introducido."
+
+msgid "Minimum order amount for this plan."
+msgstr "Minimum order amount for this plan."
+
+msgid "The given rang is invalid. It must be a nummeric value with length of two."
+msgstr "The given rang is invalid. It must be a nummeric value with length of two."
+
+msgid "A refund was added over !amount."
+msgstr "Un reembolso se añadió durante  !amount."
+
+msgid "Cancel Transaction"
+msgstr "Cancelar transacción"
+
+msgid "The identifier as defined in the backoffice of BNP Paribas Mercanet."
+msgstr "The identifier as defined in the backoffice of BNP Paribas Mercanet."
+
+msgid "If an order total is below the specified amount, it will be processed without the Grey Card check."
+msgstr "If an order total is below the specified amount, it will be processed without the Grey Card check."
+
+msgid "BIC"
+msgstr "BIC"
+
+msgid "29"
+msgstr "29"
+
+msgid "Payment Plan selected, but not activated for this method."
+msgstr "Payment Plan selected, but not activated for this method."
+
+msgid "Continue to your the order confirmation"
+msgstr "Continuar a la confirmación del pedido"
+
+msgid "Successful"
+msgstr "Con éxito"
+
+msgid "Must be bigger than 1 and smaller than 31"
+msgstr "Must be bigger than 1 and smaller than 31"
+
+msgid "Authorized Status"
+msgstr "Estado autorizado"
+
+msgid "Order Total"
+msgstr "Order Total"
+
+msgid "The order is not fully completed. Please contact the store owner."
+msgstr "The order is not fully completed. Please contact the store owner."
+
+msgid "21"
+msgstr "21"
+
+msgid "The notification contains no 'Data' field."
+msgstr "La notificación contiene ningún campo 'Data'."
+
+msgid "The request failed because of invalid format in some field."
+msgstr "La solicitud ha fallado debido a un formato no válido en algún campo."
+
+msgid "BNP Paribas Mercanet Settings"
+msgstr "Configuración BNP Paribas Mercanet"
+
+msgid "The controller class '@controller' does not provide any method with annotation 'Customweb_Payment_Endpoint_Annotation_ExtractionMethod' and valid output."
+msgstr "The controller class '@controller' does not provide any method with annotation 'Customweb_Payment_Endpoint_Annotation_ExtractionMethod' and valid output."
+
+msgid "Shipping Address"
+msgstr "Shipping Address"
+
+msgid "When the store is not available (network outage, server failure or any other outage), when the feedback of BNP Paribas Mercanet is sent, then the transaction state is not updated. Hence no order confirmation e-mail is sent and the order is not in the paid state. By activating the transaction update, such transactions can be authorized later over direct link. To use this feature the update service must be activated and the API username and the API password must be set."
+msgstr "When the store is not available (network outage, server failure or any other outage), when the feedback of BNP Paribas Mercanet is sent, then the transaction state is not updated. Hence no order confirmation e-mail is sent and the order is not in the paid state. By activating the transaction update, such transactions can be authorized later over direct link. To use this feature the update service must be activated and the API username and the API password must be set."
+
+msgid "You can choose a previous used card:"
+msgstr "Usted puede elegir entre una tarjeta utilizada anteriormente:"
+
+msgid "Account owner name."
+msgstr "Nombre del titular"
+
+msgid "Free Shipping"
+msgstr "Free Shipping"
+
+msgid "The given card number has an invalid check sum."
+msgstr "El número de tarjeta dada tiene una suma de comprobación no válida."
+
+msgid "Successful Payments after uncertain"
+msgstr "Successful Payments after uncertain"
+
+msgid "Please enter here the account holder name on the card."
+msgstr "Por favor introduzca el nombre titular de la cuenta de la tarjeta."
+
+msgid "You have to enter the card holder name on the card."
+msgstr "Debe introducir el titular de la tarjeta."
+
+msgid "Year"
+msgstr "Año"
+
+msgid "Could not create user."
+msgstr "Could not create user."
+
+msgid "Invalid Email/Username"
+msgstr "Invalid Email/Username"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "If an order total is below the specified amount, it will be processed without the IP Country check."
+msgstr "If an order total is below the specified amount, it will be processed without the IP Country check."
+
+msgid "Please enter here the Bank Identifier Code (BIC)."
+msgstr "Por favor introduzca el Código de identificación bancaria (BIC)."
+
+msgid "Yes, use images for the brand selection."
+msgstr "Yes, use images for the brand selection."
+
+msgid "Email / Username"
+msgstr "Email / Username"
+
+msgid "The payment method !paymentMethodName is not available in your country ('!country')."
+msgstr "La forma de pago! PaymentMethodName no está disponible en tu país ('!country')."
+
+msgid "Expiry Date"
+msgstr "Expiry Date"
+
+msgid "If an order total is below the specified amount, it will be processed without the Foreign Bin Card check."
+msgstr "If an order total is below the specified amount, it will be processed without the Foreign Bin Card check."
+
+msgid "Date of Birth"
+msgstr "Fecha de nacimiento"
+
+msgid "Only on captured transaction the flag customer refusing to pay can be set."
+msgstr "Only on captured transaction the flag customer refusing to pay can be set."
+
+msgid "A authorized transaction cannot be marked as failed."
+msgstr "Una transacción autorizada no puede ser marcado como fallada"
+
+msgid "18"
+msgstr "18"
+
+msgid "Velocity IP"
+msgstr "Velocity IP"
+
+msgid "7"
+msgstr "7"
+
+msgid "The calculated and the returned seal do not match."
+msgstr "El calculado y el anillo devuelto no coinciden."
+
+msgid "Please check the entered credit card number."
+msgstr "Por favor, compruebe el número de la tarjeta de crédito introducida."
+
+msgid "The password field was empty"
+msgstr "The password field was empty"
+
+msgid "No, use the dropdown."
+msgstr "No, use the dropdown."
+
+msgid "The provided bank details or the provided CVC is invlaid."
+msgstr "Los datos bancarios prestados o la CVC proporcionado no es válido."
+
+msgid "The defined capture delay is not valid. It must be a positive integer."
+msgstr "The defined capture delay is not valid. It must be a positive integer."
+
+msgid "Risk Management"
+msgstr "Risk Management"
+
+msgid "Could not find the payment method !paymentMethodName."
+msgstr "No se pudo encontrar la forma de pago !paymentMethodName."
+
+msgid "This setting can be used to activate resp. deactivate the 3D secure check. Please check with PayBox if you are allowed to deactivate the 3D secure check. This setting has only an effect when you use the payment page."
+msgstr "This setting can be used to activate resp. deactivate the 3D secure check. Please check with PayBox if you are allowed to deactivate the 3D secure check. This setting has only an effect when you use the payment page."
+
+msgid "Please enter here the CVC code from your card. You find the code on the back of the card."
+msgstr "Por favor, introduzca la CVC su tarjeta. Usted puede encontrar esto en la parte de atrás de su tarjeta de crédito."
+
+msgid "10"
+msgstr "10"
+
+msgid "Please enter here the International Bank Account Number (IBAN)."
+msgstr "Por favor introduzca el Número de Cuenta Bancaria Internacional (IBAN)."
+
+msgid "Activate"
+msgstr "Activate"
+
+msgid "Payment Notification"
+msgstr "Notificación de pago:"
+
+msgid "no"
+msgstr "no"
+
+msgid "The email address field was empty"
+msgstr "The email address field was empty"
+
+msgid "Refund amount"
+msgstr "La cantidad del reembolso"
+
+msgid "Enable/Disable"
+msgstr "Activar / desactivar"
+
+msgid "This status is set, when the payment was successfull and it is authorized."
+msgstr "Este estado se define cuando el pago fue exitoso y que está autorizado."
+
+msgid "The authorisation is refused."
+msgstr "La denegación de la autorización."
+
+msgid "The expected format is '!format' where the 'MM' means the month number and 'YY' the year number."
+msgstr "El formato esperado es '!format' donde el 'MM' significa el número del mes y 'YY' el número de años."
+
+msgid "If it is not applicable leave the field empty."
+msgstr "Si no es aplicable deje el campo vacío."
+
+msgid "Must been between 2 and 4"
+msgstr "Must been between 2 and 4"
+
+msgid "Enable %s"
+msgstr "Activar %s"
+
+msgid "After selection of payment method"
+msgstr "Después de elegir la forma de pago"
+
+msgid "The transaction update feature is not active on this account"
+msgstr "The transaction update feature is not active on this account"
+
+msgid "Account creation"
+msgstr "Account creation"
+
+msgid "3D Secure failed"
+msgstr "3D Secure fallado"
+
+msgid "No response code returned"
+msgstr "No response code returned"
+

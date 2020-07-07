@@ -1,0 +1,22 @@
+#mercanet_nx_cards, #mercanet_one_time_cards{ margin-bottom: 25px; }
+.mercanet-display-card, .mercanet-display-sdd{ margin-bottom: 10px; border: 1px solid #9ea3a8; color: #7d6666 !important;}
+.mercanet-display-card button, .mercanet-display-sdd button {width: 100%; height: 40px; padding: 10px; background: none; border: 0px; position: relative;}
+.mercanet-display-card button:hover, .mercanet-display-sdd button:hover {background: #e2e1e8; 
+    -webkit-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.75);
+    box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.75);
+}
+.mercanet-display-card button:active{box-shadow: none;}
+.mercanet-display-card button img {float: left !important;max-height: 1.618em; padding: 0; border: 0; display: block;}
+.mercanet-display-card button p {width: auto; position: absolute; left: 45%; top: 10px; text-align: left; text-overflow: ellipsis; white-space: nowrap; overflow: hidden; color: #544a4a !important;}
+.payment_method_mercanet_severaltime div p { margin: 0 !important;}
+.mercanet-clear {padding-top: 5px; padding-bottom: 5px; clear: both; }
+.woocommerce #mercanet_stop_recurring_form {margin-bottom:10px;}
+.woocommerce .stop_recurring_confirmation {
+    width: 50%; text-align: center; position: absolute; background: white; border: 2px solid black; padding: 10px; z-index: 10001;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.woocommerce .mercanet-overlay {display: none; width: 100%; height: 100%; background: rgba(158, 158, 158, 0.36); position: fixed; left: 0;  top: 0; z-index: 10000;}
+.payment_box.payment_method_mercanet_onetime{background-color:#fff!important}

@@ -1,0 +1,1423 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce PDF Invoices, Packing Slips, Delivery Notes "
+"& Shipping Labels\n"
+"POT-Creation-Date: 2019-06-19 10:14+0530\n"
+"PO-Revision-Date: 2019-06-19 10:39+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n!=1 && n%100>=1 && n"
+"%100<=19) ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wf-woocommerce-packing-list.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:100
+msgid "Settings updated."
+msgstr "Setările aduse la zi."
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:101
+#: admin/class-wf-woocommerce-packing-list-admin.php:475
+msgid "All fields are mandatory"
+msgstr "Toate campurile sunt obligatorii"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:102
+msgid "Unable to update Settings."
+msgstr "Imposibil de actualizat setările."
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:103
+msgid "You have to select order(s) first!"
+msgstr "Trebuie să selectați ordinele mai întâi!"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:104
+msgid "One or more order do not have invoice generated. Generate manually?"
+msgstr "Unul sau mai multe comenzi nu au generat factură. Generați manual?"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:128
+#: public/modules/invoice/invoice.php:203
+#: public/modules/invoice/invoice.php:204
+#: public/modules/invoice/views/invoice-admin-settings.php:12
+msgid "Invoice"
+msgstr "Factura fiscala"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:163
+msgctxt "placeholder"
+msgid "Enter "
+msgstr "introduce"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:317
+msgid "Print Actions"
+msgstr "Imprimarea acțiunilor"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:327
+#: admin/partials/wf-woocommerce-packing-list-admin-display.php:23
+#: public/modules/addresslabel/views/admin-settings.php:11
+#: public/modules/dispatchlabel/views/dispatchlabel-admin-settings.php:11
+#: public/modules/invoice/views/invoice-admin-settings.php:12
+#: public/modules/packinglist/views/admin-settings.php:11
+#: public/modules/shippinglabel/views/admin-settings.php:11
+msgid "Settings"
+msgstr "Setări"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:328
+msgid "Documentation"
+msgstr "Documentație"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:329
+msgid "Support"
+msgstr "A sustine"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:366
+#: admin/class-wf-woocommerce-packing-list-admin.php:378
+msgid "General Settings"
+msgstr "setari generale"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:367
+msgid "Invoice/Pack List"
+msgstr "Factură / listă de pachete"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:410
+msgid "You are not allowed to view this page."
+msgstr "Nu aveți permisiunea de a vizualiza această pagină."
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:411
+msgid "Access denied !!!."
+msgstr "Acces interzis !!!."
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:474
+#: admin/modules/customizer/customizer.php:111
+msgid "Error"
+msgstr "Eroare"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:604
+#: public/modules/dispatchlabel/dispatchlabel.php:246
+#: public/modules/invoice/invoice.php:355
+#: public/modules/packinglist/packinglist.php:264
+#: public/modules/shippinglabel/shippinglabel.php:397
+msgid "Settings Updated."
+msgstr "Setările aduse la zi."
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:720
+msgid "Upload"
+msgstr "Încărcați"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:775
+msgid "Add Existing Order Meta Field"
+msgstr "Adăugați câmpul Meta din comanda existentă"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:805
+msgid "Add Product Meta"
+msgstr "Adăugați produsul Meta"
+
+#: admin/modules/customizer/classes/class-customizer.php:72
+msgid "Box name"
+msgstr "Numele cutiei"
+
+#: admin/modules/customizer/classes/class-customizer.php:296
+msgid "incl. tax"
+msgstr "incl. impozit"
+
+#: admin/modules/customizer/classes/class-customizer.php:304
+msgid "Refund"
+msgstr "Rambursa"
+
+#: admin/modules/customizer/classes/class-customizer.php:473
+#: includes/class-wf-woocommerce-packing-list-box_packing.php:98
+#: includes/class-wf-woocommerce-packing-list-box_packing.php:105
+msgid "n/a"
+msgstr "n / A"
+
+#: admin/modules/customizer/customizer.php:57
+#: admin/modules/customizer/customizer.php:62
+msgid "Customize"
+msgstr "Personalizați"
+
+#: admin/modules/customizer/customizer.php:112
+msgid "Success"
+msgstr "Personalizați"
+
+#: admin/modules/customizer/customizer.php:113
+msgid "You can't undo this action. Are you sure?"
+msgstr "Nu puteți anula această acțiune. Esti sigur?"
+
+#: admin/modules/customizer/customizer.php:114
+msgid "Click here to add Company logo"
+msgstr "Faceți clic aici pentru a adăuga logo-ul companiei"
+
+#: admin/modules/customizer/customizer.php:115
+msgid "Click here to add Company name"
+msgstr "Faceți clic aici pentru a adăuga numele companiei"
+
+#: admin/modules/customizer/customizer.php:116
+msgid "Click here to add From address"
+msgstr "Faceți clic aici pentru a adăuga adresa de la De la"
+
+#: admin/modules/customizer/customizer.php:117
+msgid "Click here to add Signature"
+msgstr "Faceți clic aici pentru a adăuga semnătura"
+
+#: admin/modules/customizer/customizer.php:118
+msgid ""
+"Please save all data before leaving this page. All unsaved data will lost. "
+"Are you sure?"
+msgstr ""
+"Salvați toate datele înainte de a părăsi această pagină. Toate datele "
+"nesalvate vor fi pierdute. Esti sigur?"
+
+#: admin/modules/customizer/customizer.php:154
+msgid "Customize template"
+msgstr "Personalizați șablonul"
+
+#: admin/modules/customizer/customizer.php:154
+#: admin/modules/customizer/customizer.php:407
+msgid "Active"
+msgstr "Activ"
+
+#: admin/modules/customizer/customizer.php:379
+msgid "Error."
+msgstr "Eroare."
+
+#: admin/modules/customizer/customizer.php:410
+#: admin/modules/customizer/views/customize.php:195
+msgid "Activate"
+msgstr "Activati"
+
+#: admin/modules/customizer/customizer.php:437
+msgid "No template found."
+msgstr "Nu sa găsit niciun șablon."
+
+#: admin/modules/customizer/customizer.php:455
+msgid "Unable to save theme."
+msgstr "Imposibil de salvat tema."
+
+#: admin/modules/customizer/customizer.php:496
+msgid "Template created."
+msgstr "Șablonul a fost creat."
+
+#: admin/modules/customizer/customizer.php:531
+msgid "Template updated."
+msgstr "Șablonul a fost actualizat."
+
+#: admin/modules/customizer/customizer.php:553
+msgid "Unable to switch view."
+msgstr "Imposibil de schimbat vizualizarea."
+
+#: admin/modules/customizer/customizer.php:759
+msgid "Unable to load template."
+msgstr "Imposibil de încărcat șablonul."
+
+#: admin/modules/customizer/views/_customize_properties.php:103
+msgid "Lighter"
+msgstr "Mai usoara"
+
+#: admin/modules/customizer/views/_customize_properties.php:104
+msgid "Normal"
+msgstr "Normal"
+
+#: admin/modules/customizer/views/_customize_properties.php:105
+msgid "Bold"
+msgstr "Îndrăzneţ"
+
+#: admin/modules/customizer/views/_customize_properties.php:106
+msgid "Bolder"
+msgstr "Bolder"
+
+#: admin/modules/customizer/views/_customize_properties.php:135
+#: public/modules/shippinglabel/shippinglabel.php:95
+msgid "Display"
+msgstr "Afişa"
+
+#: admin/modules/customizer/views/_customize_properties.php:139
+#: public/modules/dispatchlabel/dispatchlabel.php:102
+#: public/modules/invoice/invoice.php:112
+#: public/modules/packinglist/packinglist.php:102
+#: public/modules/shippinglabel/shippinglabel.php:99
+#: public/modules/shippinglabel/shippinglabel.php:242
+msgid "Company Logo"
+msgstr "Logoul companiei"
+
+#: admin/modules/customizer/views/_customize_properties.php:140
+#: admin/views/admin-settings-general.php:21
+#: public/modules/shippinglabel/shippinglabel.php:100
+msgid "Company Name"
+msgstr "Numele Companiei"
+
+#: admin/modules/customizer/views/_customize_properties.php:144
+#: public/modules/shippinglabel/shippinglabel.php:104
+msgid "Logo Width"
+msgstr "Logo Lățime"
+
+#: admin/modules/customizer/views/_customize_properties.php:151
+#: public/modules/shippinglabel/shippinglabel.php:111
+msgid "Logo Height"
+msgstr "Logo Înălțime"
+
+#: admin/modules/customizer/views/_customize_properties.php:159
+#: public/modules/shippinglabel/shippinglabel.php:119
+msgid "Company name font size"
+msgstr "Dimensiunea fontului companiei"
+
+#: admin/modules/customizer/views/_customize_properties.php:165
+msgid "Extra Details"
+msgstr "Detalii suplimentare"
+
+#: admin/modules/customizer/views/_customize_properties.php:171
+msgid "Extra detail font size"
+msgstr "Dimensiune font suplimentar detaliat"
+
+#: admin/modules/customizer/views/_customize_properties.php:177
+msgid "Header Color"
+msgstr "Culoarea antetului"
+
+#: admin/modules/customizer/views/_customize_properties.php:190
+#: admin/modules/customizer/views/_customize_properties.php:224
+msgid "Text"
+msgstr "Text"
+
+#: admin/modules/customizer/views/_customize_properties.php:195
+#: admin/modules/customizer/views/_customize_properties.php:247
+#: admin/modules/customizer/views/_customize_properties.php:305
+#: admin/modules/customizer/views/_customize_properties.php:534
+#: public/modules/shippinglabel/shippinglabel.php:62
+msgid "Font size"
+msgstr "Font size"
+
+#: admin/modules/customizer/views/_customize_properties.php:203
+#: admin/modules/customizer/views/_customize_properties.php:255
+msgid "Style"
+msgstr "Stil"
+
+#: admin/modules/customizer/views/_customize_properties.php:213
+#: admin/modules/customizer/views/_customize_properties.php:265
+#: admin/modules/customizer/views/_customize_properties.php:289
+#: admin/modules/customizer/views/_customize_properties.php:323
+msgid "Text color"
+msgstr "Culoarea textului"
+
+#: admin/modules/customizer/views/_customize_properties.php:229
+msgid "Format"
+msgstr "Format"
+
+#: admin/modules/customizer/views/_customize_properties.php:276
+#: admin/modules/customizer/views/_customize_properties.php:300
+#: admin/modules/customizer/views/_customize_properties.php:529
+#: public/modules/shippinglabel/shippinglabel.php:130
+#: public/modules/shippinglabel/shippinglabel.php:155
+msgid "Title"
+msgstr "Titlu"
+
+#: admin/modules/customizer/views/_customize_properties.php:281
+msgid "Text align"
+msgstr "Aliniere text"
+
+#: admin/modules/customizer/views/_customize_properties.php:334
+msgid "Table head background"
+msgstr "Fundalul capului mesei"
+
+#: admin/modules/customizer/views/_customize_properties.php:341
+msgid "Table head text color"
+msgstr "Culoarea textului capului mesei"
+
+#: admin/modules/customizer/views/_customize_properties.php:348
+msgid "Table body text color"
+msgstr "Culoarea textului corpului de masă"
+
+#: admin/modules/customizer/views/_customize_properties.php:362
+msgid "Image label"
+msgstr "Eticheta de imagine"
+
+#: admin/modules/customizer/views/_customize_properties.php:368
+msgid "Image text align"
+msgstr "Textul textului de aliniere"
+
+#: admin/modules/customizer/views/_customize_properties.php:385
+msgid "SKU label"
+msgstr "Eticheta SKU"
+
+#: admin/modules/customizer/views/_customize_properties.php:391
+msgid "SKU text align"
+msgstr "SKU text alin"
+
+#: admin/modules/customizer/views/_customize_properties.php:408
+msgid "Product label"
+msgstr "Eticheta produsului"
+
+#: admin/modules/customizer/views/_customize_properties.php:414
+msgid "Product text align"
+msgstr "Alinierea textului produsului"
+
+#: admin/modules/customizer/views/_customize_properties.php:431
+msgid "Qty label"
+msgstr "Eticheta etichetă"
+
+#: admin/modules/customizer/views/_customize_properties.php:437
+msgid "Qty text align"
+msgstr "Cantitate text aliniat"
+
+#: admin/modules/customizer/views/_customize_properties.php:454
+msgid "Price label"
+msgstr "Etichetă de preț"
+
+#: admin/modules/customizer/views/_customize_properties.php:460
+msgid "Price text align"
+msgstr "Preț text alin"
+
+#: admin/modules/customizer/views/_customize_properties.php:477
+msgid "Total weight label"
+msgstr "Etichetă de greutate totală"
+
+#: admin/modules/customizer/views/_customize_properties.php:483
+msgid "Total weight text align"
+msgstr "Greutatea totală aliniată"
+
+#: admin/modules/customizer/views/_customize_properties.php:500
+msgid "Total label"
+msgstr "Etichetă totală"
+
+#: admin/modules/customizer/views/_customize_properties.php:506
+msgid "Total text align"
+msgstr "Alinierea totală a textului"
+
+#: admin/modules/customizer/views/_customize_properties.php:520
+msgid "Signature type"
+msgstr "Tipul semnăturii"
+
+#: admin/modules/customizer/views/_customize_properties.php:524
+msgid "Manual Signature"
+msgstr "Semnătură manuală"
+
+#: admin/modules/customizer/views/_customize_properties.php:525
+msgid "Image Signature"
+msgstr "Semnătură de imagine"
+
+#: admin/modules/customizer/views/_customize_properties.php:542
+msgid "Align"
+msgstr "Alinia"
+
+#: admin/modules/customizer/views/_customize_properties.php:559
+msgid "Label"
+msgstr "Eticheta"
+
+#: admin/modules/customizer/views/_customize_properties.php:570
+#: public/modules/dispatchlabel/dispatchlabel.php:115
+#: public/modules/invoice/invoice.php:128
+msgid "Sub Total"
+msgstr "Sub total"
+
+#: admin/modules/customizer/views/_customize_properties.php:576
+#: public/modules/dispatchlabel/dispatchlabel.php:116
+#: public/modules/invoice/invoice.php:129
+msgid "Shipping"
+msgstr "livrare"
+
+#: admin/modules/customizer/views/_customize_properties.php:583
+#: public/modules/dispatchlabel/dispatchlabel.php:117
+#: public/modules/invoice/invoice.php:130
+msgid "Cart Discount"
+msgstr "Cosul de reducere"
+
+#: admin/modules/customizer/views/_customize_properties.php:589
+#: public/modules/dispatchlabel/dispatchlabel.php:118
+#: public/modules/invoice/invoice.php:131
+msgid "Order Discount"
+msgstr "Ordine Reducere"
+
+#: admin/modules/customizer/views/_customize_properties.php:596
+#: public/modules/dispatchlabel/dispatchlabel.php:119
+#: public/modules/invoice/invoice.php:132
+msgid "Total Tax"
+msgstr "Taxa totală"
+
+#: admin/modules/customizer/views/_customize_properties.php:602
+#: public/modules/dispatchlabel/dispatchlabel.php:120
+#: public/modules/invoice/invoice.php:133
+msgid "Fee"
+msgstr "taxă"
+
+#: admin/modules/customizer/views/_customize_properties.php:609
+#: public/modules/dispatchlabel/dispatchlabel.php:122
+#: public/modules/invoice/invoice.php:135
+msgid "Payment Method"
+msgstr "Modalitate de plată"
+
+#: admin/modules/customizer/views/_customize_properties.php:615
+#: public/modules/dispatchlabel/dispatchlabel.php:123
+#: public/modules/invoice/invoice.php:136
+msgid "Total"
+msgstr "Total"
+
+#: admin/modules/customizer/views/customize.php:99
+msgid "Templates"
+msgstr "Template-uri"
+
+#: admin/modules/customizer/views/customize.php:104
+msgid "Type template name to search"
+msgstr "Introduceți numele șablonului pentru a căuta"
+
+#: admin/modules/customizer/views/customize.php:114
+msgid "Enter a name for your theme"
+msgstr "Introduceți un nume pentru tema dvs."
+
+#: admin/modules/customizer/views/customize.php:119
+msgid "Please enter name"
+msgstr "Introduceți numele"
+
+#: admin/modules/customizer/views/customize.php:126
+#: admin/modules/customizer/views/customize.php:190
+msgid "Cancel"
+msgstr "Anulare"
+
+#: admin/modules/customizer/views/customize.php:129
+#: admin/modules/customizer/views/customize.php:186
+msgid "Save"
+msgstr "Salvați"
+
+#: admin/modules/customizer/views/customize.php:137
+msgid "Choose a template base."
+msgstr "Alegeți o bază de șabloane."
+
+#: admin/modules/customizer/views/customize.php:143
+msgid "If you are switching to a new theme, all unsaved changes will be lost."
+msgstr ""
+"Dacă treceți la o nouă temă, toate modificările nesalvate vor fi pierdute."
+
+#: admin/modules/customizer/views/customize.php:167
+msgid "Use"
+msgstr "Utilizare"
+
+#: admin/modules/customizer/views/customize.php:182
+msgid "Create new template"
+msgstr "Creați un nou șablon"
+
+#: admin/modules/customizer/views/customize.php:196
+msgid "Delete"
+msgstr "Șterge"
+
+#: admin/modules/customizer/views/customize.php:197
+msgid "Create new"
+msgstr "Creaza nou"
+
+#: admin/modules/customizer/views/customize.php:198
+msgid "My Templates"
+msgstr "Șabloanele mele"
+
+#: admin/modules/customizer/views/customize.php:210
+msgid "Visual"
+msgstr "Vizual"
+
+#: admin/modules/customizer/views/customize.php:211
+msgid "Code"
+msgstr "Cod"
+
+#. Plugin Name of the plugin/theme
+#: admin/partials/wf-woocommerce-packing-list-admin-display.php:24
+msgid ""
+"WooCommerce PDF Invoices, Packing Slips, Delivery Notes & Shipping Labels"
+msgstr "WooCommerce Facturi PDF, Ambalare, Etichete Livrare & Livrare"
+
+#: admin/partials/wf-woocommerce-packing-list-admin-display.php:36
+#: public/modules/dispatchlabel/views/dispatchlabel-admin-settings.php:6
+#: public/modules/invoice/views/invoice-admin-settings.php:6
+#: public/modules/packinglist/views/admin-settings.php:6
+#: public/modules/shippinglabel/views/admin-settings.php:6
+msgid "General"
+msgstr "General"
+
+#: admin/partials/wf-woocommerce-packing-list-admin-display.php:37
+#: admin/views/admin-settings-advanced.php:7
+#: public/modules/invoice/views/invoice-admin-settings.php:7
+msgid "Advanced"
+msgstr "Avansat"
+
+#: admin/partials/wf-woocommerce-packing-list-admin-display.php:38
+msgid "Licence"
+msgstr "Licență"
+
+#: admin/partials/wf-woocommerce-packing-list-admin-display.php:39
+msgid "Help Guide"
+msgstr "Ajutor Ghid"
+
+#: admin/views/admin-settings-advanced.php:11
+msgid "Additional Fields on Checkout Page"
+msgstr "Câmpuri suplimentare pe pagina de comandă"
+
+#: admin/views/admin-settings-advanced.php:43
+msgid "Add Custom Field"
+msgstr "Adăugați câmpul personalizat"
+
+#: admin/views/admin-settings-advanced.php:47
+msgid ""
+"Select the additional information you want to have in the Checkout page."
+msgstr ""
+"Selectați informațiile suplimentare pe care doriți să le aveți în pagina "
+"Checkout."
+
+#: admin/views/admin-settings-advanced.php:57
+msgid "Preview Before Printing"
+msgstr "Previzualizare înainte de imprimare"
+
+#: admin/views/admin-settings-advanced.php:60
+#: admin/views/admin-settings-advanced.php:127
+msgid "Enabled"
+msgstr "Activat"
+
+#: admin/views/admin-settings-advanced.php:61
+msgid "Disabled"
+msgstr "invalid"
+
+#: admin/views/admin-settings-advanced.php:66
+msgid "RTL support"
+msgstr "Suport RTL"
+
+#: admin/views/admin-settings-advanced.php:69
+#: admin/views/admin-settings-advanced.php:84
+#: admin/views/admin-settings-general.php:102
+#: public/modules/invoice/views/general.php:15
+#: public/modules/invoice/views/general.php:38
+#: public/modules/invoice/views/general.php:48
+#: public/modules/packinglist/views/general.php:15
+#: public/modules/packinglist/views/general.php:24
+#: public/modules/shippinglabel/views/general.php:15
+msgid "Yes"
+msgstr "da"
+
+#: admin/views/admin-settings-advanced.php:70
+#: admin/views/admin-settings-advanced.php:85
+#: admin/views/admin-settings-general.php:103
+#: public/modules/invoice/views/general.php:16
+#: public/modules/invoice/views/general.php:39
+#: public/modules/invoice/views/general.php:49
+#: public/modules/packinglist/views/general.php:16
+#: public/modules/packinglist/views/general.php:25
+#: public/modules/shippinglabel/views/general.php:16
+msgid "No"
+msgstr "Nu"
+
+#: admin/views/admin-settings-advanced.php:72
+msgid "RTL support in documents generated by browser "
+msgstr "Suport RTL în documentele generate de browser"
+
+#: admin/views/admin-settings-advanced.php:75
+msgid "Tracking Number Meta"
+msgstr "Numarul de urmărire Meta"
+
+#: admin/views/admin-settings-advanced.php:77
+msgid "Enter the tracking number meta to add tracking number information"
+msgstr ""
+"Introduceți meta numerelor de urmărire pentru a adăuga informații privind "
+"numărul de urmărire"
+
+#: admin/views/admin-settings-advanced.php:81
+msgid "Display State Name"
+msgstr "Afișați numele de stat"
+
+#: admin/views/admin-settings-advanced.php:87
+msgid ""
+"Enable to display state name instead of state code in billing and shipping "
+"address"
+msgstr ""
+"Activați afișarea numelui de stare în locul codului de stare în adresa de "
+"facturare și de livrare"
+
+#: admin/views/admin-settings-advanced.php:91
+msgid "Packaging Type"
+msgstr "Tipul de ambalare"
+
+#: admin/views/admin-settings-advanced.php:94
+msgid "Pack Items Individually"
+msgstr "Adăugați articole individuale"
+
+#: admin/views/admin-settings-advanced.php:95
+msgid "Box Packing"
+msgstr "Ambalarea cutii"
+
+#: admin/views/admin-settings-advanced.php:96
+msgid "Single Package Per Order"
+msgstr "Pachet unic pe comandă"
+
+#: admin/views/admin-settings-advanced.php:116
+msgid "Box Sizes"
+msgstr "Cutii de dimensiuni"
+
+#: admin/views/admin-settings-advanced.php:121
+msgid "Name"
+msgstr "Nume"
+
+#: admin/views/admin-settings-advanced.php:122
+msgid "Length"
+msgstr "Lungime"
+
+#: admin/views/admin-settings-advanced.php:123
+#: public/modules/addresslabel/addresslabel.php:60
+msgid "Width"
+msgstr "Lăţime"
+
+#: admin/views/admin-settings-advanced.php:124
+#: public/modules/addresslabel/addresslabel.php:70
+msgid "Height"
+msgstr "Înălţime"
+
+#: admin/views/admin-settings-advanced.php:125
+msgid "Box Weight"
+msgstr "Greutatea casetei"
+
+#: admin/views/admin-settings-advanced.php:126
+msgid "Max Weight"
+msgstr "Greutate maximă"
+
+#: admin/views/admin-settings-advanced.php:134
+msgid "Add Box"
+msgstr "Adăugați caseta"
+
+#: admin/views/admin-settings-advanced.php:135
+msgid "Remove selected box(es)"
+msgstr "Eliminați caseta (ele) selectată"
+
+#: admin/views/admin-settings-advanced.php:137
+msgid ""
+"Items will be packed into these boxes depending based on item dimensions and "
+"volume. Dimensions will be passed to FedEx and used for packing. Items not "
+"fitting into boxes will be packed individually."
+msgstr ""
+"Elementele vor fi ambalate în aceste casete în funcție de dimensiunile și "
+"volumul elementelor. Dimensiunile vor fi transmise către FedEx și utilizate "
+"pentru ambalare. Elementele care nu se montează în cutii vor fi ambalate "
+"individual."
+
+#: admin/views/admin-settings-general.php:8
+#: admin/views/admin-settings-general.php:16
+msgid "Company Info"
+msgstr "Eliminați caseta (ele) selectată…"
+
+#: admin/views/admin-settings-general.php:9
+#: admin/views/admin-settings-general.php:39
+msgid "Shipping From Address"
+msgstr "Expedierea de la adresa"
+
+#: admin/views/admin-settings-general.php:10
+#: admin/views/admin-settings-general.php:93
+#: public/modules/dispatchlabel/dispatchlabel.php:104
+#: public/modules/invoice/invoice.php:114
+msgid "Invoice Number"
+msgstr "Număr de factură"
+
+#: admin/views/admin-settings-general.php:11
+#: admin/views/admin-settings-general.php:157
+msgid "Other"
+msgstr "Alte"
+
+#: admin/views/admin-settings-general.php:26
+#: public/modules/invoice/views/general.php:68
+msgid "Custom Logo"
+msgstr "Logo personalizat"
+
+#: admin/views/admin-settings-general.php:31
+msgid "Return Policy, Conditions"
+msgstr "Politica de Returnare, Condiții"
+
+#: admin/views/admin-settings-general.php:44
+msgid "Sender Name"
+msgstr "Numele expeditorului"
+
+#: admin/views/admin-settings-general.php:48
+msgid "Sender Address Line1"
+msgstr "Adresa de trimitere a liniei1"
+
+#: admin/views/admin-settings-general.php:52
+msgid "Sender Address Line2"
+msgstr "Adresa de expeditor 2"
+
+#: admin/views/admin-settings-general.php:56
+msgid "Sender City"
+msgstr "Sender City"
+
+#: admin/views/admin-settings-general.php:74
+msgid "Sender Country/State"
+msgstr "Țara / statul trimis"
+
+#: admin/views/admin-settings-general.php:76
+msgid "Choose a country&hellip;"
+msgstr "Alegeți o țară și un vârf;"
+
+#: admin/views/admin-settings-general.php:85
+msgid "Sender Postal Code"
+msgstr "Cod poștal expeditor"
+
+#: admin/views/admin-settings-general.php:99
+msgid "Use Order Number as Invoice Number"
+msgstr "Utilizați numărul de ordine ca număr de factură"
+
+#: admin/views/admin-settings-general.php:113
+msgid "Invoice Start Number"
+msgstr "Numărul de început al facturii"
+
+#: admin/views/admin-settings-general.php:121
+msgid "Reset Invoice no"
+msgstr "Resetați factura nr"
+
+#: admin/views/admin-settings-general.php:134
+msgid "Invoice number format"
+msgstr "Formatul numărului de factură"
+
+#: admin/views/admin-settings-general.php:139
+msgid "Invoice Number Prefix"
+msgstr "Prefixul numărului de factură"
+
+#: admin/views/admin-settings-general.php:143
+msgid "Invoice Number Postfix"
+msgstr "Numărul de factură Postfix"
+
+#: admin/views/admin-settings-general.php:148
+msgid "Invoice Padding Number"
+msgstr "Numărul de plăcuțe de facturare"
+
+#: admin/views/admin-settings-general.php:163
+#: public/modules/invoice/views/advanced.php:26
+#: public/modules/packinglist/views/general.php:53
+msgid "Custom Footer"
+msgstr "Footer personalizat"
+
+#: admin/views/admin-settings-general.php:165
+msgid "Set custom footer for all shipping documents."
+msgstr "Setați subsolul personalizat pentru toate documentele de expediere."
+
+#: admin/views/admin-settings-general.php:170
+msgid "Tax Type"
+msgstr "Tipul de taxe"
+
+#: admin/views/admin-settings-save-button.php:12
+msgid "Update Settings"
+msgstr "Actualizați setările"
+
+#: admin/wf_api_manager/class-wc-am-plugin-update.php:374
+#, php-format
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Cheia de licență pentru %s a expirat. Puteți reactiva sau achiziționa o "
+"cheie de licență din <a href=\"%s\" target=\"_blank\">tabloul de bord al</a> "
+"contului dvs."
+
+#: admin/wf_api_manager/class-wc-am-plugin-update.php:385
+#, php-format
+msgid ""
+"The subscription for %s is on-hold. You can reactivate the subscription from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Abonamentul pentru %s este în așteptare. Puteți reactiva abonamentul din <a "
+"href=\"%s\" target=\"_blank\">tabloul de bord al</a> contului dvs."
+
+#: admin/wf_api_manager/class-wc-am-plugin-update.php:396
+#, php-format
+msgid ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+msgstr ""
+"Abonamentul pentru %s a fost anulat. Puteți reînnoi abonamentul din <a href="
+"\"%s\" target=\"_blank\">tabloul de bord al</a> contului dvs. O nouă cheie "
+"de licență va fi trimisă prin e-mail după ce ați terminat comanda."
+
+#: admin/wf_api_manager/class-wc-am-plugin-update.php:407
+#, php-format
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Abonamentul pentru %s a expirat. Puteți reactiva abonamentul din <a href=\"%s"
+"\" target=\"_blank\">tabloul de bord al</a> contului dvs."
+
+#: admin/wf_api_manager/class-wc-am-plugin-update.php:418
+#, php-format
+msgid ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+"Abonamentul pentru %s a fost suspendat. Puteți reactiva abonamentul din <a "
+"href=\"%s\" target=\"_blank\">tabloul de bord al</a> contului dvs."
+
+#: admin/wf_api_manager/class-wc-am-plugin-update.php:429
+#, php-format
+msgid ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+"Abonamentul pentru %s este în așteptare. Puteți verifica starea "
+"abonamentului din <a href=\"%s\" target=\"_blank\">tabloul de bord al</a> "
+"contului dvs."
+
+#: admin/wf_api_manager/class-wc-am-plugin-update.php:440
+#, php-format
+msgid ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+"Abonamentul pentru %s a fost plasat în coșul de gunoi și va fi șters în "
+"curând. Puteți achiziționa un nou abonament din <a href=\"%s\" target="
+"\"_blank\">tabloul de bord al</a> contului dvs."
+
+#: admin/wf_api_manager/class-wc-am-plugin-update.php:451
+#, php-format
+msgid ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Nu a putut fi găsit un abonament pentru %s. Puteți achiziționa un abonament "
+"din <a href=\"%s\" target=\"_blank\">tabloul de bord al</a> contului dvs."
+
+#: admin/wf_api_manager/class-wc-am-plugin-update.php:462
+#, php-format
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate license key at your plugin <a href=\"%s\" target=\"_blank"
+"\">settings page</a>."
+msgstr ""
+"O cheie de licență pentru %s nu a putut fi găsită. Poate că ați uitat să "
+"introduceți o cheie de licență la configurarea %s sau dacă cheia a fost "
+"dezactivată în contul dvs. Puteți reactiva cheia de licență din <a href=\"%s"
+"\" target=\"_blank\">pagina cu setările</a> pluginului."
+
+#: admin/wf_api_manager/class-wc-am-plugin-update.php:473
+#, php-format
+msgid ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Permisiunea de descărcare pentru %s a fost revocată, eventual, datorită "
+"expirării unei chei de licență sau a abonamentului. Puteți reactiva sau "
+"achiziționa o cheie de licență din <a href=\"%s\" target=\"_blank\">tabloul "
+"de bord al</a> contului dvs."
+
+#: admin/wf_api_manager/class-wc-am-plugin-update.php:484
+#, php-format
+msgid ""
+"%s has not been activated. Go to the plugin <a href=\"%s\" target=\"_blank"
+"\">settings page</a> and enter the license key and license email to activate "
+"%s."
+msgstr ""
+"%s nu a fost activat. Accesați <a href=\"%s\" target=\"_blank\">pagina cu "
+"setările</a> pluginului și introduceți cheia de licență și e-mailul de "
+"licență pentru a activa %s."
+
+#: admin/wf_api_manager/class-wc-am-plugin-update.php:495
+#, php-format
+msgid ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a href="
+"\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Ați schimbat abonamentul pentru %s, deci va trebui să introduceți noua dvs. "
+"cheie de licență API în pagina de setări. Cheia de licență ar fi trebuit să "
+"fi ajuns în căsuța poștală de poștă electronică, dacă nu puteți să o primiți "
+"conectându-vă la <a href=\"%s\" target=\"_blank\">tabloul de bord al</a> "
+"contului dvs."
+
+#: includes/class-wf-woocommerce-packing-list-activator.php:36
+msgid ""
+"Oops! You tried installing the premium version without deactivating and "
+"deleting the basic version. Kindly deactivate and delete Print Invoices, "
+"Packing List & Labels for WooCommerce (BASIC) and then try again"
+msgstr ""
+"Hopa! Ați încercat să instalați versiunea premium fără a dezactiva și șterge "
+"versiunea de bază. Dezactivați și ștergeți facturile de imprimare, lista de "
+"ambalaje și etichetele pentru WooCommerce (BASIC) și încercați din nou"
+
+#: includes/class-wf-woocommerce-packing-list-activator.php:39
+msgid ""
+"Oops! You tried installing the premium version without deactivating and "
+"deleting the basic version. Kindly deactivate and delete WooCommerce "
+"Shipping Labels (BASIC) and then try again"
+msgstr ""
+"Hopa! Ați încercat să instalați versiunea premium fără a dezactiva și șterge "
+"versiunea de bază. Dezactivați și ștergeți Etichetele de expediere "
+"WooCommerce (BASIC) și încercați din nou"
+
+#: includes/class-wf-woocommerce-packing-list-box_packing.php:94
+msgid "0"
+msgstr "0"
+
+#: public/modules/addresslabel/addresslabel.php:81
+msgid "Rows"
+msgstr "rânduri"
+
+#: public/modules/addresslabel/addresslabel.php:87
+msgid "Columns"
+msgstr "coloane"
+
+#: public/modules/addresslabel/addresslabel.php:94
+msgid "Margin top"
+msgstr "Marginea de sus"
+
+#: public/modules/addresslabel/addresslabel.php:104
+msgid "Margin right"
+msgstr "Marginea corectă"
+
+#: public/modules/addresslabel/addresslabel.php:115
+msgid "Margin bottom"
+msgstr "Marginea inferioară"
+
+#: public/modules/addresslabel/addresslabel.php:125
+msgid "Margin left"
+msgstr "Marja a rămas"
+
+#: public/modules/addresslabel/addresslabel.php:136
+msgid "Column spacing"
+msgstr "Spațierea coloanelor"
+
+#: public/modules/addresslabel/addresslabel.php:146
+msgid "Rows spacing"
+msgstr "Rânduri de spațiere"
+
+#: public/modules/addresslabel/addresslabel.php:157
+msgid "Description"
+msgstr "Descriere"
+
+#: public/modules/addresslabel/addresslabel.php:345
+msgid "Properties"
+msgstr "Proprietăți"
+
+#: public/modules/addresslabel/addresslabel.php:396
+#: public/modules/addresslabel/addresslabel.php:397
+#: public/modules/addresslabel/views/admin-settings.php:11
+msgid "Address Label"
+msgstr "Etichetă de adresă"
+
+#: public/modules/addresslabel/addresslabel.php:406
+#: public/modules/addresslabel/addresslabel.php:417
+msgid "Print Address Label"
+msgstr "Imprimați eticheta adresei"
+
+#: public/modules/addresslabel/addresslabel.php:471
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nu aveți permisiuni suficiente pentru a accesa această pagină."
+
+#: public/modules/dispatchlabel/dispatchlabel.php:103
+#: public/modules/invoice/invoice.php:117
+#: public/modules/packinglist/packinglist.php:105
+msgid "Order Date"
+msgstr "Data comandă"
+
+#: public/modules/dispatchlabel/dispatchlabel.php:105
+msgid "Dispatch Date"
+msgstr "Data expedierii"
+
+#: public/modules/dispatchlabel/dispatchlabel.php:106
+#: public/modules/invoice/invoice.php:118
+#: public/modules/packinglist/packinglist.php:106
+#: public/modules/shippinglabel/shippinglabel.php:243
+msgid "From Address"
+msgstr "Din adresa"
+
+#: public/modules/dispatchlabel/dispatchlabel.php:107
+#: public/modules/invoice/invoice.php:119
+#: public/modules/packinglist/packinglist.php:107
+msgid "Billing Address"
+msgstr "Billing Address"
+
+#: public/modules/dispatchlabel/dispatchlabel.php:108
+#: public/modules/invoice/invoice.php:120
+#: public/modules/packinglist/packinglist.php:108
+msgid "Shipping Address"
+msgstr "Adresa de transport"
+
+#: public/modules/dispatchlabel/dispatchlabel.php:109
+msgid "Return Address"
+msgstr "Adresa expeditorului"
+
+#: public/modules/dispatchlabel/dispatchlabel.php:110
+#: public/modules/invoice/invoice.php:121
+#: public/modules/packinglist/packinglist.php:109
+msgid "Email Field"
+msgstr "Câmp de e-mail"
+
+#: public/modules/dispatchlabel/dispatchlabel.php:111
+#: public/modules/invoice/invoice.php:122
+#: public/modules/packinglist/packinglist.php:110
+#: public/modules/shippinglabel/shippinglabel.php:247
+msgid "Tel Field"
+msgstr "Tel Field"
+
+#: public/modules/dispatchlabel/dispatchlabel.php:112
+#: public/modules/invoice/invoice.php:125
+#: public/modules/packinglist/packinglist.php:113
+msgid "Shipping Method"
+msgstr "Metodă de livrare"
+
+#: public/modules/dispatchlabel/dispatchlabel.php:113
+#: public/modules/invoice/invoice.php:126
+#: public/modules/packinglist/packinglist.php:114
+#: public/modules/shippinglabel/shippinglabel.php:246
+msgid "Tracking Number"
+msgstr "Număr de urmărire"
+
+#: public/modules/dispatchlabel/dispatchlabel.php:114
+#: public/modules/invoice/invoice.php:127
+#: public/modules/packinglist/packinglist.php:115
+msgid "Product Table"
+msgstr "Tabel de produse"
+
+#: public/modules/dispatchlabel/dispatchlabel.php:121
+#: public/modules/invoice/invoice.php:134
+msgid "Coupon info"
+msgstr "Informații despre cupoane"
+
+#: public/modules/dispatchlabel/dispatchlabel.php:124
+#: public/modules/invoice/invoice.php:138
+#: public/modules/packinglist/packinglist.php:116
+#: public/modules/shippinglabel/shippinglabel.php:249
+msgid "Footer"
+msgstr "Subsol"
+
+#: public/modules/dispatchlabel/dispatchlabel.php:125
+#: public/modules/invoice/invoice.php:139
+#: public/modules/packinglist/packinglist.php:117
+#: public/modules/shippinglabel/shippinglabel.php:250
+msgid "Return Policy"
+msgstr "Politica de returnare"
+
+#: public/modules/dispatchlabel/dispatchlabel.php:179
+#: public/modules/dispatchlabel/dispatchlabel.php:180
+#: public/modules/dispatchlabel/views/dispatchlabel-admin-settings.php:11
+msgid "Dispatch Label"
+msgstr "Eticheta de expediere"
+
+#: public/modules/dispatchlabel/dispatchlabel.php:189
+#: public/modules/dispatchlabel/dispatchlabel.php:200
+msgid "Print Dispatch Label"
+msgstr "Eticheta de expediere a etichetelor"
+
+#: public/modules/dispatchlabel/views/general.php:12
+#: public/modules/invoice/views/advanced.php:12
+msgid "Additional Fields on Invoice"
+msgstr "Câmpuri suplimentare pe factură"
+
+#: public/modules/dispatchlabel/views/general.php:15
+msgid ""
+"Select the additional information you want to display on the Dispatch Label."
+msgstr ""
+"Selectați informațiile suplimentare pe care doriți să le afișați pe Eticheta "
+"de expediere."
+
+#: public/modules/dispatchlabel/views/general.php:19
+#: public/modules/invoice/views/advanced.php:19
+#: public/modules/packinglist/views/general.php:38
+msgid "Product Meta Fields"
+msgstr "Câmpurile Meta de produs"
+
+#: public/modules/dispatchlabel/views/general.php:22
+msgid ""
+"Select the additional information you want to display in the Dispatch Label "
+"Product Table."
+msgstr ""
+"Selectați informațiile suplimentare pe care doriți să le afișați în tabelul "
+"de produse al etichetelor de expediere."
+
+#: public/modules/invoice/invoice.php:113
+#: public/modules/packinglist/packinglist.php:103
+#: public/modules/shippinglabel/shippinglabel.php:248
+msgid "Bar Code"
+msgstr "Codul de bare"
+
+#: public/modules/invoice/invoice.php:115
+#: public/modules/packinglist/packinglist.php:104
+msgid "Order Number"
+msgstr "Numar de ordine"
+
+#: public/modules/invoice/invoice.php:116
+msgid "Invoice Date"
+msgstr "Data facturii"
+
+#: public/modules/invoice/invoice.php:123
+#: public/modules/packinglist/packinglist.php:111
+msgid "VAT Field"
+msgstr "Câmpul TVA"
+
+#: public/modules/invoice/invoice.php:124
+#: public/modules/packinglist/packinglist.php:112
+msgid "SSN Field"
+msgstr "Câmpul SSN"
+
+#: public/modules/invoice/invoice.php:137
+msgid "Signature"
+msgstr "Semnătură"
+
+#: public/modules/invoice/invoice.php:213
+msgid "Print Invoices"
+msgstr "Imprimare facturi"
+
+#: public/modules/invoice/invoice.php:214
+msgid "Download Invoices"
+msgstr "Descărcați facturile"
+
+#: public/modules/invoice/invoice.php:230
+#: public/modules/invoice/invoice.php:292
+#: public/modules/invoice/invoice.php:305
+msgid "Print Invoice"
+msgstr "Imprimare factură"
+
+#: public/modules/invoice/invoice.php:231
+msgid "Download Invoice"
+msgstr "Descărcați factura"
+
+#: public/modules/invoice/invoice.php:251
+msgid "<strong>Invoice Number: </strong>"
+msgstr "<strong>Număr de factură:</strong>"
+
+#: public/modules/invoice/views/advanced.php:15
+msgid "Select the additional information you want to display on the Invoice."
+msgstr ""
+"Selectați informațiile suplimentare pe care doriți să le afișați pe factură."
+
+#: public/modules/invoice/views/advanced.php:22
+msgid ""
+"Select the additional information you want to display in the Invoice Product "
+"Table."
+msgstr ""
+"Selectați informațiile suplimentare pe care doriți să le afișați în tabelul "
+"cu produse facturate."
+
+#: public/modules/invoice/views/advanced.php:28
+msgid "Enter the footer text to be printed on the invoice"
+msgstr "Introduceți textul subsolului pentru a fi imprimat pe factură"
+
+#: public/modules/invoice/views/general.php:12
+msgid "Attach PDF in email"
+msgstr "Atașați PDF-ul în e-mail"
+
+#: public/modules/invoice/views/general.php:18
+msgid ""
+"PDF version of currently active invoice template will be attached with the "
+"order email"
+msgstr ""
+"Versiunea PDF a șablonului de factură activă curent va fi atașată împreună "
+"cu e-mailul de comandă"
+
+#: public/modules/invoice/views/general.php:22
+msgid "Order Status to Generate Invoice"
+msgstr "Starea comenzii pentru a genera factura"
+
+#: public/modules/invoice/views/general.php:24
+msgid "Order statuses for which an invoice should be generated."
+msgstr "Starea comenzilor pentru care trebuie generată o factură."
+
+#: public/modules/invoice/views/general.php:35
+msgid "Show Print Invoice option to customers"
+msgstr "Afișați opțiunea de tipărire factură către clienți"
+
+#: public/modules/invoice/views/general.php:41
+msgid "Add print invoice button to the order email"
+msgstr "Adăugați butonul de facturare la e-mailul de comandă"
+
+#: public/modules/invoice/views/general.php:45
+#: public/modules/packinglist/views/general.php:21
+msgid "Enable Variation Data"
+msgstr "Activați datele de variație"
+
+#: public/modules/invoice/views/general.php:51
+#: public/modules/packinglist/views/general.php:27
+msgid "Enable to add variation information"
+msgstr "Activați pentru a adăuga informații despre variație"
+
+#: public/modules/invoice/views/general.php:55
+msgid "Send invoice email"
+msgstr "Trimiteți un e-mail cu factură"
+
+#: public/modules/invoice/views/general.php:57
+msgid "Order statuses for which an invoice should be mailed."
+msgstr "Starea comenzii pentru care trebuie trimisă o factură."
+
+#: public/modules/invoice/views/general.php:63
+msgid "Upload Signature"
+msgstr "Încărcați semnătura"
+
+#: public/modules/invoice/views/general.php:70
+msgid "Leave blank to not use a custom logo for invoice."
+msgstr ""
+"Lăsați necompletat pentru a nu utiliza o siglă personalizată pentru factură."
+
+#: public/modules/packinglist/packinglist.php:178
+msgid "Packing list"
+msgstr "Lista de impachetat"
+
+#: public/modules/packinglist/packinglist.php:179
+#: public/modules/packinglist/views/admin-settings.php:11
+msgid "Packing List"
+msgstr "Lista de impachetat"
+
+#: public/modules/packinglist/packinglist.php:188
+msgid "Print Packing list"
+msgstr "Imprimare liste de ambalare"
+
+#: public/modules/packinglist/packinglist.php:199
+#: public/modules/packinglist/packinglist.php:217
+msgid "Print Packing List"
+msgstr "Imprimare liste de ambalare"
+
+#: public/modules/packinglist/packinglist.php:349
+#: public/modules/shippinglabel/shippinglabel.php:531
+msgid "Unable to print Packing list. Please check the items in the order."
+msgstr ""
+"Imposibil de imprimat lista de ambalare. Verificați elementele din comandă."
+
+#: public/modules/packinglist/views/general.php:12
+msgid "Group by category"
+msgstr "Grupează după categorie"
+
+#: public/modules/packinglist/views/general.php:31
+#: public/modules/shippinglabel/views/general.php:66
+msgid "Additional Fields"
+msgstr "Câmpuri suplimentare"
+
+#: public/modules/packinglist/views/general.php:34
+msgid ""
+"Select the additional information you want to display on the Packing Slip."
+msgstr ""
+"Selectați informațiile suplimentare pe care doriți să le afișați pe Ștuțul "
+"de ambalare."
+
+#: public/modules/packinglist/views/general.php:41
+msgid ""
+"Select the additional information you want to display on the Packing Slip "
+"Product Table."
+msgstr ""
+"Selectați informațiile suplimentare pe care doriți să le afișați pe tabelul "
+"de produse al ambalajului."
+
+#: public/modules/packinglist/views/general.php:45
+#: public/modules/shippinglabel/views/general.php:73
+msgid "Show print packing slip option in email"
+msgstr "Afișați opțiunea de alunecare de imprimare în e-mail"
+
+#: public/modules/packinglist/views/general.php:47
+msgid ""
+"Order statuses for which print packing slip option should appear in email."
+msgstr ""
+"Starea comenzii pentru care opțiunea de alunecare de imprimare trebuie să "
+"apară în e-mail."
+
+#: public/modules/packinglist/views/general.php:55
+msgid "Enter the footer text to be printed in the packing slip"
+msgstr ""
+"Introduceți textul subsolului care urmează să fie imprimat în alunecarea de "
+"ambalare"
+
+#: public/modules/shippinglabel/shippinglabel.php:70
+msgid "Order number label"
+msgstr "Numărul etichetei de comandă"
+
+#: public/modules/shippinglabel/shippinglabel.php:77
+msgid "Weight label"
+msgstr "Etichetă de greutate"
+
+#: public/modules/shippinglabel/shippinglabel.php:83
+msgid "Ship date label"
+msgstr "Eticheta pentru data navei"
+
+#: public/modules/shippinglabel/shippinglabel.php:135
+#: public/modules/shippinglabel/shippinglabel.php:160
+msgid "Title font size"
+msgstr "Dimensiunea fontului titlului"
+
+#: public/modules/shippinglabel/shippinglabel.php:142
+msgid "Address font size"
+msgstr "Dimensiunea fontului adresei"
+
+#: public/modules/shippinglabel/shippinglabel.php:244
+msgid "To Address"
+msgstr "Pentru a răspunde"
+
+#: public/modules/shippinglabel/shippinglabel.php:245
+msgid "Shipping Details"
+msgstr "Detalii de expediere"
+
+#: public/modules/shippinglabel/shippinglabel.php:313
+#: public/modules/shippinglabel/shippinglabel.php:314
+#: public/modules/shippinglabel/views/admin-settings.php:11
+msgid "Shipping Label"
+msgstr "Eticheta de livrare"
+
+#: public/modules/shippinglabel/shippinglabel.php:323
+#: public/modules/shippinglabel/shippinglabel.php:334
+#: public/modules/shippinglabel/shippinglabel.php:352
+msgid "Print Shipping Label"
+msgstr "Imprimați eticheta de expediere"
+
+#: public/modules/shippinglabel/shippinglabel.php:454
+msgid "Please add shipping from address in the plugin's general settings."
+msgstr ""
+"Adăugați adresa de expediere din adresa în setările generale ale pluginului."
+
+#: public/modules/shippinglabel/views/general.php:12
+msgid "Enable multiple labels in one page"
+msgstr "Activați mai multe etichete într-o singură pagină"
+
+#: public/modules/shippinglabel/views/general.php:25
+msgid "No of labels in one row"
+msgstr "Numărul de etichete dintr-un rând"
+
+#: public/modules/shippinglabel/views/general.php:35
+msgid "Shipping Label Size"
+msgstr "Dimensiunea etichetei de expediere"
+
+#: public/modules/shippinglabel/views/general.php:50
+msgid "Custom Shipping Label Size"
+msgstr "Mărimea etichetei de marfă personalizată"
+
+#: public/modules/shippinglabel/views/general.php:59
+msgid "Enter the custom width and height values(in that order), in inches."
+msgstr ""
+"Introduceți valorile personalizate ale lățimii și înălțimii (în ordinea "
+"respectivă), în inci."
+
+#: public/modules/shippinglabel/views/general.php:69
+msgid "Enter the additional fields to be displayed in the shipping label."
+msgstr ""
+"Introduceți câmpurile suplimentare care vor fi afișate în eticheta de "
+"expediere."
+
+#: public/modules/shippinglabel/views/general.php:75
+msgid ""
+"Order statuses for which print shipping label option should appear in email."
+msgstr ""
+"Starea comenzilor pentru care opțiunea de etichetă de marcare trebuie să "
+"apară în e-mail."
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://www.webtoffee.com/product/woocommerce-pdf-invoices-packing-slips/"
+msgstr ""
+"https://www.webtoffee.com/product/woocommerce-pdf-invoices-packing-slips/"
+
+#. Description of the plugin/theme
+msgid ""
+"This is a short description of what the plugin does. It's displayed in the "
+"WordPress admin area."
+msgstr ""
+"Aceasta este o scurtă descriere a ceea ce face pluginul. Se afișează în zona "
+"de administrare WordPress."
+
+#. Author of the plugin/theme
+msgid "WebToffee"
+msgstr "WebToffee"
+
+#. Author URI of the plugin/theme
+msgid "https://www.webtoffee.com/"
+msgstr "https://www.webtoffee.com/"
