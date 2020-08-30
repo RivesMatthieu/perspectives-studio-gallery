@@ -1,0 +1,12 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+body img {
+	user-select: none;
+	user-drag: none;
+	-webkit-user-select: none;
+	-webkit-user-drag: none !important;
+	-ms-user-select: none !important;
+	-moz-user-select: none !important;
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

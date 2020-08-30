@@ -1,8 +1,0 @@
-2020-07-02T10:30:11+00:00 CRITICAL Uncaught Exception: Stockage de données non valide de la note administrateur. in /home/fildenuiue/www/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/DataStore.php:124
-Stack trace:
-#0 /home/fildenuiue/www/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): Automattic\WooCommerce\Admin\Notes\DataStore->read(Object(Automattic\WooCommerce\Admin\Notes\WC_Admin_Note))
-#1 /home/fildenuiue/www/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/WC_Admin_Note.php(83): WC_Data_Store->read(Object(Automattic\WooCommerce\Admin\Notes\WC_Admin_Note))
-#2 /home/fildenuiue/www/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/WC_Admin_Notes.php(106): Automattic\WooCommerce\Admin\Notes\WC_Admin_Note->__construct('1')
-#3 /home/fildenuiue/www/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Install.php(464): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes::delete_notes_with_name(Array)
-#4 /home/fildenuiue/www/wp-content/plugins/woocommerce/pa dans /home/fildenuiue/www/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/DataStore.php à la ligne 124
-

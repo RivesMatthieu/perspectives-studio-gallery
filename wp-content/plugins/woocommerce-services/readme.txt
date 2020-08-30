@@ -1,10 +1,10 @@
 === WooCommerce Services ===
-Contributors: automattic, woothemes, allendav, kellychoffman, jkudish, jeffstieler, nabsul, robobot3000, danreylop, mikeyarce, shaunkuschel, orangesareorange, pauldechov, dappermountain, radogeorgiev, bor0, royho, cshultz88, bartoszbudzanowski, harriswong, ferdev, superdav42
+Contributors: woocommerce, automattic, woothemes, allendav, kellychoffman, jkudish, jeffstieler, nabsul, robobot3000, danreylop, mikeyarce, shaunkuschel, orangesareorange, pauldechov, dappermountain, radogeorgiev, bor0, royho, cshultz88, bartoszbudzanowski, harriswong, ferdev, superdav42
 Tags: shipping, stamps, usps, woocommerce, taxes, payment, stripe
 Requires at least: 4.6
 Requires PHP: 5.3
-Tested up to: 5.4
-Stable tag: 1.23.2
+Tested up to: 5.5
+Stable tag: 1.24.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -82,6 +82,31 @@ As of the WooCommerce 3.5 release, WooCommerce Services no longer provides shipp
 7. Checking and exporting the label purchase reports
 
 == Changelog ==
+
+= 1.24.1 - 2020-08-19 =
+* Tweak - Zip/Postcode/Postal code messaging consistency
+* Fix   - Services management CSS table layout
+* Fix   - Carrier "disconnect modal" layout
+* Fix   - Primary button busy state updated to match color
+* Fix   - Remove padding from notice bar
+* Fix   - Add missing box in rate step for how much customer paid for shipping
+* Tweak - Bump WP tested version to 5.5
+* Fix   - Issue with dismiss modal popup blocking access to edit order
+
+= 1.24.0 - 2020-07-30 =
+* Fix   - PHP 7.4 notice for taxes at checkout.
+* Add   - Carrier logos next to rates.
+* Tweak - Remove spinner from create shipping label button
+* Add   - Upgrade React to 16.13
+* Add   - Optimize bundle
+* Fix   - Fix svg images not showing on dev
+* Fix   - Fix 404 taxjar.js on new order page
+* Add   - Add e2e tests for toggling shipping label
+* Add   - Add e2e tests for label refund
+* Fix   - Show which nexus automatted taxes will work with and link to doc
+* Fix   - Fix localization issues
+* Tweak - Improve service listing readability
+* Add   - Support UPS as a carrier (beta)
 
 = 1.23.2 - 2020-06-12 =
 * Fix   - Refund not possible on order page.

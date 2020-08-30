@@ -22,7 +22,7 @@ class WC_REST_Connect_Shipping_Label_Controller extends WC_REST_Connect_Base_Con
 	}
 
 	public function get( $request ) {
-		$order_id = $request[ 'order_id' ];
+		$order_id = $request['order_id'];
 		$payload = $this->shipping_label->get_label_payload( $order_id );
 		if ( ! $payload ) {
 			return new WP_Error( 'not_found', __( 'Order not found', 'woocommerce-services' ), array( 'status' => 404 ) );
@@ -106,8 +106,10 @@ class WC_REST_Connect_Shipping_Label_Controller extends WC_REST_Connect_Base_Con
 			}
 
 			$product_names = array();
+			$product_ids = array();
 			foreach ( $package[ 'products' ] as $product_id ) {
 				$product = wc_get_product( $product_id );
+				$product_ids[] = $product_id;
 
 				if ( $product ) {
 					$product_names[] = $product->get_title();
@@ -118,6 +120,7 @@ class WC_REST_Connect_Shipping_Label_Controller extends WC_REST_Connect_Base_Con
 			}
 
 			$label_meta[ 'product_names' ] = $product_names;
+			$label_meta[ 'product_ids' ] = $product_ids;
 
 			array_unshift( $purchased_labels_meta, $label_meta );
 		}

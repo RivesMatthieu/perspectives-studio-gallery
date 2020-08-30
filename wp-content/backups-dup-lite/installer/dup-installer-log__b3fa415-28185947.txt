@@ -1,0 +1,829 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 12:10:25
+* VERSION: 1.3.36
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ CURRENT SERVER                         |ORIGINAL SERVER
+PHP VERSION_________: 7.3.18                                |7.3.8
+OS__________________: Linux                                 |Darwin
+CREATED_____________: 2020-08-28 18:59:47
+WP VERSION__________: 5.5
+DUP VERSION_________: 1.3.36
+DB__________________: 5.6.48
+DB TABLES___________: 57
+DB ROWS_____________: 14,814
+DB FILE SIZE________: 22.95MB
+********************************************************************************
+SERVER INFO
+PHP_________________: 7.3.8 | SAPI: apache2handler
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.10 Perl/v5.24.0
+DOC ROOT____________: "/Applications/MAMP/htdocs"
+DOC ROOT 755________: true
+LOG FILE 644________: true
+REQUEST URL_________: "http://localhost/dup-installer/main.installer.php"
+********************************************************************************
+USER INPUTS
+ARCHIVE ENGINE______: "duparchive"
+SET DIR PERMS_______: 1
+DIR PERMS VALUE_____: 1363
+SET FILE PERMS______: 1
+FILE PERMS VALUE____: 1204
+SAFE MODE___________: "0"
+LOGGING_____________: "1"
+CONFIG MODE_________: "NEW"
+FILE TIME___________: "current"
+********************************************************************************
+
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "/Applications/MAMP/htdocs/20200828_perspectives_studio_gallery_[HASH]_20200828185947_archive.daf"
+SIZE________________: 109.19MB
+
+PRE-EXTRACT-CHECKS
+- PASS: Apache '.htaccess' not found - no backup needed.
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+>>> DupArchive Extraction Complete
+
+--------------------------------------
+DUPARCHIVE EXTRACTION STATUS
+--------------------------------------
+Archive extracted with no errors.
+
+--------------------------------------
+POST-EXTACT-CHECKS
+--------------------------------------
+PERMISSION UPDATES:
+    -DIRS:  '755'
+    -FILES: '644'
+
+STEP-1 COMPLETE @ 12:10:28 - RUNTIME: 2.3173 sec.
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 12:10:46
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+NON-BREAKING SPACES_: false
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: false
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 5.7.26 -- Build Server: 5.6.48
+FILE SIZE:	dup-database__[HASH].sql (12.43MB)
+TIMEOUT:	5000
+MAXPACK:	4194304
+SQLMODE:	ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[/Applications/MAMP/htdocs/dup-installer/dup-installer-data__[HASH].sql]
+COLLATE FB:	Off
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+ERRORS FOUND:	0
+DROPPED TABLES:	1
+RENAMED TABLES:	0
+QUERIES RAN:	12401
+
+wp_wooactionscheduler_actions: (19)
+wp_wooactionscheduler_claims: (0)
+wp_wooactionscheduler_groups: (2)
+wp_wooactionscheduler_logs: (57)
+wp_woocommentmeta: (0)
+wp_woocomments: (0)
+wp_wooduplicator_packages: (0)
+wp_woolinks: (0)
+wp_wooms_snippets: (0)
+wp_woooptions: (569)
+wp_woopostmeta: (10200)
+wp_wooposts: (613)
+wp_woosnippets: (3)
+wp_wooterm_relationships: (205)
+wp_wooterm_taxonomy: (46)
+wp_wootermmeta: (46)
+wp_wooterms: (46)
+wp_woousermeta: (99)
+wp_woousers: (2)
+wp_woowc_admin_note_actions: (15)
+wp_woowc_admin_notes: (13)
+wp_woowc_category_lookup: (6)
+wp_woowc_customer_lookup: (0)
+wp_woowc_download_log: (0)
+wp_woowc_order_coupon_lookup: (0)
+wp_woowc_order_product_lookup: (0)
+wp_woowc_order_stats: (0)
+wp_woowc_order_tax_lookup: (0)
+wp_woowc_product_meta_lookup: (58)
+wp_woowc_reserved_stock: (0)
+wp_woowc_tax_rate_classes: (2)
+wp_woowc_webhooks: (0)
+wp_woowoocommerce_api_keys: (0)
+wp_woowoocommerce_attribute_taxonomies: (3)
+wp_woowoocommerce_downloadable_product_permissions: (0)
+wp_woowoocommerce_log: (0)
+wp_woowoocommerce_order_itemmeta: (0)
+wp_woowoocommerce_order_items: (0)
+wp_woowoocommerce_payment_tokenmeta: (0)
+wp_woowoocommerce_payment_tokens: (0)
+wp_woowoocommerce_sessions: (4)
+wp_woowoocommerce_shipping_zone_locations: (0)
+wp_woowoocommerce_shipping_zone_methods: (0)
+wp_woowoocommerce_shipping_zones: (0)
+wp_woowoocommerce_tax_rate_locations: (0)
+wp_woowoocommerce_tax_rates: (0)
+wp_woowoof_query_cache: (0)
+wp_woowpf_filters: (1)
+wp_woowpf_modules: (10)
+wp_woowpf_modules_type: (2)
+wp_woowpf_usage_stat: (1)
+wp_wooyoast_indexable: (52)
+wp_wooyoast_indexable_hierarchy: (0)
+wp_wooyoast_migrations: (17)
+wp_wooyoast_primary_term: (0)
+wp_wooyoast_seo_links: (7)
+wp_wooyoast_seo_meta: (21)
+Removed '222' cache/transient rows
+
+INSERT DATA RUNTIME: 2.7506 sec.
+STEP-2 COMPLETE @ 12:10:49 - RUNTIME: 2.7616 sec.
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 12:10:53
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+blogname______________: "Perspectives Studio Gallery"
+postguid______________: false
+fullsearch____________: false
+path_old______________: "/home/hujpxjs/store"
+path_new______________: "/Applications/MAMP/htdocs"
+siteurl_______________: "http://localhost"
+url_old_______________: "http://www.store.perspectivesparis.com"
+url_new_______________: "http://localhost"
+maxSerializeStrlen____: 4000000
+replaceMail___________: false
+dbcharset_____________: "utf8"
+dbcollate_____________: "utf8_general_ci"
+wp_mail_______________: ""
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+ssl_admin_____________: false
+cache_wp______________: false
+cache_path____________: false
+exe_safe_mode_________: false
+config_mode___________: "NEW"
+********************************************************************************
+
+
+====================================
+RUN SEARCH AND REPLACE
+====================================
+
+EVALUATE TABLE: "wp_wooactionscheduler_actions"___________________[ROWS:    19][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_wooactionscheduler_claims"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wooactionscheduler_groups"____________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_wooactionscheduler_logs"______________________[ROWS:    57][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_woocommentmeta"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocomments"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wooduplicator_packages"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woolinks"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wooms_snippets"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woooptions"___________________________________[ROWS:   569][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_woopostmeta"__________________________________[ROWS: 10200][PG:   3][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_wooposts"_____________________________________[ROWS:   613][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_woosnippets"__________________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_wooterm_relationships"________________________[ROWS:   205][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_wooterm_taxonomy"_____________________________[ROWS:    46][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_wootermmeta"__________________________________[ROWS:    46][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_wooterms"_____________________________________[ROWS:    46][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_woousermeta"__________________________________[ROWS:    99][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_woousers"_____________________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_woowc_admin_note_actions"_____________________[ROWS:    15][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_woowc_admin_notes"____________________________[ROWS:    13][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_woowc_category_lookup"________________________[ROWS:     6][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_woowc_customer_lookup"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woowc_download_log"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woowc_order_coupon_lookup"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woowc_order_product_lookup"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woowc_order_stats"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woowc_order_tax_lookup"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woowc_product_meta_lookup"____________________[ROWS:    58][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_woowc_reserved_stock"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woowc_tax_rate_classes"_______________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_woowc_webhooks"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woowoocommerce_api_keys"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woowoocommerce_attribute_taxonomies"__________[ROWS:     3][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_woowoocommerce_downloadable_product_permissions"[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woowoocommerce_log"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woowoocommerce_order_itemmeta"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woowoocommerce_order_items"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woowoocommerce_payment_tokenmeta"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woowoocommerce_payment_tokens"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woowoocommerce_sessions"______________________[ROWS:     4][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_woowoocommerce_shipping_zone_locations"_______[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woowoocommerce_shipping_zone_methods"_________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woowoocommerce_shipping_zones"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woowoocommerce_tax_rate_locations"____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woowoocommerce_tax_rates"_____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woowoof_query_cache"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woowpf_filters"_______________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_woowpf_modules"_______________________________[ROWS:    10][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_woowpf_modules_type"__________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_woowpf_usage_stat"____________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_wooyoast_indexable"___________________________[ROWS:    52][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_wooyoast_indexable_hierarchy"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wooyoast_migrations"__________________________[ROWS:    17][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_wooyoast_primary_term"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wooyoast_seo_links"___________________________[ROWS:     7][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_wooyoast_seo_meta"____________________________[ROWS:    21][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/hujpxjs/store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  2:"\/home\/hujpxjs\/store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  3:"%2Fhome%2Fhujpxjs%2Fstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  4:"\home\hujpxjs\store" =============================> "/Applications/MAMP/htdocs"
+	SEARCH  5:"\\home\\hujpxjs\\store" ==========================> "\/Applications\/MAMP\/htdocs"
+	SEARCH  6:"%5Chome%5Chujpxjs%5Cstore" =======================> "%2FApplications%2FMAMP%2Fhtdocs"
+	SEARCH  7:"//www.store.perspectivesparis.com" ===============> "//localhost"
+	SEARCH  8:"\/\/www.store.perspectivesparis.com" =============> "\/\/localhost"
+	SEARCH  9:"%2F%2Fwww.store.perspectivesparis.com" ===========> "%2F%2Flocalhost"
+	SEARCH 10:"//store.perspectivesparis.com" ===================> "//localhost"
+	SEARCH 11:"\/\/store.perspectivesparis.com" =================> "\/\/localhost"
+	SEARCH 12:"%2F%2Fstore.perspectivesparis.com" ===============> "%2F%2Flocalhost"
+	SEARCH 13:"https://localhost" ===============================> "http://localhost"
+	SEARCH 14:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 15:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+--------------------------------------
+SCANNED:	Tables:57 	|	 Rows:12119 	|	 Cells:63305 
+UPDATED:	Tables:7 	|	 Rows:1258 	|	 Cells:1467 
+ERRORS:		0 
+RUNTIME:	1.101500 sec
+
+====================================
+REMOVE LICENSE KEY
+====================================
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE DB_NAME ""samuel""
+	UPDATE DB_USER ""root""
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	REMOVE WPCACHEHOME
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE MODE: "NEW"
+====================================
+- PASS: Successfully created a new .htaccess file.
+- PASS: Existing Apache '.htaccess__[HASH]' was removed
+
+====================================
+GENERAL UPDATES & CLEANUP
+====================================
+
+====================================
+DEACTIVATE PLUGINS CHECK
+====================================
+Deactivated plugins list here: Array
+(
+    [0] => really-simple-ssl/rlrsssl-really-simple-ssl.php
+    [1] => simple-google-recaptcha/simple-google-recaptcha.php
+    [2] => js_composer/js_composer.php
+)
+
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+
+====================================
+CLEANUP TMP FILES
+====================================
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 12:10:54 - RUNTIME: 1.1444 sec. 
+
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[INFO] No general notices
+	SECTIONS: general
+
+-----------------------
+[INFO] No errors in database
+	SECTIONS: database
+
+-----------------------
+[INFO] No search and replace data errors
+	SECTIONS: search_replace
+
+-----------------------
+[INFO] No files extraction errors
+	SECTIONS: files
+
+====================================

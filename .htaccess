@@ -1,9 +1,7 @@
-# This file was updated by Duplicator Pro on 2020-07-06 20:45:13.
-# See the original_files_ folder for the original source_site_htaccess file.
+#This Apache config file was created by Duplicator Installer on 2020-08-30 12:10:53.
+#The original can be found in archived file with the name .htaccess__[HASH]
+
 # BEGIN WordPress
-# The directives (lines) between `BEGIN WordPress` and `END WordPress` are
-# dynamically generated, and should only be modified via WordPress filters.
-# Any changes to the directives between these markers will be overwritten.
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteBase /
@@ -12,5 +10,4 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /index.php [L]
 </IfModule>
-
 # END WordPress
